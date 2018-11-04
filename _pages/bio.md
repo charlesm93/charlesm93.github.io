@@ -1,5 +1,6 @@
 ---
-title: Bio
+layout: archive
+title: "Bio"
 permalink: /bio/
 author_profile: yes
 ---
