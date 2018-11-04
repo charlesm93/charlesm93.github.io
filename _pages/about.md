@@ -16,7 +16,7 @@ Here's my work in a nutshell.
 I focus on the development and application of novel statistical methods
 to the life and physical sciences.
 The search for robust techniques to build, fit, and criticize quantiative models
-has lead me to Bayesian statistics and its computational implementations.
+has led me to Bayesian statistics and its computational implementations.
 I find that many modern problems require an interdisciplinary approach,
 which is why I enjoy collaborating with experts from various disciplines.
 

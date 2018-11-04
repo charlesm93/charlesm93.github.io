@@ -8,9 +8,6 @@ author_profile: yes
 Currently, I'm a PhD student in statistics at Columbia University,
 advised by professor [Andrew Gelman](http://www.stat.columbia.edu/~gelman/).
 
-I'll share my academic track in some details, in the hope of helping aspiring
-researchers.
-
 After completing my high-school diploma in France, I moved the U.S and studied
 Physics at Yale University.
 There I did research with the Astronomy department and the
@@ -27,7 +24,7 @@ Of particular concern to me was properly characterizing uncertainy and decouplin
 signal and noise.
 
 By the time I was a senior, I wanted to learn more about statistics and
-work on more applied problems. 
+try to do research on more applied problems. 
 After graduating in May 2015, I joined [Metrum Research Group](https://metrumrg.com/),
 a biomedical lab that specializes in modeling and simulation.
 There, I completed a one-year pharmacometrics bootcamp in Hartford, CT,
