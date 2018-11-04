@@ -17,8 +17,8 @@ which is why I enjoy collaborating with experts from various disciplines.
 I moreover believe a scientist's loyality should be to a problem, not a field.
 
 This website contains an overview of my research, as well as additional resources
-I have found helpful. Do not hesitate to reach out: I'm always happy to talk
-science, be it about a specific problem or more abstract ideas.
+you might find helpful. Do not hesitate to reach out: I'm always happy to talk
+science, be it about a specific problem, more general ideas, or teaching.
 
 
 I'm Ph.D student in statistics at Columbia University,

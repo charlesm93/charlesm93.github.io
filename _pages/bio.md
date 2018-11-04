@@ -1,10 +1,6 @@
 ---
-title: Home
-excerpt: About me
-permalink: /
-redirect_from:
-- /about/
-- /about.html
+title: Bio
+permalink: /bio/
 author_profile: yes
 ---
 
