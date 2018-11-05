@@ -21,6 +21,6 @@ I find that many modern problems require an interdisciplinary approach,
 which is why I enjoy collaborating with experts from various disciplines.
 
 I'm best known as a developer of the Bayesian inference software
-[Stan](mc-stan.org) and the co-creator of 
+[Stan](http://mc-stan.org/) and the co-creator of 
 [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension
 of Stan for pharmacometrics models.

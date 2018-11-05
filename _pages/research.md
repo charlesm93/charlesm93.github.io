@@ -14,16 +14,16 @@ To make the most of our data, we need principled workflows to build, fit,
 and criticize our models.
 This can only be done if our computational tools allow us to express our scientific
 ideas and make accurate inference.
-Since we will break, debug, and improve our models many times, we need to go through
-each of these steps swiftly.
-Hence, our tools must be expressive, accurate, and fast.
+Since we will break, debug, and improve our models many times, we also need algorithms
+that run efficiently.
+Moreover, our tools must be expressive, accurate, and fast.
 
 I work on the development of such tools and their software implementation,
-primarly in the probabilitic programing language [Stan](mc-stan.org).
+primarly in the probabilitic programing language [Stan](http://mc-stan.org/).
 The main inference algorithm we use is Hamilton Monte Carlo (HMC), a sampling
-algorithm which uses principles of mathematical physics.
+algorithm that uses principles of mathematical physics.
 One requirement for this algorithm is the computation of gradients
-for sometimes very complex distributions.
+of sometimes very complex distributions.
 This problem is best tackled by clever implementations of _automatic
 differentiation_.
 
@@ -39,14 +39,14 @@ Most models in pharmacometrics are based on systems of ordinary differential equ
 propagate derivatives through them.
 We must furthermore model the treatment patients undergo, formally known as the _event schedule_.
 To address these issues, I develop general purpose tools for ODE-based models in
-Stan. With colleagues at [Metrum](metrumrg.com), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension of Stan with
+Stan. With colleagues at [Metrum](https://metrumrg.com/), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension of Stan with
 specialized routines for pharmacometrics.
 
 Articles and talks on the subject include:
 
 * (2018) Computing Steady States with Stan's Nonlinear Algebraic Solver [[article](https://www.researchgate.net/publication/323834530_Computing_steady_states_with_Stan's_nonlinear_algebraic_solver), [code](https://github.com/stan-dev/stancon_talks/tree/master/2018/Contributed-Talks/08_margossian), [talk](https://www.youtube.com/watch?v=JhwZIX5ryw0&feature=youtu.be)]
-* (2017) Gaining Efficiency by Combining Analytical and Numerical Methods to Solve ODEs: Implementation in Stan and Application to Bayesian PK/PD Modeling (with Bill Gillespie) [[poster]()]
-* (2017) Differential equation based models in Stan (with Bill Gillespie) [[article](https://www.researchgate.net/publication/323834259_Differential_equation_based_models_in_Stan), [code](https://github.com/stan-dev/stancon_talks/tree/master/2017/Contributed-Talks/05_margossian), [talk](https://www.youtube.com/watch?v=DJ0c7Bm5Djk&feature=youtu.be&t=2h53m26s)]
+* (2017) Gaining Efficiency by Combining Analytical and Numerical Methods to Solve ODEs: Implementation in Stan and Application to Bayesian PK/PD Modeling (with Bill Gillespie) [[poster](https://www.researchgate.net/publication/323834519_Gaining_efficiency_by_combining_analytical_and_numerical_methods_to_solve_ODEs_Implementation_in_Stan_and_application_to_Bayesian_PKPD_modeling)]
+* (2017) Differential equation based models in Stan (with Bill Gillespie) [[article](http://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html), [code](https://github.com/stan-dev/stancon_talks/tree/master/2017/Contributed-Talks/05_margossian), [talk](https://www.youtube.com/watch?v=DJ0c7Bm5Djk&feature=youtu.be&t=2h53m26s)]
 * (2016) Stan Functions for pharmacometrics (with Bill Gillespie) [[poster](https://www.researchgate.net/publication/323834461_Stan_functions_for_pharmacometrics_modeling)]
 
 My colleagues and I also work hard to write software documentation:

@@ -14,12 +14,15 @@ I did research in the Astronomy department with the
 [exoplanet group](http://exoplanets.astro.yale.edu/), under the supervision
 of professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
 and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/).
-My undergraduate thesis was on close-in giant planets and how they increase the
+My undergraduate thesis was on close-in giant planets and how they effect the
 stellar magnetic activity of their host stars.
 I also did related work on measuring stellar rotation periods and estimating
 the age of stars.
 These research projects were all coding and data intensive,
 and exposed me to many statistical problems.
+Challenges included properly characterizing uncertainty,
+and identifying false-positive signals.
+
 Of particular concern to me was properly characterizing uncertainy, and decoupling
 signal and noise.
 
@@ -30,15 +33,15 @@ a biomedical lab that specializes in modeling and simulation.
 There, I completed a one-year pharmacometrics bootcamp in Hartford, CT,
 and continued as a visiting scientist for another year, in Boston, MA.
 I worked closely with [Bill Gillespie](https://metrumrg.com/team_member/william-r-gillespie-ph-d/)
-on the development of computational tools to do Bayesian modeling for biomedical applications.
+on the development of computational tools to do Bayesian inference, with biomedical applications in mind.
 We started a collaboration with the Stan development team, and Andrew Gelman's group
 at Columbia.
 
 I then faced the difficult choice of returning to Physics for graduate school,
 diving deeper into Statistics, or even joining a Quantitative Biomedicine program.
 When making a decision, I was helped by a, perhaps misinterpreted, quote from Jean-Paul Sartres:
-"You're free to choose, that is invent." Eventually, I joined the PhD program in Statistics
-at Columbia (aftet flipping a coin multiple times), 
+"You're free: choose, that is invent." Eventually, I joined the PhD program in Statistics
+at Columbia, 
 eager to "invent" my own path and expose myself to all the disciplines
 that could help me solve the problems I was interested in.
 I like to think my loyality is to a problem, not a field, though realistically,
