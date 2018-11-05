@@ -20,7 +20,7 @@ Moreover, our tools must be expressive, accurate, and fast.
 
 I work on the development of such tools and their software implementation,
 primarly in the probabilitic programing language [Stan](http://mc-stan.org/).
-The main inference algorithm we use is Hamilton Monte Carlo (HMC), a sampling
+The main inference technique we use is Hamilton Monte Carlo (HMC), a sampling
 algorithm that uses principles of mathematical physics.
 One requirement for this algorithm is the computation of gradients
 of sometimes very complex distributions.
@@ -52,7 +52,7 @@ Articles and talks on the subject include:
 My colleagues and I also work hard to write software documentation:
 
 * The Stan Book (with the Stan development team) [[manual](http://www.stat.columbia.edu/~gelman/bda.course/_book/)]
-* Torsten User Manual (with Bill Gillespie and Yi Zhang) [[manual](https://metrumresearchgroup.github.io/Torsten/)]
+* Torsten User Manual (with Bill Gillespie and [Yi Zhang](https://metrumrg.com/team_member/yi-zhang-ph-d/)) [[manual](https://metrumresearchgroup.github.io/Torsten/)]
 
 Finally, since these projects are open-source, I make an effort to document their internal
 workings and help interested contributors jump in:

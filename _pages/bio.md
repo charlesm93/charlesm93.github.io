@@ -9,22 +9,19 @@ Currently, I'm a PhD student in statistics at Columbia University,
 advised by professor [Andrew Gelman](http://www.stat.columbia.edu/~gelman/).
 
 I was borned and raised in Paris, France. After graduating from high-school,
-I moved the U.S and studied Physics at Yale University.
+I moved to the U.S and studied Physics at Yale University.
 I did research in the Astronomy department with the
 [exoplanet group](http://exoplanets.astro.yale.edu/), under the supervision
 of professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
 and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/).
 My undergraduate thesis was on close-in giant planets and how they effect the
-stellar magnetic activity of their host stars.
-I also did related work on measuring stellar rotation periods and estimating
-the age of stars.
+magnetic activity of their host stars.
+I also did related work on estimating the rotation period and age
+of stars the Kepler field.
 These research projects were all coding and data intensive,
 and exposed me to many statistical problems.
 Challenges included properly characterizing uncertainty,
 and identifying false-positive signals.
-
-Of particular concern to me was properly characterizing uncertainy, and decoupling
-signal and noise.
 
 By the time I was a senior, I wanted to learn more about statistics and
 do research on more applied problems. 
