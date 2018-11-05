@@ -10,7 +10,7 @@ advised by professor [Andrew Gelman](http://www.stat.columbia.edu/~gelman/).
 
 After completing my high-school diploma in France, I moved the U.S and studied
 Physics at Yale University.
-There I did research with the Astronomy department and the
+There I did research in the Astronomy department with the
 [exoplanet group](http://exoplanets.astro.yale.edu/).
 With professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
 and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/) as my advisors,
@@ -24,7 +24,7 @@ Of particular concern to me was properly characterizing uncertainy and decouplin
 signal and noise.
 
 By the time I was a senior, I wanted to learn more about statistics and
-try to do research on more applied problems. 
+do research on more applied problems. 
 After graduating in May 2015, I joined [Metrum Research Group](https://metrumrg.com/),
 a biomedical lab that specializes in modeling and simulation.
 There, I completed a one-year pharmacometrics bootcamp in Hartford, CT,
@@ -33,11 +33,10 @@ I worked closely with [Bill Gillespie](https://metrumrg.com/team_member/william-
 on the development of computational tools to do Bayesian modeling for biomedical applications.
 We started a collaboration with the Stan development team, and Andrew Gelman's group
 at Columbia.
-This is when I became a Stan developer, and also when Bill and I invented Torsten.
 
 I then faced the difficult choice of returning to Physics for graduate school,
 diving deeper into Statistics, or even joining a Quantitative Biomedicine program.
-When making a decision, I was helped by a, perhaps misinterpreted, citation of Jean-Paul Sartres:
+When making a decision, I was helped by a, perhaps misinterpreted, quote from Jean-Paul Sartres:
 "You're free to choose, that is invent." Eventually, I joined the PhD program in Statistics
 at Columbia (aftet flipping a coin multiple times), 
 eager to "invent" my own path and expose myself to all the disciplines
@@ -54,7 +53,7 @@ As an undergraduate, I was a member of [Just Add Water](http://www.justaddwatery
 a comedy group that does both short form and musical improv.
 In Hartford, I co-founded the Albatross, which still plays at the [Seat Tea](https://seateaimprov.com/) theater.
 I have not been improvising on a regular basis lately, but I attend the occasional jam.
-I would love to work with a musical group, provided we can find a pianist who's up to the task.
+I would love to work with a musical group, provided we can find a pianist.
 
 Other than that, I sometimes draw cartoons and I'm always down for a pick-up soccer game. 
 I've started doing ballroom dancing, which
