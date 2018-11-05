@@ -14,7 +14,7 @@ I did research in the Astronomy department with the
 [exoplanet group](http://exoplanets.astro.yale.edu/), under the supervision
 of professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
 and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/).
-My undergraduate thesis on close-in giant planets and how they increase the
+My undergraduate thesis was on close-in giant planets and how they increase the
 stellar magnetic activity of their host stars.
 I also did related work on measuring stellar rotation periods and estimating
 the age of stars.
