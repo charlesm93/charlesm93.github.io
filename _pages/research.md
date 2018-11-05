@@ -13,10 +13,10 @@ Here, I'll also lay out other projects and resources.
 To make the most of our data, we need principled workflows to build, fit,
 and criticize our models.
 This can only be done if our computational tools allow us to express our scientific
-ideas, and make accurate inference.
+ideas and make accurate inference.
 Since we will break, debug, and improve our models many times, we need to go through
-each step of these steps swiftly.
-Hence, our tools need to be expressive, accurate, and fast.
+each of these steps swiftly.
+Hence, our tools must be expressive, accurate, and fast.
 
 I work on the development of such tools and their software implementation,
 primarly in the probabilitic programing language [Stan](mc-stan.org).
@@ -24,7 +24,7 @@ The main inference algorithm we use is Hamilton Monte Carlo (HMC), a sampling
 algorithm which uses principles of mathematical physics.
 One requirement for this algorithm is the computation of gradients
 for sometimes very complex distributions.
-This is problem is best tackled by clever implementations of _automatic
+This problem is best tackled by clever implementations of _automatic
 differentiation_.
 
 I've recently started thinking about ways to combine HMC with variational inference
@@ -32,14 +32,14 @@ methods, which leads to the approximate but fast computation of posterior sample
 I'm also trying to understand and improve the behavior of HMC, when dealing
 with discontinuous distributions (see [post](https://discourse.mc-stan.org/t/non-smooth-posterior-and-kkt-problem/6281)).
 
-#### Applications in pharmacometrics
+### Applications in pharmacometrics
 
 Most models in pharmacometrics are based on systems of ordinary differential equations
 (ODEs). To do inference on such models, we not only need to solve ODEs, but also to
 propagate derivatives through them.
 We must furthermore model the treatment patients undergo, formally known as the _event schedule_.
 To address these issues, I develop general purpose tools for ODE-based models in
-Stan. With colleagues at Metrum, I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension of Stan with
+Stan. With colleagues at [Metrum](metrumrg.com), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension of Stan with
 specialized routines for pharmacometrics.
 
 Articles and talks on the subject include:
@@ -60,7 +60,7 @@ workings and help interested contributors jump in:
 * (2018) Technical appendix for Torsten [[technical report](https://github.com/charlesm93/presentations-and-writing/blob/master/TorstenAppendix/Torsten_appendix.pdf)]
 * Contributing New Functions to Stan (with some colleagues on the Stan development team) [[wiki page](https://github.com/stan-dev/stan/wiki/Contributing-New-Functions-to-Stan)]
 
-#### Simulation in pharmacometrics
+### Simulation in pharmacometrics
 
 I'm a contributor to the R package [mrgsolve](https://github.com/metrumresearchgroup/mrgsolve), which can be used to simulate data from pharmacometrics models.
 
