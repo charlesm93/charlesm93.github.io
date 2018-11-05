@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: no
 ---
 
-I try to post my more formal work on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
+I try to post formal articles on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
 Here, I'll also lay out other projects and resources.
 
 ### Bayesian modeling
@@ -45,7 +45,7 @@ specialized routines for pharmacometrics.
 Articles and talks on the subject include:
 
 * (2018) Computing Steady States with Stan's Nonlinear Algebraic Solver [[article](https://www.researchgate.net/publication/323834530_Computing_steady_states_with_Stan's_nonlinear_algebraic_solver), [code](https://github.com/stan-dev/stancon_talks/tree/master/2018/Contributed-Talks/08_margossian), [talk](https://www.youtube.com/watch?v=JhwZIX5ryw0&feature=youtu.be)]
-* (2017) Gaining Efficiency by Combining Analytical and Numerical Methods to SolveODEs: Implementation in Stan and Application to Bayesian PK/PD Modeling (with Bill Gillespie) [[poster]()]
+* (2017) Gaining Efficiency by Combining Analytical and Numerical Methods to Solve ODEs: Implementation in Stan and Application to Bayesian PK/PD Modeling (with Bill Gillespie) [[poster]()]
 * (2017) Differential equation based models in Stan (with Bill Gillespie) [[article](https://www.researchgate.net/publication/323834259_Differential_equation_based_models_in_Stan), [code](https://github.com/stan-dev/stancon_talks/tree/master/2017/Contributed-Talks/05_margossian), [talk](https://www.youtube.com/watch?v=DJ0c7Bm5Djk&feature=youtu.be&t=2h53m26s)]
 * (2016) Stan Functions for pharmacometrics (with Bill Gillespie) [[poster](https://www.researchgate.net/publication/323834461_Stan_functions_for_pharmacometrics_modeling)]
 

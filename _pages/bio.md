@@ -8,24 +8,24 @@ author_profile: no
 Currently, I'm a PhD student in statistics at Columbia University,
 advised by professor [Andrew Gelman](http://www.stat.columbia.edu/~gelman/).
 
-After completing my high-school diploma in France, I moved the U.S and studied
-Physics at Yale University.
-There I did research in the Astronomy department with the
-[exoplanet group](http://exoplanets.astro.yale.edu/).
-With professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
-and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/) as my advisors,
-I wrote my undergraduate thesis on
-_Testing the effects of close-in giant planets on stellar magnetic activity_.
+I was borned and raised in Paris, France. After graduating from high-school,
+I moved the U.S and studied Physics at Yale University.
+I did research in the Astronomy department with the
+[exoplanet group](http://exoplanets.astro.yale.edu/), under the supervision
+of professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
+and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/).
+My undergraduate thesis on close-in giant planets and how they increase the
+stellar magnetic activity of their host stars.
 I also did related work on measuring stellar rotation periods and estimating
 the age of stars.
 These research projects were all coding and data intensive,
 and exposed me to many statistical problems.
-Of particular concern to me was properly characterizing uncertainy and decoupling
+Of particular concern to me was properly characterizing uncertainy, and decoupling
 signal and noise.
 
 By the time I was a senior, I wanted to learn more about statistics and
 do research on more applied problems. 
-After graduating in May 2015, I joined [Metrum Research Group](https://metrumrg.com/),
+I joined [Metrum Research Group](https://metrumrg.com/),
 a biomedical lab that specializes in modeling and simulation.
 There, I completed a one-year pharmacometrics bootcamp in Hartford, CT,
 and continued as a visiting scientist for another year, in Boston, MA.
@@ -46,7 +46,7 @@ this is only true to some degree.
 
 My time in New York so far has been mostly spent on coursework and formalizing my understanding
 of mathematical statistics. I still do research and I also work as a teacher assistant.
-And I spend a lot of time wondering what I'm going to write my dissertation on.
+The next step for me is to figure out what I'm going to write my dissertation on.
 
 ### Hobbies
 As an undergraduate, I was a member of [Just Add Water](http://www.justaddwateryale.com/),
