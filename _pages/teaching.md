@@ -34,8 +34,8 @@ Courses at Columbia:
 
 Workshops:
 
-* (2017) _Stan for Physics_, Massachusetts Institute of Technology, Cambridge, MA,
+* (2017) _Stan for Physics_, Massachusetts Institute of Technology, Cambridge, MA
 (5 days workshop, taught by [Michael Betancourt](https://betanalpha.github.io))
-* (2017) _Getting Started with Bayesian PKPD Modeling using Stan and Torsten_, Population Approach Group in Europe 26, Budapest, Hungary, (1 day workshop, taught by [Bill Gillespie](https://metrumrg.com/team_member/william-r-gillespie-ph-d/))
-* (2017) _Getting Started with Bayesian PKPD Modeling using Stan_, American Conference on Pharmacometrics 7, Bellevue, WA, (1 day workshop, taught by Bill Gillespie)
-* (2016) _Getting Started with Bayesian PKPD Modeling using Stan_, American Conference on Pharmacometrics 6, Arlington, VA, (1 day workshop, taught by Bill Gillespie)
+* (2017) _Getting Started with Bayesian PKPD Modeling using Stan and Torsten_, Population Approach Group in Europe 26, Budapest, Hungary (1 day workshop, taught by [Bill Gillespie](https://metrumrg.com/team_member/william-r-gillespie-ph-d/))
+* (2017) _Getting Started with Bayesian PKPD Modeling using Stan_, American Conference on Pharmacometrics 7, Bellevue, WA (1 day workshop, taught by Bill Gillespie)
+* (2016) _Getting Started with Bayesian PKPD Modeling using Stan_, American Conference on Pharmacometrics 6, Arlington, VA (1 day workshop, taught by Bill Gillespie)

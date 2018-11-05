@@ -2,7 +2,7 @@
 # layout: archive
 title: "Research"
 permalink: /research/
-author_profile: yes
+author_profile: no
 ---
 
 I try to post my more formal work on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
