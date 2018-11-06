@@ -52,7 +52,7 @@ Articles and talks on the subject include:
 My colleagues and I also work hard to write software documentation:
 
 * The Stan Book (with the Stan development team) [[manual](http://www.stat.columbia.edu/~gelman/bda.course/_book/)]
-* Torsten User Manual (with Bill Gillespie and [Yi Zhang](https://metrumrg.com/team_member/yi-zhang-ph-d/)) [[manual](https://metrumresearchgroup.github.io/Torsten/)]
+* Torsten User Manual (with Bill Gillespie and Yi Zhang) [[manual](https://metrumresearchgroup.github.io/Torsten/)]
 
 Finally, since these projects are open-source, I make an effort to document their internal
 workings and help interested contributors jump in:
