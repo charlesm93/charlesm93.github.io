@@ -15,9 +15,9 @@ I did research in the Astronomy department with the
 of professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
 and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/).
 My undergraduate thesis was on close-in giant planets and how they effect the
-magnetic activity of their host stars.
+magnetic activity of their host star.
 I also did related work on estimating the rotation period and age
-of stars the Kepler field.
+of stars in the Kepler field.
 These research projects were all coding and data intensive,
 and exposed me to many statistical problems.
 Challenges included properly characterizing uncertainty,
