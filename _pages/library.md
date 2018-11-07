@@ -11,9 +11,8 @@ as a researcher and a student.
 This is by no means an exhaustive bibliography, rather a list of personal favorites.
 I'm very open to recommendations, if you have some suggestions.
 
-<div style="text-align:right"><img src="../images/Books.png" alt="hi" class="inline"/>
+<img src="../images/Books.png" alt="hi" class="inline"/>
 
-<div style="text-align:left">
 
 
 
