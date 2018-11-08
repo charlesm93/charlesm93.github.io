@@ -1,10 +1,10 @@
 ---
 # layout: archive
-title: "<img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;"> Library"
+title: "Library"
 permalink: /library/
 author_profile: no
 ---
-
+<img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;">
 
 Here are some papers, books, and other resources I have found helpful,
 as a researcher and a student.
