@@ -1,6 +1,6 @@
 ---
 # layout: archive
-title: "Library"
+title: "<img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;"> Library"
 permalink: /library/
 author_profile: no
 ---
@@ -11,7 +11,7 @@ as a researcher and a student.
 This is by no means an exhaustive bibliography, rather a (partial) list of personal favorites.
 I'm very open to recommendations, if you have some suggestions.
 
-### Conceptual articles <img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;">
+### Conceptual articles
 
 These articles discuss the roles of a model and various
 approaches to analyzing data. While they are conceptual and even have a philosophical flavor,
