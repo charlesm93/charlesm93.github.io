@@ -8,21 +8,14 @@ author_profile: no
 
 Here are some papers, books, and other resources I have found helpful,
 as a researcher and a student.
-This is by no means an exhaustive bibliography, rather a list of personal favorites.
-Naturally, I'm biased torwards the work of my colleagues. 
+This is by no means an exhaustive bibliography, rather a (partial) list of personal favorites.
 I'm very open to recommendations, if you have some suggestions.
-Ah, and disclaimer, I do not endorse everything said in these documents;
-but I do find them all engaging.
 
-<img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;">
+### Conceptual articles <img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;">
 
-
-
-### Conceptual articles
-
-These are articles that discuss the roles of a model and various
+These articles discuss the roles of a model and various
 approaches to analyzing data. While they are conceptual and even have a philosophical flavor,
-they still address very concrete issues. Ok, the last one is a bit out there, but it does
+they still address very concrete issues. The last one is a bit out there, but it does
 talk about science and our way of apprehending reality.
 
 * **Mathematics for understanding disease** by Robert R. Bies, Marc R. Gastonguay, and Sorell. L. Schwartz.
@@ -49,7 +42,7 @@ Very close to home:
 
 ### Algorithms and numerical methods
 
-Your code (be it for a model or a software) is at its best when you understand the math,
+Your code (be it for a specific model or a general purpose tool) is at its best when you understand the math,
 and more broadly the technical details. Sometimes, you need to break the black box open.
 Here are some helpful places to start at:
 
@@ -60,16 +53,9 @@ Here are some helpful places to start at:
 
 ### Mathematical statistics
 
-Time for theory. Honestly, I need to do more of it.
-Here are some great books with a proper mathematical treatment of statistics:
+Here are some great books with a proper mathematical treatment of statistics.
 
 * **Statistical Inference** by George Casella and Roger Berger.
 * **Theoretical Statistics** by Robert Keener. *Note: more advanced than the previous. PhD level.*
 
-
-
-
-
-
-
-
+Unfortunately, it is not always clear how to bridge the theory and the applications.
