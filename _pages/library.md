@@ -14,7 +14,7 @@ I'm very open to recommendations, if you have some suggestions.
 Ah, and disclaimer, I do not endorse everything said in these documents;
 but I do find them all engaging.
 
-<img src="../images/Books.png" alt="hi" class="inline"/ style="width:50;height:75px;">
+<img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;">
 
 
 
