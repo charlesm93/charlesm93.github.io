@@ -24,3 +24,5 @@ I'm best known as a developer of the Bayesian inference software
 [Stan](http://mc-stan.org/) and the co-creator of 
 [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension
 of Stan for pharmacometrics models.
+You can find out more by browsing this website or looking at my
+[CV](http://charlesm93.github.io/files/charlesm-2018.pdf).
