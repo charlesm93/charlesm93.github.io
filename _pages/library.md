@@ -47,7 +47,7 @@ and more broadly the technical details. Sometimes, you need to break the black b
 Here are some helpful places to start at:
 
 * **A Conceptual Introduction to Hamiltonian Monte Carlo** by Michael Betancourt [[link](https://arxiv.org/abs/1701.02434)]
-* **Automatic differentiation in machine learning: a survey** by Atilim G. Baydin et al. [[link](https://arxiv.org/abs/1502.05767)] *Note: this is a great introduction, in part because it compares automatic differentiation to other methods to compute derivatives. Other note: I myself wrote a review on the topic, which in many ways complements this survey (the manuscript is currently being peer-reviewed).*
+* **Automatic differentiation in machine learning: a survey** by Atilim G. Baydin et al. [[link](https://arxiv.org/abs/1502.05767)] *Note: this is a great introduction, in part because it compares automatic differentiation to other methods to compute derivatives. Other note: I myself wrote a review on the topic, which in certain ways complements this survey. You may find a preprint on the research page.*
 * **The Stan Math Library: Reverse-Mode Automatic Differentiation in C++** by Bob Carpenter et al.[[link](https://arxiv.org/abs/1509.07164)] *Note: this really gets into the details of how autodiff is implemented in Stan. Very enlightning but very dense read.* 
 * **Numerical Recipes: the art of scientific computing** by William H. Press. *Note: an old book, which I took from an uncle's library. Very handy.*
 

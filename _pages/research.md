@@ -25,7 +25,9 @@ algorithm that uses principles of mathematical physics.
 One requirement for this algorithm is the computation of gradients
 of sometimes very complex distributions.
 This problem is best tackled by clever implementations of _automatic
-differentiation_.
+differentiation_. I am currently writing a review on the latter. For a preprint, see:
+
+* (2018) A Review of automatic differentiation and its efficient implementation [[preprint](https://arxiv.org/abs/1811.05031)]
 
 I've recently started thinking about ways to combine HMC with variational inference
 methods, which leads to the approximate but fast computation of posterior samples.
