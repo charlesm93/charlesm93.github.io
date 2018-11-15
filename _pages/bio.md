@@ -36,7 +36,7 @@ at Columbia.
 
 I then faced the difficult choice of returning to Physics for graduate school,
 diving deeper into Statistics, or even joining a Quantitative Biomedicine program.
-When making a decision, I was helped by a, perhaps misinterpreted, quote from Jean-Paul Sartres:
+When making a decision, I was helped by a, perhaps misinterpreted, quote from Jean-Paul Sartre:
 "You're free: choose, that is invent." Eventually, I joined the PhD program in Statistics
 at Columbia, 
 eager to "invent" my own path and expose myself to all the disciplines
