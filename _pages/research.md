@@ -8,6 +8,11 @@ author_profile: no
 I try to post formal articles on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
 Here, I'll also lay out other projects and resources.
 
+A few keywords:
+
+* **Methods**: generative models, Bayesian inference, probabilistic programing, differential equations, automatic differentiation
+* **Applications**: pharmacometrics, systems biology, astronomy, physics
+
 ### Bayesian modeling
 
 To make the most of our data, we need principled workflows to build, fit,

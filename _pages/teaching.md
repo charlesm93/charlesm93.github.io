@@ -8,11 +8,11 @@ author_profile: no
 In some sense, statistics is the backbone of experimental and observational science.
 But statistics is (really f***ing) hard, and requires a level of mathematics which is not always
 available to practitioners.
-Distilling and communicating important concepts is a bit of an art. 
-Some of my colleagues are very dedicated pedagogues and I try (with various degrees of success)
-to follow their example.
+Distilling and communicating important concepts is a bit of an art, which some my colleagues
+excell in. 
+I try (with various degrees of success) to follow their example.
 
-My teaching experience falls into two categories:
+My work as a teacher falls into two categories:
 I TA courses taught by Columbia's department of statistics,
 and teach or TA workshops targeted at specialists, who may not be statisticians.
 

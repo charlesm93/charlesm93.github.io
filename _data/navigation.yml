@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Bio"
-    url: /bio/
-
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/
-
-#  - title: "CV"
-#    url: /cv/
   
   - title: "Library"
     url: /library/
+
+  - title: "Bio"
+    url: /bio/
 
 #  - title: "Talks"
 #    url: /talks/    
