@@ -19,17 +19,17 @@ and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/).
 My undergraduate thesis was on close-in giant planets and their effect on the
 magnetic activity of their host star.
 I also did related work on estimating the rotation period and age
-of stars observed in the Kepler field.
+of stars in the Kepler field.
 
 By the time I was a senior, I wanted to learn more about statistics
-and try out working in a more applied field.
+and work in a more applied field.
 I joined [Metrum Research Group](https://metrumrg.com/),
 a biomedical lab that specializes in modeling and simulation.
 There, I completed a one-year pharmacometrics bootcamp in Hartford, CT,
 and continued as a visiting scientist for another year, in Boston, MA.
 I worked closely with [Bill Gillespie](https://metrumrg.com/team_member/william-r-gillespie-ph-d/)
 on the mathematical modeling of biomedical processes,
-with an emphasis on Bayesian statistics and the computational implementations thereof.
+with an emphasis on Bayesian statistics and its computational implementations.
 
 I then faced the difficult choice of returning to Physics for graduate school,
 diving deeper into Statistics, or even joining a Quantitative Biomedicine program.
@@ -38,10 +38,10 @@ Jean-Paul Sartre: "You're free: choose, that is invent."
 Eventually, I jointed the PhD program in Statistics at Columbia,
 eager to "invent" my own path and study all the disciplines
 that could help me solve the problems I am interested in.
-After all, a scientist's loyalty should be to a problem, not a field.
+I like to think a scientist's loyalty should be to a problem, not a field.
 
 My time in New York so far has been mostly spent on coursework and formalizing my understanding
-of mathematical statistics. I still do research and I work as a teacher assistant.
+of mathematical statistics. I still do research and work as a teacher assistant.
 
 ### Hobbies
 As an undergraduate, I was a member of [Just Add Water](http://www.justaddwateryale.com/),
