@@ -17,12 +17,12 @@ These articles discuss the roles of a model and various
 approaches to analyzing data. While they are conceptual and even have a philosophical flavor,
 they still address very concrete issues.
 
-* **Mathematics for understanding disease** by Robert R. Bies, Marc R. Gastonguay, and Sorell. L. Schwartz.
-[[link](https://indiana.pure.elsevier.com/en/publications/mathematics-for-understanding-disease)]
- *Absract: The application of mathematical models to reflect the organization and activity of biological systems can be viewed as a continuum of purpose...*
 * **Philosophy and the practice of Bayesian statistics** Andrew Gelman and Cosma Rohilla Shalizi.
 [[link](http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf)]
 *Abstract: [...] We argue that the most successful forms of Bayesian statistics [...] accord much better with sophisticated forms of hypothetico-deductivism...*
+* **Mathematics for understanding disease** by Robert R. Bies, Marc R. Gastonguay, and Sorell. L. Schwartz.
+[[link](https://indiana.pure.elsevier.com/en/publications/mathematics-for-understanding-disease)]
+ *Absract: The application of mathematical models to reflect the organization and activity of biological systems can be viewed as a continuum of purpose...*
 
 ### Tutorials and case studies
 
@@ -41,9 +41,10 @@ and more broadly the technical details. Sometimes, you need to break the black b
 Here are some helpful places to start at:
 
 * **A Conceptual Introduction to Hamiltonian Monte Carlo** by Michael Betancourt [[link](https://arxiv.org/abs/1701.02434)]
-* **Automatic differentiation in machine learning: a survey** by Atilim G. Baydin et al. [[link](https://arxiv.org/abs/1502.05767)] *Note: this is a great introduction, in part because it compares automatic differentiation to other methods to compute derivatives. Other note: I myself wrote a review on the topic, which in certain ways complements this survey. You may find a preprint on the research page.*
-* **The Stan Math Library: Reverse-Mode Automatic Differentiation in C++** by Bob Carpenter et al.[[link](https://arxiv.org/abs/1509.07164)] *Note: this really gets into the details of how autodiff is implemented in Stan. Very enlightning but very dense read.* 
-* **Numerical Recipes: the art of scientific computing** by William H. Press. *Note: an old book, which I took from an uncle's library. Very handy.*
+* **Automatic differentiation in machine learning: a survey** by Atilim G. Baydin et al. [[link](https://arxiv.org/abs/1502.05767)] *This is a great introduction, in part because it compares automatic differentiation to other methods to compute derivatives. Note: I myself wrote a review on the topic, whith a focus on the efficient
+    implementation of autodiff. You may find a preprint on the research page.*
+* **The Stan Math Library: Reverse-Mode Automatic Differentiation in C++** by Bob Carpenter et al.[[link](https://arxiv.org/abs/1509.07164)] *This really gets into the details of how autodiff is implemented in Stan. Very enlightning but very dense read.* 
+* **Numerical Recipes: the art of scientific computing** by William H. Press. *An old book, which I took from an uncle's library. Very handy.*
 
 ### Mathematical statistics
 

@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: no
 ---
 
+
 I try to post formal articles on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
 Here, I'll also lay out other projects and resources.
 
@@ -27,27 +28,24 @@ I work on the development of such tools and their software implementation,
 primarly in the probabilitic programing language [Stan](http://mc-stan.org/).
 The main inference technique we use is Hamilton Monte Carlo (HMC), a sampling
 algorithm that uses principles of mathematical physics.
-One requirement for this algorithm is the computation of gradients
-of sometimes very complex distributions.
+One requirement for this algorithm is the computation of gradients for sometimes very complex distributions.
 This problem is best tackled by clever implementations of _automatic
-differentiation_. I am currently writing a review on the latter. For a preprint, see:
+differentiation_. I wrote a comprehensive review on the subject 
+to appear in _WIRES: data mining and knowledge discovery_:
 
-* (2018) A Review of automatic differentiation and its efficient implementation [[preprint](https://arxiv.org/abs/1811.05031)]
+* (2019) A Review of automatic differentiation and its efficient implementation [[preprint](https://arxiv.org/abs/1811.05031)]
 
-I've recently started thinking about ways to combine HMC with variational inference
-methods, which leads to the approximate but fast computation of posterior samples.
-I'm also trying to understand and improve the behavior of HMC, when dealing
-with discontinuous distributions (see [post](https://discourse.mc-stan.org/t/non-smooth-posterior-and-kkt-problem/6281)).
+I've recently started thinking about fast approximation methods,
+and sampling from discontinuous distributions.
 
 ### Applications in pharmacometrics
 
 Most models in pharmacometrics are based on systems of ordinary differential equations
 (ODEs). To do inference on such models, we not only need to solve ODEs, but also to
 propagate derivatives through them.
-We must furthermore model the treatment patients undergo, formally known as the _event schedule_.
+We must furthermore model the broad array of treatments patients can undergo.
 To address these issues, I develop general purpose tools for ODE-based models in
-Stan. With colleagues at [Metrum](https://metrumrg.com/), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension of Stan with
-specialized routines for pharmacometrics.
+Stan. With colleagues at [Metrum](https://metrumrg.com/), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension of Stan with specialized routines for pharmacometrics.
 
 Articles and talks on the subject include:
 
@@ -69,13 +67,13 @@ workings and help interested contributors jump in:
 
 ### Simulation in pharmacometrics
 
-I'm a contributor to the R package [mrgsolve](https://github.com/metrumresearchgroup/mrgsolve), which can be used to simulate data from pharmacometrics models.
+I'm a contributor to the R package [mrgsolve](https://github.com/metrumresearchgroup/mrgsolve), which can be used to simulate data for pharmacometrics and quantitative systems pharmacology models.
 
 ### Astronomy: the search for extra-solar planets
 
 Some work from when I was an undergraduate at Yale, with the [exoplanet group](http://exoplanets.astro.yale.edu/):
 
-* (2015) Testing the effects of close-in giant planets on stellar magnetic activity [senior thesis]
+* (2015) Testing the effects of close-in giant planets on stellar magnetic activity (senior thesis)
 * (2014) Planet Hunters. VII. Discovery of a new low-mass, low-density (PH3 C) orbiting Kepler-289
 with mass measurements of two additional plamets of two additional planets (PH3 B and D) (by Joseph Schmitt et al.) [[article](http://iopscience.iop.org/article/10.1088/0004-637X/795/2/167/meta;jsessionid=43641D4C5B1CC7595015BE11DDF1239F.c1)]
 

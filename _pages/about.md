@@ -17,12 +17,10 @@ I focus on the development and application of novel statistical methods
 to the life and physical sciences.
 The search for robust techniques to build, fit, and criticize models
 has led me to Bayesian statistics and its computational implementations.
-I find that many modern problems require an interdisciplinary approach,
-which is why I enjoy collaborating with experts from various disciplines.
 
 I'm best known as a developer of the probabilistic programing language
 [Stan](http://mc-stan.org/) and the co-creator of 
 [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension
-of Stan for pharmacometrics applications.
+of Stan for biomedical applications.
 You can find out more by browsing this website or looking at my
 [CV](http://charlesm93.github.io/files/charlesm-2018.pdf).
