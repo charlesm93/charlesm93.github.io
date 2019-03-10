@@ -30,7 +30,7 @@ In September 2017, I joined the PhD program in statistics at Columbia University
 ### Hobbies
 As an undergraduate, I was a member of [Just Add Water](http://www.justaddwateryale.com/),
 a comedy group that does short form and musical improvisation.
-In Hartford, I co-founded the Albatross, which still plays at the [Seat Tea](https://seateaimprov.com/) theater.
+In Hartford, I co-founded the Albatross, which still plays at the [Sea Tea](https://seateaimprov.com/) theater.
 I have not been improvising on a regular basis lately, but I attend the occasional jam.
 
 Other than that, I sometimes draw cartoons and I'm always down for a pick-up soccer game. 

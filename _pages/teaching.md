@@ -8,18 +8,21 @@ author_profile: no
 In some sense, statistics is the backbone of experimental and observational science.
 But statistics is (really f***ing) hard, and requires a level of mathematics which is not always
 available to practitioners.
-Distilling and communicating important concepts is a bit of an art, which some my colleagues
-excell in. 
-I try (with various degrees of success) to follow their example.
+With colleagues, I work hard to distill and communicate important concepts,
+and develop principled statistical workflows.
 
 My work as a teacher falls into two categories:
 I TA courses taught by Columbia's department of statistics,
 and teach or TA workshops targeted at specialists, who may not be statisticians.
 
-### Guest lecturer
+### Instructor
 
-I've been invited as a guest speaker for the following courses and conference:
+I've been invited as a guest speaker for the following courses and conferences:
 
+* (2019) _Probability and Bayes II_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY.
+* (2019) _Bayesian PK/PD modeling using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop)
+* (2019) _Stan for the people: introductory workshop on Bayesian modeling_, McGill University,
+Montreal, Canada. (two days workshop)
 * (2018) _Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY.
 * (2018) _How to Develop for the Stan C++ Core Language_, Stan Conference 2018, Pacific Grove, CA. [[slides](https://github.com/charlesm93/presentations-and-writing/blob/master/StanCon2018_tutorial/Roadmap.pdf)]
 * (2017) _Introduction to Bayesian Data Analysis with Stan_, STAT 220: Bayesian Statistics, Harvard University, Cambridge, MA
@@ -28,6 +31,7 @@ I've been invited as a guest speaker for the following courses and conference:
 
 Courses at Columbia:
 
+* (2019) STAT 4204/5204: Statistical inference
 * (2018) STAT 4206: Statistical Computing and Introduction to Data Science
 * (2018) STAT 5224: Bayesian Statistics
 * (2017) STAT 4205: Linear Regression Models
