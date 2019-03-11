@@ -20,7 +20,7 @@ and teach or TA workshops targeted at specialists, who may not be statisticians.
 I've been invited as a guest speaker for the following courses and conferences:
 
 * (2019) _Probability and Bayes II_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY.
-* (2019) _Bayesian PK/PD modeling using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop)
+* (2019) _Building, fitting, and criticizing Bayesian PK/PD models using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop)
 * (2019) _Stan for the people: introductory workshop on Bayesian modeling_, McGill University,
 Montreal, Canada. (two days workshop)
 * (2018) _Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY.
