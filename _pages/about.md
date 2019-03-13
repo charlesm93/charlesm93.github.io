@@ -23,4 +23,4 @@ I'm best known as a developer of the probabilistic programing language
 [Torsten](https://github.com/metrumresearchgroup/Torsten), an extension
 of Stan for biomedical applications.
 You can find out more by browsing this website or looking at my
-[CV](http://charlesm93.github.io/files/charlesm-2018.pdf).
+[CV](http://charlesm93.github.io/files/charlesm.pdf).
