@@ -19,11 +19,11 @@ and teach or TA workshops targeted at specialists, who may not be statisticians.
 
 I've been invited as a guest speaker for the following courses and conferences:
 
-* (2019) _Probability and Bayes II_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY.
+* (2019) _Probability and Bayes II_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&BayesII.pdf)]
 * (2019) _Building, fitting, and criticizing Bayesian PK/PD models using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop)
 * (2019) _Stan for the people: introductory workshop on Bayesian modeling_, McGill University,
 Montreal, Canada. (two days workshop)
-* (2018) _Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY.
+* (2018) _Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf)]
 * (2018) _How to Develop for the Stan C++ Core Language_, Stan Conference 2018, Pacific Grove, CA. [[slides](https://github.com/charlesm93/presentations-and-writing/blob/master/StanCon2018_tutorial/Roadmap.pdf)]
 * (2017) _Introduction to Bayesian Data Analysis with Stan_, STAT 220: Bayesian Statistics, Harvard University, Cambridge, MA
 
