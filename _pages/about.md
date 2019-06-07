@@ -24,3 +24,7 @@ I'm best known as a developer of the probabilistic programing language
 of Stan for biomedical applications.
 You can find out more by browsing this website or looking at my
 [CV](http://charlesm93.github.io/files/charlesm.pdf).
+
+### News
+For the summer 2019, I am working as a visiting doctoral student at Aalto University
+with the probabilistic machine learning group.
