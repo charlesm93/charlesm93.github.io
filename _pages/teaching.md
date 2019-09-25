@@ -19,6 +19,8 @@ and teach or TA workshops targeted at specialists, who may not be statisticians.
 
 I've been invited as a guest speaker for the following courses and conferences:
 
+* (2019) _Population and ODE-based models using Stan and Torsten_,
+co-instructor with [Yi Zhang](https://metrumrg.com/team_member/yi-zhang-ph-d/), Stan Conference 2019, Cambridge, UK
 * (2019) _Probability and Bayes II_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&BayesII.pdf)]
 * (2019) _Building, fitting, and criticizing Bayesian PK/PD models using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop)
 * (2019) _Stan for the people: introductory workshop on Bayesian modeling_, McGill University,
@@ -31,6 +33,7 @@ Montreal, Canada. (two days workshop)
 
 Courses at Columbia:
 
+* (2019) STAT 6701: Foundations of Grapical Models
 * (2019) STAT 4204/5204: Statistical inference
 * (2018) STAT 4206: Statistical Computing and Introduction to Data Science
 * (2018) STAT 5224: Bayesian Statistics
