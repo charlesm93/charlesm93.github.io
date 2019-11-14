@@ -7,24 +7,28 @@ author_profile: no
 
 My interests lie in applied and computational statistics. A few keywords: 
 
-* **Methods**: Bayesian inference, hierarchical models, probabilistic programing, simulation algorithms,  
-    automatic differentiation, differential equations
-* **Applications**:  pharmacometrics, systems biology, physics, astronomy
+* **Methods**: Bayesian inference, probabilistic programing, simulation algorithms,  Hamiltonian Monte Carlo, Laplace approximation, automatic differentiation
+* **Applications**:  differential and algebraic equation based models, hierarchical models, pharmacometrics, physics, astronomy
 
 
-### Bayesian modeling
+### Bayesian inference
 
 To make the most of our data, we need principled workflows to build, fit, and criticize our models.
 This can only be done if our computational tools allow us to express our scientific
 ideas and make accurate inference.
-Since we will break, debug, and improve our models many times, we also need algorithms
+Since we will break, debug and revise our models many times, we also need algorithms
 that run efficiently.
-Moreover, our tools must be expressive, accurate, and fast.
-
+Moreover, our tools must be expressive, accurate and fast.
 I work on the development of such tools and their software implementation,
-primarly in the probabilitic programing language [Stan](http://mc-stan.org/).
-Recently, I've been working on fast Bayesian approximation algorithms,
-differentiation methods, and fitting hierarchical models.
+primarly in the probabilistic programing language [Stan](http://mc-stan.org/).
+Stan's primary inference engine is Hamiltonian Monte Carlo (HMC) sampling.
+
+I'm interested in the algorithmic differentiation of models with complex
+likelihoods to support gradient-based methods such as HMC.
+Examples of such models include DAE-based likelihoods and hidden Markov processes.
+I also study hybrid methods that combine HMC with approximate methods,
+such as the Laplace approximation,
+and can help us tackle models with high-dimensional latent variables.
 
 
 ### Applications in pharmacometrics
@@ -39,22 +43,22 @@ an extension of Stan with specialized routines for pharmacometrics.
 
 ### Others
 
-Certain mathematical formalisms persevere accross disciplines.
-ODEs, for example, are used in pharmacometrics, astronomy, physics, epidimeology, and more.
-As a result, my work sometimes leads me to collaborate with experts in fields I'm less familiar with.
-Recently, I've been spending time on a rather difficult econometrics model with 
+With [Sumit Mukherjee](http://stat.columbia.edu/~sumitm/), I'm working on the
+Ising model. (More details to come).
+
+In 2018, I worked on an econometrics model with 
 [Shosh Vasserman](https://scholar.harvard.edu/vasserman/home).
+The data generating process of the model involved the solution to a constrained
+optimization problem, resulting in a discontinuous posterior.
+Finding an appropriate sampler remains an open problem.
+See this discussion on [non-smooth posterior and KKT](https://discourse.mc-stan.org/t/non-smooth-posterior-and-kkt-problem/6281).
 
-I also have a nascent interest in genetics, which I cultivate by attending journal meetings
-at professor [Guy Sella's lab](https://sellalab.biology.columbia.edu/).
+In 2018, I did a class project in genetics with [Elliott Gordon Rodriguez](http://stat.columbia.edu/department-directory/name/elliot-gordon/),
+working with Guy Sella and
+his [lab](https://sellalab.biology.columbia.edu/) in the biology department.
 
-As an undergraduate at Yale, I worked with the [exoplanet group](http://exoplanets.astro.yale.edu/),
-in the astronomy department.
+As an undergraduate at Yale, I worked with the [exoplanet group](http://exoplanets.astro.yale.edu/), in the astronomy department.
 
-Other things on my mind: the various formluations of a model (as a scientific
-hypothesis, a probabilistic model, and a programing statement),
-causal inference,
-and the cultural difference between physics and biology.
 
 ### Writing
 

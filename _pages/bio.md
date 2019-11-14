@@ -23,7 +23,7 @@ There, I completed a one-year pharmacometrics bootcamp in Hartford, CT,
 and continued as a visiting scientist for another year, in Boston, MA.
 I worked closely with [Bill Gillespie](https://metrumrg.com/team_member/william-r-gillespie-ph-d/)
 on the mathematical modeling of biomedical processes,
-with an emphasis on Bayesian statistics and its computational implementations.
+with an emphasis on Bayesian inference and its computational implementations.
 
 In September 2017, I joined the PhD program in statistics at Columbia University.
 

@@ -6,8 +6,7 @@ author_profile: no
 ---
 
 In some sense, statistics is the backbone of experimental and observational science.
-But statistics is (really f***ing) hard, and requires a level of mathematics which is not always
-available to practitioners.
+But statistics is (really f***ing) hard.
 With colleagues, I work hard to distill and communicate important concepts,
 and develop principled statistical workflows.
 

@@ -9,7 +9,6 @@ author_profile: no
 Here are some papers, books, and other resources I have found helpful,
 as a researcher and a student.
 This is by no means an exhaustive bibliography, rather a list of personal favorites.
-I'm very open to recommendations, if you have some suggestions.
 
 ### Conceptual articles
 
@@ -32,7 +31,7 @@ These are great places to get your hands dirty with modeling and coding:
 *Excerpt: Given a probabilistic model and a particular observation, Bayesian inference is straightforward to implement. [...] Building a probabilistic model that is useful in a given application, however, is a far more open-ended challenge.* I moreover recommend [everything Michael writes](https://betanalpha.github.io/writing/).
 * **Advanced Use of Stan, RStan and Torsten for Pharmacometric Applications** by Bill Gillespie.
 [[link](https://www.metrumrg.com/course/advanced-use-stan-rstan-torsten-pharmacometric-applications/)]
-*The workshop provides a guided hands-on experience in the advanced use of Stan, rstan and Torsten for Bayesian PKPD modeling.* I also recommend most of the [courses offered by Metrum](https://www.metrumrg.com/courses/), for learning about pharmacometrics.
+*The workshop provides a guided hands-on experience in the advanced use of Stan, rstan and Torsten for Bayesian PKPD modeling.* I also recommend the [courses offered by Metrum](https://www.metrumrg.com/courses/) for learning about pharmacometrics.
 
 ### Algorithms and numerical methods
 
@@ -41,14 +40,18 @@ and more broadly the technical details. Sometimes, you need to break the black b
 Here are some helpful places to start at:
 
 * **A Conceptual Introduction to Hamiltonian Monte Carlo** by Michael Betancourt [[link](https://arxiv.org/abs/1701.02434)]
-* **Automatic differentiation in machine learning: a survey** by Atilim G. Baydin et al. [[link](https://arxiv.org/abs/1502.05767)] *This is a great introduction, in part because it compares automatic differentiation to other methods to compute derivatives. Note: I myself wrote a review on the topic, whith a focus on the efficient
-    implementation of autodiff. You may find a preprint on the research page.*
+* **Automatic differentiation in machine learning: a survey** by Atilim G. Baydin et al. [[link](https://arxiv.org/abs/1502.05767)] *This is a great introduction, in part because it compares automatic differentiation to other methods to compute derivatives. Note: I myself wrote a review on the topic, which focuses on the efficient
+    implementation of autodiff. You may find the article on the research page.*
 * **The Stan Math Library: Reverse-Mode Automatic Differentiation in C++** by Bob Carpenter et al.[[link](https://arxiv.org/abs/1509.07164)] *This really gets into the details of how autodiff is implemented in Stan. Very enlightning but very dense read.* 
 * **Numerical Recipes: the art of scientific computing** by William H. Press. *An old book, which I took from an uncle's library. Very handy.*
 
-### Mathematical statistics
+### Textbooks
 
-Here are some great books with a proper mathematical treatment of statistics.
+A classic for Bayesian analysis with a rather pragmatic discussion of the topic.
+
+* **Bayesian Data Analysis** by Andrew Gelman et al.
+
+Here are some  books with a mathematical treatment of statistics.
 
 * **Statistical Inference** by George Casella and Roger Berger.
 * **Theoretical Statistics** by Robert Keener. *Note: more advanced than the previous. PhD level.*
