@@ -2,7 +2,7 @@
 # layout: archive
 title: "Library"
 permalink: /library/
-author_profile: no
+author_profile: yes
 ---
 <img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;">
 

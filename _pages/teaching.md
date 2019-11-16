@@ -2,7 +2,7 @@
 # layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: no
+author_profile: yes
 ---
 
 In some sense, statistics is the backbone of experimental and observational science.

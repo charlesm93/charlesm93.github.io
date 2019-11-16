@@ -2,7 +2,7 @@
 # layout: archive
 title: "Bio"
 permalink: /bio/
-author_profile: no
+author_profile: yes
 ---
 
 Currently, I'm a PhD student in statistics at Columbia University,
