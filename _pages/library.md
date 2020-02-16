@@ -2,7 +2,7 @@
 # layout: archive
 title: "Library"
 permalink: /library/
-author_profile: yes
+author_profile: no
 ---
 <img src="../images/Books.png" alt="hi" class="inline" style="width:50;height:75px;">
 
@@ -51,9 +51,8 @@ A classic for Bayesian analysis with a rather pragmatic discussion of the topic.
 
 * **Bayesian Data Analysis** by Andrew Gelman et al.
 
-Here are some  books with a mathematical treatment of statistics.
+Here are some  books with a mathematical and somewhat theoretical treatment of statistics.
+Beware that it is not always obvious how to bridge theory and application!
 
 * **Statistical Inference** by George Casella and Roger Berger.
 * **Theoretical Statistics** by Robert Keener. *Note: more advanced than the previous. PhD level.*
-
-Unfortunately, it is not always clear how to bridge the theory and the applications.

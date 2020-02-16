@@ -5,13 +5,24 @@ permalink: /research/
 author_profile: yes
 ---
 
-My interests lie in applied and computational statistics. A few keywords: 
+My interests lie in applied and computational statistics.
+A lot of my work is motivated by problems in Bayesian modeling.
+More precisely:
+* Simulation algorithms and the computation of high-dimensional integrals.
+This encompasses Markov chains Monte Carlo,
+Gibbs and Hamiltonian Monte Carlo sampling, and approximate methods
+such as nested Laplace approximations.
+* Automatic differentiation, meaning the generation of computer code that calculates
+derivatives and supports gradient based algorithms.
+Particular emphasis on differentiating likelihoods that depend on implicit functions.
+* Hierarchical and latent Gaussian models, the geometry of their posteriors,
+and how this interacts with simulation algorithms.
+* Bayesian workflows for pharmacometrics, including classic 
+pharmacokinetic/pharmacodynamic, and systems pharmacology models.
+* Spin glass models, graph models, and more generally high-dimensional discrete spaces.
 
-* **Methods**: Bayesian inference, probabilistic programing, simulation algorithms,  Hamiltonian Monte Carlo, Laplace approximation, automatic differentiation
-* **Applications**:  differential and algebraic equation based models, hierarchical models, pharmacometrics, physics, astronomy
 
-
-### Bayesian inference
+### Bayesian workflow
 
 To make the most of our data, we need principled workflows to build, fit, and criticize our models.
 This can only be done if our computational tools allow us to express our scientific
@@ -43,8 +54,8 @@ an extension of Stan with specialized routines for pharmacometrics.
 
 ### Others
 
-With [Sumit Mukherjee](http://stat.columbia.edu/~sumitm/), I'm working on the
-Ising model. (More details to come).
+With [Sumit Mukherjee](http://stat.columbia.edu/~sumitm/), I'm working on
+simulation methods for spin glass models, of which the Ising model is a special case.
 
 In 2018, I worked on an econometrics model with 
 [Shosh Vasserman](https://scholar.harvard.edu/vasserman/home).
@@ -67,14 +78,13 @@ Here, I'll also lay out other projects and resources.
 
 Journal and conference articles:
 
-* (2020) The Discrete Adjoint Method: Efficient Derivatives for Functions of Discrete Sequences (with Michael Betancourt and Vianey Leos-Barajas)[[preprint](https://arxiv.org/abs/2002.00326)]
+* (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences (with Michael Betancourt and Vianey Leos-Barajas)[[preprint](https://arxiv.org/abs/2002.00326)]
 
 * (2019) A Review of automatic differentiation and its efficient implementation [[article](https://onlinelibrary.wiley.com/doi/10.1002/widm.1305), [preprint](https://arxiv.org/abs/1811.05031)]
-* (2018) Computing Steady States with Stan's Nonlinear Algebraic Solver [[article](https://www.researchgate.net/publication/323834530_Computing_steady_states_with_Stan's_nonlinear_algebraic_solver), [code](https://github.com/stan-dev/stancon_talks/tree/master/2018/Contributed-Talks/08_margossian), [talk](https://www.youtube.com/watch?v=JhwZIX5ryw0&feature=youtu.be)]
-* (2017) Gaining Efficiency by Combining Analytical and Numerical Methods to Solve ODEs: Implementation in Stan and Application to Bayesian PK/PD Modeling (with Bill Gillespie) [[poster](https://www.researchgate.net/publication/323834519_Gaining_efficiency_by_combining_analytical_and_numerical_methods_to_solve_ODEs_Implementation_in_Stan_and_application_to_Bayesian_PKPD_modeling)]
+* (2018) Computing Steady states with Stan's nonlinear algebraic solver [[article](https://www.researchgate.net/publication/323834530_Computing_steady_states_with_Stan's_nonlinear_algebraic_solver), [code](https://github.com/stan-dev/stancon_talks/tree/master/2018/Contributed-Talks/08_margossian), [talk](https://www.youtube.com/watch?v=JhwZIX5ryw0&feature=youtu.be)]
+* (2017) Gaining Efficiency by combining analytical and numerical methods to solve ODEs: implementation in Stan and application to Bayesian PK/PD modeling (with Bill Gillespie) [[poster](https://www.researchgate.net/publication/323834519_Gaining_efficiency_by_combining_analytical_and_numerical_methods_to_solve_ODEs_Implementation_in_Stan_and_application_to_Bayesian_PKPD_modeling)]
 * (2017) Differential equation based models in Stan (with Bill Gillespie) [[article](http://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html), [code](https://github.com/stan-dev/stancon_talks/tree/master/2017/Contributed-Talks/05_margossian), [talk](https://www.youtube.com/watch?v=DJ0c7Bm5Djk&feature=youtu.be&t=2h53m26s)]
-* (2016) Stan Functions for pharmacometrics (with Bill Gillespie) [[poster](https://www.researchgate.net/publication/323834461_Stan_functions_for_pharmacometrics_modeling)]
-* (2015) Testing the effects of close-in giant planets on stellar magnetic activity (senior thesis)
+* (2016) Stan functions for pharmacometrics (with Bill Gillespie) [[poster](https://www.researchgate.net/publication/323834461_Stan_functions_for_pharmacometrics_modeling)]
 * (2014) Planet Hunters. VII. Discovery of a new low-mass, low-density (PH3 C) orbiting Kepler-289
 with mass measurements of two additional plamets of two additional planets (PH3 B and D) (by Joseph Schmitt et al.) [[article](http://iopscience.iop.org/article/10.1088/0004-637X/795/2/167/meta;jsessionid=43641D4C5B1CC7595015BE11DDF1239F.c1)]
 
