@@ -2,7 +2,7 @@
 # layout: archive
 title: "Research"
 permalink: /research/
-author_profile: yes
+author_profile: no
 ---
 
 My interests lie in applied and computational statistics.
