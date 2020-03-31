@@ -76,9 +76,11 @@ As an undergraduate at Yale, I worked with the [exoplanet group](http://exoplane
 I try to post formal articles on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
 Here, I'll also lay out other projects and resources.
 
-Journal and conference articles:
+Preprints and publications:
 
-* (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences (with Michael Betancourt and Vianey Leos-Barajas)[[preprint](https://arxiv.org/abs/2002.00326)]
+* (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy (by Julien Riou et al) [[preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2)]
+
+* (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences (with Michael Betancourt and Vianey Leos-Barajas) [[preprint](https://arxiv.org/abs/2002.00326)]
 
 * (2019) A Review of automatic differentiation and its efficient implementation [[article](https://onlinelibrary.wiley.com/doi/10.1002/widm.1305), [preprint](https://arxiv.org/abs/1811.05031)]
 * (2018) Computing Steady states with Stan's nonlinear algebraic solver [[article](https://www.researchgate.net/publication/323834530_Computing_steady_states_with_Stan's_nonlinear_algebraic_solver), [code](https://github.com/stan-dev/stancon_talks/tree/master/2018/Contributed-Talks/08_margossian), [talk](https://www.youtube.com/watch?v=JhwZIX5ryw0&feature=youtu.be)]
