@@ -79,7 +79,7 @@ Here, I'll also lay out other projects and resources.
 Preprints and publications:
 
 * (2020) Hamitonian Monte Carlo using an embedded Laplace approximation
-(with Aki Vehtari, Daniel Simpson, and Raj Agrawal)[[preprint](https://arxiv.org/abs/2004.12550)]
+(with Aki Vehtari, Daniel Simpson, and Raj Agrawal) [[preprint](https://arxiv.org/abs/2004.12550)]
 
 * (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy (by Julien Riou et al) [[preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2)]
 
