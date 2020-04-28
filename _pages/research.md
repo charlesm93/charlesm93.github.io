@@ -12,8 +12,8 @@ More precisely:
 This encompasses Markov chains Monte Carlo,
 Gibbs and Hamiltonian Monte Carlo sampling, and approximate methods
 such as nested Laplace approximations.
-* Automatic differentiation, meaning the generation of computer code that calculates
-derivatives and supports gradient based algorithms.
+* Automatic differentiation, meaning the computation of derivatives
+to supports gradient based algorithms.
 Particular emphasis on differentiating likelihoods that depend on implicit functions.
 * Hierarchical and latent Gaussian models, the geometry of their posteriors,
 and how this interacts with simulation algorithms.
@@ -77,6 +77,9 @@ I try to post formal articles on [research gate](https://www.researchgate.net/pr
 Here, I'll also lay out other projects and resources.
 
 Preprints and publications:
+
+* (2020) Hamitonian Monte Carlo using an embedded Laplace approximation
+(with Aki Vehtari, Daniel Simpson, and Raj Agrawal)[[preprint](https://arxiv.org/abs/2004.12550)]
 
 * (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy (by Julien Riou et al) [[preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2)]
 
