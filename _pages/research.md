@@ -17,7 +17,7 @@ to supports gradient based algorithms.
 Particular emphasis on differentiating likelihoods that depend on implicit functions.
 * Hierarchical and latent Gaussian models, the geometry of their posteriors,
 and how this interacts with simulation algorithms.
-* Bayesian workflows for pharmacometrics, including classic 
+* Bayesian workflows for pharmacometrics, including classic
 pharmacokinetic/pharmacodynamic, and systems pharmacology models.
 * Spin glass models, graph models, and more generally high-dimensional discrete spaces.
 
@@ -49,7 +49,7 @@ Most models in pharmacometrics are based on systems of ordinary differential equ
 propagate derivatives through them.
 We must furthermore model the broad array of treatments patients can undergo.
 To address these issues, I develop general purpose tools for ODE-based models in
-Stan. With colleagues at [Metrum](https://metrumrg.com/), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten), 
+Stan. With colleagues at [Metrum](https://metrumrg.com/), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten),
 an extension of Stan with specialized routines for pharmacometrics.
 
 ### Others
@@ -57,7 +57,7 @@ an extension of Stan with specialized routines for pharmacometrics.
 With [Sumit Mukherjee](http://stat.columbia.edu/~sumitm/), I'm working on
 simulation methods for spin glass models, of which the Ising model is a special case.
 
-In 2018, I worked on an econometrics model with 
+In 2018, I worked on an econometrics model with
 [Shosh Vasserman](https://scholar.harvard.edu/vasserman/home).
 The data generating process of the model involved the solution to a constrained
 optimization problem, resulting in a discontinuous posterior.
@@ -84,7 +84,8 @@ Preprints and publications:
 
 * (2020) Bayesian Workflow for disease transmission modeling in Stan
 (with Leo Grinsztajn, Elizaveta Semenova, and Julien Riou)
-[[case study](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),
+[[preprint](https://arxiv.org/abs/2006.02985),
+[html file](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),
 [code](https://github.com/stan-dev/example-models/tree/master/knitr/disease_transmission)]
 
 * (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy (by Julien Riou et al) [[preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2)]
