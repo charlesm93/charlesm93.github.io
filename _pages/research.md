@@ -78,7 +78,7 @@ Here, I'll also lay out other projects and resources.
 
 Preprints and publications:
 
-* (2020) Hamitonian Monte Carlo using an adjoint-differentiated Laplace approximation
+* (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation
 (with Aki Vehtari, Daniel Simpson, and Raj Agrawal) [[preprint](https://arxiv.org/abs/2004.12550),
  [code](https://github.com/charlesm93/laplace_manuscript)]
 
