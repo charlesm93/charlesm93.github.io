@@ -88,7 +88,8 @@ Preprints and publications:
 [html file](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),
 [code](https://github.com/stan-dev/example-models/tree/master/knitr/disease_transmission)]
 
-* (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy (by Julien Riou et al) [[preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2)]
+* (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy (by Julien Riou et al) [[preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2),
+[talk](https://www.youtube.com/watch?v=unHZhfur5Sc)]
 
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences (with Michael Betancourt and Vianey Leos-Barajas) [[preprint](https://arxiv.org/abs/2002.00326)]
 
