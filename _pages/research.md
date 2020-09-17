@@ -80,7 +80,7 @@ Preprints and publications:
 
 * (2020) Approximate Bayesian inference for latent Gaussian models in Stan
 (with Aki Vehtari, Daniel Simpson, and Raj Agrawal) [[article](https://www.researchgate.net/publication/343690329_Approximate_Bayesian_inference_for_latent_Gaussian_models_in_Stan),
-[code](https://github.com/charlesm93/StanCon2020)]
+[code](https://github.com/charlesm93/StanCon2020), [talk](https://www.youtube.com/watch?v=hbYsakCQiew&list=PLCrWEzJgSUqzI3goQEAKkDsHg72inmqbe&index=16&t)]
 
 * (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation
 (with Aki Vehtari, Daniel Simpson, and Raj Agrawal) [[preprint](https://arxiv.org/abs/2004.12550),
