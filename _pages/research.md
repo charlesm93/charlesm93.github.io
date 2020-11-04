@@ -59,6 +59,8 @@ Here, I'll also lay out other projects and resources.
 
 Preprint and publications:
 
+* (2020) Bayesian Workflow. Andrew Gelman et al. _preprint_. [[preprint](https://arxiv.org/pdf/2011.01808.pdf)]
+
 * (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _accepted for NeurIPS 2020_. [[preprint](https://arxiv.org/abs/2004.12550),
  [code](https://github.com/charlesm93/laplace_manuscript)]
 
