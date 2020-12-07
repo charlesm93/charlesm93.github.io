@@ -59,15 +59,17 @@ Here, I'll also lay out other projects and resources.
 
 Preprint and publications:
 
-* (2020) Bayesian Workflow. Andrew Gelman et al. _preprint_. [[preprint](https://arxiv.org/pdf/2011.01808.pdf)]
+* (2020) Bayesian model of planetary motion: exploring ideas for a modeling workflow when dealing with ordinary differential equations and multimodality. Charles C. Margossian and Andrew Gelman. _Stan Case Studies 7_. [[articles](https://mc-stan.org/users/documentation/case-studies/planetary_motion/planetary_motion.html), [code](https://github.com/stan-dev/example-models/tree/master/knitr/planetary_motion)]
 
-* (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _accepted for NeurIPS 2020_. [[preprint](https://arxiv.org/abs/2004.12550),
+* (2020) Bayesian Workflow. Andrew Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
+
+* (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _NeurIPS 2020_. [[preprint](https://arxiv.org/abs/2004.12550),
  [code](https://github.com/charlesm93/laplace_manuscript)]
 
-* (2020) Approximate Bayesian inference for latent Gaussian models in Stan. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _presented at Stan Con 2020_. [[article](https://www.researchgate.net/publication/343690329_Approximate_Bayesian_inference_for_latent_Gaussian_models_in_Stan),
+* (2020) Approximate Bayesian inference for latent Gaussian models in Stan. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _presented at Stan Con 2020_. [[article](http://charlesm93.github.io/files/lgm_stan.pdf),
 [code](https://github.com/charlesm93/StanCon2020), [talk](https://www.youtube.com/watch?v=hbYsakCQiew&list=PLCrWEzJgSUqzI3goQEAKkDsHg72inmqbe&index=16&t)]
 
-* (2020) Bayesian Workflow for disease transmission modeling in Stan. Leo Grinsztajn, Elizaveta Semenova, Charles C. Margossian and Julien Riou. _preprint_.
+* (2020) Bayesian Workflow for disease transmission modeling in Stan. Leo Grinsztajn, Elizaveta Semenova, Charles C. Margossian and Julien Riou.
 [[preprint](https://arxiv.org/abs/2006.02985),
 [html file](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),
 [code](https://github.com/stan-dev/example-models/tree/master/knitr/disease_transmission),
@@ -76,17 +78,17 @@ Preprint and publications:
 * (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and six regions of Europe. Julien Riou et al. _PLOS Medicine_. [[article](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003189),
 [preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2)]
 
-* (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. Michael Betancourt, Charles C. Margossian and Vianey Leos-Barajas. _preprint_. [[preprint](https://arxiv.org/abs/2002.00326)]
+* (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. Michael Betancourt, Charles C. Margossian and Vianey Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
 
 * (2019) A Review of automatic differentiation and its efficient implementation. Charles C. Margossian. _Wiley interdisciplinary reviews: data mining and knowledge discovery_. [[article](https://onlinelibrary.wiley.com/doi/10.1002/widm.1305), [preprint](https://arxiv.org/abs/1811.05031)]
-* (2018) Computing Steady states with Stan's nonlinear algebraic solver. Charles C. Margossian. _Stan Con Asilomar 2018_. [[article](https://www.researchgate.net/publication/323834530_Computing_steady_states_with_Stan's_nonlinear_algebraic_solver), [code](https://github.com/stan-dev/stancon_talks/tree/master/2018/Contributed-Talks/08_margossian), [talk](https://www.youtube.com/watch?v=JhwZIX5ryw0&feature=youtu.be)]
-* (2017) Gaining Efficiency by combining analytical and numerical methods to solve ODEs: implementation in Stan and application to Bayesian PK/PD modeling. Charles C. Margossian and Bill Gillespie. _Journal of Pharmacokinetics and Pharmacodynamics, presented at the American Conference on Pharmacometrics 8_. [[poster](https://www.researchgate.net/publication/323834519_Gaining_efficiency_by_combining_analytical_and_numerical_methods_to_solve_ODEs_Implementation_in_Stan_and_application_to_Bayesian_PKPD_modeling)]
+* (2018) Computing Steady states with Stan's nonlinear algebraic solver. Charles C. Margossian. _Stan Con Asilomar 2018_. [[article](http://charlesm93.github.io/files/2018-Margossian.pdf), [code](https://github.com/stan-dev/stancon_talks/tree/master/2018/Contributed-Talks/08_margossian), [talk](https://www.youtube.com/watch?v=JhwZIX5ryw0&feature=youtu.be)]
+* (2017) Gaining Efficiency by combining analytical and numerical methods to solve ODEs: implementation in Stan and application to Bayesian PK/PD modeling. Charles C. Margossian and Bill Gillespie. _Journal of Pharmacokinetics and Pharmacodynamics, presented at the American Conference on Pharmacometrics 8_. [[poster](http://charlesm93.github.io/files/2017b-Margossian&Gillespie-mixed_solver.pdf)]
 * (2017) Differential equation based models in Stan. Charles C. Margossian and Bill Gillespie. _Stan Con 2017_. [[article](http://mc-stan.org/events/stancon2017-notebooks/stancon2017-margossian-gillespie-ode.html), [code](https://github.com/stan-dev/stancon_talks/tree/master/2017/Contributed-Talks/05_margossian), [talk](https://www.youtube.com/watch?v=DJ0c7Bm5Djk&feature=youtu.be&t=2h53m26s)]
-* (2016) Stan functions for pharmacometrics. Charles C. Margossian and Bill Gillespie. __Journal of Pharmacokinetics and Pharmacodynamics, presented at the American Conference on Pharmacometrics 7_. [[poster](https://www.researchgate.net/publication/323834461_Stan_functions_for_pharmacometrics_modeling)]
+* (2016) Stan functions for pharmacometrics. Charles C. Margossian and Bill Gillespie. _Journal of Pharmacokinetics and Pharmacodynamics, presented at the American Conference on Pharmacometrics 7_. [[poster](http://charlesm93.github.io/files/2016-Margossian&Gillespie-stan_for_pmx.pdf)]
 * (2014) Planet Hunters. VII. Discovery of a new low-mass, low-density (PH3 C) orbiting Kepler-289
 with mass measurements of two additional plamets of two additional planets (PH3 B and D). Joseph Schmitt et al. _Astrophysical Journal_. [[article](http://iopscience.iop.org/article/10.1088/0004-637X/795/2/167/meta;jsessionid=43641D4C5B1CC7595015BE11DDF1239F.c1)]
 
-Software documentation (manuals, technical reports, and short articles):
+Technical reports:
 
 * The Stan Book. Stan development team. [[manual](https://mc-stan.org/docs/2_18/stan-users-guide/index.html)]
 * Torsten User Manual. Charles C. Margossian, Yi Zhang, Bill Gillespie and Metrum Research Group. [[manual](https://metrumresearchgroup.github.io/Torsten/)]
