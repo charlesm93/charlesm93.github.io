@@ -59,7 +59,7 @@ Here, I'll also lay out other projects and resources.
 
 Preprint and publications:
 
-* (2020) Bayesian model of planetary motion: exploring ideas for a modeling workflow when dealing with ordinary differential equations and multimodality. Charles C. Margossian and Andrew Gelman. _Stan Case Studies 7_. [[articles](https://mc-stan.org/users/documentation/case-studies/planetary_motion/planetary_motion.html), [code](https://github.com/stan-dev/example-models/tree/master/knitr/planetary_motion)]
+* (2020) Bayesian model of planetary motion: exploring ideas for a modeling workflow when dealing with ordinary differential equations and multimodality. Charles C. Margossian and Andrew Gelman. _Stan Case Studies 7_. [[article](https://mc-stan.org/users/documentation/case-studies/planetary_motion/planetary_motion.html), [code](https://github.com/stan-dev/example-models/tree/master/knitr/planetary_motion)]
 
 * (2020) Bayesian Workflow. Andrew Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
 
