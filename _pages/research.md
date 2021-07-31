@@ -63,7 +63,7 @@ Preprint and publications:
 
 * (2020) Bayesian Workflow. Andrew Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
 
-* (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _NeurIPS 2020_. [[preprint](https://arxiv.org/abs/2004.12550),
+* (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _NeurIPS 2020_. [[article](https://proceedings.neurips.cc/paper/2020/hash/673de96b04fa3adcae1aacda704217ef-Abstract.html), [poster](http://charlesm93.github.io/files/poster_ela.pdf), [preprint](https://arxiv.org/abs/2004.12550),
  [code](https://github.com/charlesm93/laplace_manuscript)]
 
 * (2020) Approximate Bayesian inference for latent Gaussian models in Stan. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _presented at Stan Con 2020_. [[article](http://charlesm93.github.io/files/lgm_stan.pdf),
