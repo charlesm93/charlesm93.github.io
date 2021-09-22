@@ -66,8 +66,8 @@ Preprint and publications:
  [code](https://github.com/charlesm93/laplace_manuscript)]
 * (2020) Approximate Bayesian inference for latent Gaussian models in Stan. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _presented at Stan Con 2020_. [[article](http://charlesm93.github.io/files/lgm_stan.pdf),
 [code](https://github.com/charlesm93/StanCon2020), [talk](https://www.youtube.com/watch?v=hbYsakCQiew&list=PLCrWEzJgSUqzI3goQEAKkDsHg72inmqbe&index=16&t)]
-* (2020) Bayesian Workflow for disease transmission modeling in Stan. Leo Grinsztajn, Elizaveta Semenova, Charles C. Margossian and Julien Riou.
-[[preprint](https://arxiv.org/abs/2006.02985),
+* (2020) Bayesian Workflow for disease transmission modeling in Stan. Leo Grinsztajn, Elizaveta Semenova, Charles C. Margossian and Julien Riou. _Statistics in medicine_.
+[[article](https://onlinelibrary.wiley.com/doi/10.1002/sim.9164), [preprint](https://arxiv.org/abs/2006.02985),
 [html file](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),
 [code](https://github.com/stan-dev/example-models/tree/master/knitr/disease_transmission),
 [talk](https://www.youtube.com/watch?v=unHZhfur5Sc)]
