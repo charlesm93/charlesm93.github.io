@@ -1,5 +1,5 @@
 ---
-# layout: archive
+layout: archive
 title: "Library"
 permalink: /library/
 author_profile: no
