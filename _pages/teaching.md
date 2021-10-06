@@ -34,7 +34,7 @@ co-instructor with [Yi Zhang](https://metrumrg.com/team_member/yi-zhang-ph-d/), 
 
 Courses at Columbia:
 
-* (2018) STAT 4206 / 5206: Statistical Computing and Introduction to Data Science (undergraduate and masters level)
+* (2021) STAT 4206 / 5206: Statistical Computing and Introduction to Data Science (undergraduate and masters level)
 * (2021) STAT 6102: Applied Statistics II (PhD level)
 * (2019, 2020) STAT 6701: Foundations of Grapical Models (PhD level))
 * (2019) STAT 4204/5204: Statistical inference (undergraduate / masters level)
