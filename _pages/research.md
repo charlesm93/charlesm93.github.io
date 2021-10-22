@@ -27,7 +27,7 @@ Here, I'll also lay out other projects and resources.
 
 Preprint and publications:
 
-* (2021) Efficient and flexible Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. [[preprint](https://arxiv.org/abs/2109.10184)]
+* (2021) Efficient and flexible Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. [[preprint](https://arxiv.org/abs/2109.10184)]\
 Keywords: _Pharmacometrics_
 * (2021) Solving ODEs in a Bayesian context: challenges and opportunities. Charles C. Margossian, Lu Zhang, Sebastian Weber and Andrew Gelman. _Population Approach Group in Europe_. [[poster](http://charlesm93.github.io/files/BayesianODE.pdf)]
 * (2020) Bayesian Workflow. Andrew Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
