@@ -26,7 +26,7 @@ I try to post formal articles on [research gate](https://www.researchgate.net/pr
 Here, I'll also lay out other projects and resources.
 
 Preprint and publications:
-*(2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. Charles C. Margossian and Sumit Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]\
+* (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. Charles C. Margossian and Sumit Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]\
 Keywords: _Statistical physics, Random graphs, Spin glass, Gibbs sampling, Tempering._
 * (2021) Efficient and flexible Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. [[preprint](https://arxiv.org/abs/2109.10184)]\
 Keywords: _Pharmacometrics, Bayesian workflow, hierarchical model, Stan, Torsten._
