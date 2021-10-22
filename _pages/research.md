@@ -84,8 +84,6 @@ Technical reports:
 
 ### Others
 
-With [Sumit Mukherjee](http://stat.columbia.edu/~sumitm/), I'm working on simulation methods for spin glass models, of which the Ising model is a special case.
-
 In 2018, I worked on an econometrics model with
 [Shosh Vasserman](https://scholar.harvard.edu/vasserman/home).
 The data generating process of the model involved the solution to a constrained optimization problem, resulting in a discontinuous posterior. Finding an appropriate sampler remains an open problem.
