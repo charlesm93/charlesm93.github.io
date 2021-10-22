@@ -20,38 +20,6 @@ Emphasis on the differentiation of implicit functions, such as solutions to diff
 * Ising and Spin glass models, graph models, and more generally high-dimensional discrete spaces.
 
 
-<!--- ### Bayesian workflow
-
-To make the most of our data, we need principled workflows to build, fit, and criticize our models.
-This can only be done if our computational tools allow us to express our scientific
-ideas and make accurate inference.
-Since we will break, debug and revise our models many times, we also need algorithms
-that run efficiently.
-Moreover, our tools must be expressive, accurate and fast.
-I work on the development of such tools and their software implementation,
-primarly in the probabilistic programing language [Stan](http://mc-stan.org/).
-Stan's primary inference engine is Hamiltonian Monte Carlo (HMC) sampling.
-
-I'm interested in the algorithmic differentiation of models with complex
-likelihoods to support gradient-based methods such as HMC.
-Examples of such models include DAE-based likelihoods and hidden Markov processes.
-I also study hybrid methods that combine HMC with approximate methods,
-such as the Laplace approximation,
-and can help us tackle models with high-dimensional latent variables.
-
-
-### Applications in pharmacometrics
-
-Most models in pharmacometrics are based on systems of ordinary differential equations
-(ODEs). To do inference on such models, we not only need to solve ODEs, but also to
-propagate derivatives through them.
-We must furthermore model the broad array of treatments patients can undergo.
-To address these issues, I develop general purpose tools for ODE-based models in
-Stan. With colleagues at [Metrum](https://metrumrg.com/), I co-created [Torsten](https://github.com/metrumresearchgroup/Torsten),
-an extension of Stan with specialized routines for pharmacometrics.
---->
-
-
 ### Writing
 
 I try to post formal articles on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
@@ -60,6 +28,7 @@ Here, I'll also lay out other projects and resources.
 Preprint and publications:
 
 * (2021) Efficient and flexible Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. [[preprint](https://arxiv.org/abs/2109.10184)]
+Keywords: _Pharmacometrics_
 * (2021) Solving ODEs in a Bayesian context: challenges and opportunities. Charles C. Margossian, Lu Zhang, Sebastian Weber and Andrew Gelman. _Population Approach Group in Europe_. [[poster](http://charlesm93.github.io/files/BayesianODE.pdf)]
 * (2020) Bayesian Workflow. Andrew Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
 * (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation. Charles C. Margossian, Aki Vehtari, Daniel Simpson and Raj Agrawal. _NeurIPS 2020_. [[article](https://proceedings.neurips.cc/paper/2020/hash/673de96b04fa3adcae1aacda704217ef-Abstract.html), [poster](http://charlesm93.github.io/files/poster_ela.pdf), [preprint](https://arxiv.org/abs/2004.12550),
