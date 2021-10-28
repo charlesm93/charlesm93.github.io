@@ -26,6 +26,7 @@ I try to post formal articles on [research gate](https://www.researchgate.net/pr
 Here, I'll also lay out other projects and resources.
 
 Preprint and publications:
+* (2021) Nested $\hat R$: Assessing Convergence for Markov chain Monte Carlo when using many short chains. Charles C. Margossian, Matthew D. Hoffman, and Pavel Sountsov [[preprint](https://arxiv.org/abs/2110.13017)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. Charles C. Margossian and Sumit Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
 * (2021) Efficient and flexible Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. [[preprint](https://arxiv.org/abs/2109.10184)]
 * (2021) Developping a model of SARS-CoV-2 viral dynamics under monoclonal antibody treatment. Aurélien Marc, Marion Kerioui, Charles Margossian, Julie Bertrand, Pauline Maisonnasse, Yoan Aldon, Rogier W Sanders, Marit Van Gils, Roger Le Grand, Jérémie Guedj. _Population Approach Group in Europe_.
