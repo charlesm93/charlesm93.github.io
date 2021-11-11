@@ -22,8 +22,8 @@ Emphasis on the differentiation of implicit functions, such as solutions to diff
 
 ### Writing
 
-I try to post formal articles on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
-Here, I'll also lay out other projects and resources.
+I post articles on [research gate](https://www.researchgate.net/profile/Charles_Margossian).
+You can also check out my [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en).
 
 Preprint and publications:
 * (2021) Nested $\hat R$: Assessing Convergence for Markov chain Monte Carlo when using many short chains. Charles C. Margossian, Matthew D. Hoffman, and Pavel Sountsov [[preprint](https://arxiv.org/abs/2110.13017)]
