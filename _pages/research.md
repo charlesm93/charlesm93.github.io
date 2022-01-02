@@ -26,6 +26,7 @@ I post articles on [research gate](https://www.researchgate.net/profile/Charles_
 You can also check out my [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en).
 
 Preprint and publications:
+* (2021) Efficient Automatic Differentation of Implicit Functions. Charles C. Margossian and Michael Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
 * (2021) Nested $\hat R$: Assessing Convergence for Markov chain Monte Carlo when using many short chains. Charles C. Margossian, Matthew D. Hoffman, and Pavel Sountsov [[preprint](https://arxiv.org/abs/2110.13017)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. Charles C. Margossian and Sumit Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
 * (2021) Fast methods for posterior inference of two-group normal-normal models. Philip Greengard, Jeremy Hoskins, Charles C.Margossian, Andrew Gelman and Aki Vehtari. [[preprint](https://arxiv.org/abs/2110.03055)]
