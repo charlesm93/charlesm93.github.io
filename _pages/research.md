@@ -22,7 +22,7 @@ Emphasis on the differentiation of implicit functions, such as solutions to diff
 
 ### Writing
 
-[Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en).
+[Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
 * (2022) Efficient Automatic Differentation of Implicit Functions. Charles C. Margossian and Michael Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
@@ -34,7 +34,7 @@ Preprints:
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. Michael Betancourt, Charles C. Margossian and Vianey Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
 
 Books:
-* (2020) Modernizing Markov chains Monte Carlo for Scientific and Bayesian modeling. Charles C. Margossian. _PhD Thesis in Statistics, Columbia University, Graduate School of Arts and Sciences_. [[book](http://charlesm93.github.io/files/thesis.pdf)]
+* (2022) Modernizing Markov chains Monte Carlo for Scientific and Bayesian modeling. Charles C. Margossian. _PhD Thesis in Statistics, Columbia University, Graduate School of Arts and Sciences_. [[book](http://charlesm93.github.io/files/thesis.pdf)]
 * (2022+) Bayesian Workflow. Andrew Gelman et al. _In progress_
 
 Published papers:
