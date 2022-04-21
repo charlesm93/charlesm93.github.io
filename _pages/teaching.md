@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: no
 ---
 
-In some sense, statistics is the backbone of experimental and observational science, and as such it appears in most scientific and quantitative fields.
-But statistics is (really f***ing) hard.
+Statistics is the backbone of experimental and observational science, and as such it appears in most scientific and quantitative fields.
+But statistics is hard.
 With colleagues, I work hard to distill and communicate important concepts, and develop pedagogically sound papers, notebooks, software and courses.
-Currently I'm writing chapters for an upcoming textbook of Bayesian modeling workflows.
+Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_.
 
 My work as a teacher falls into two categories:
 I teach one or two days workshops on modeling and data analysis targeted at audiences from various backgrounds, including biomedicine, physics, and political science.
@@ -22,7 +22,7 @@ Time allowing, I'm happy to teach a workshop. If you're interested, feel free to
 I've been invited as an intrusctor for the following courses and conferences:
 
 * (2018 -- 2022) _Introduction to Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf)]
-* (2019, 2020, 2021) _Building, fitting, and criticizing Bayesian Pharmacokinetic/Pharmacodynamic models using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop)
+* (2019 -- 2022) _Building, fitting, and criticizing Bayesian Pharmacokinetic/Pharmacodynamic models using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop) [[outline](http://charlesm93.github.io/files/outline-torsten_workshop.pdf)]
 * (2019, 2020) _Stan for the people: introductory workshop on Bayesian modeling_, McGill University,
 Montreal, Canada. (2 days workshop)
 * (2019) _Population and ODE-based models using Stan and Torsten_,
@@ -34,8 +34,8 @@ co-instructor with [Yi Zhang](https://metrumrg.com/team_member/yi-zhang-ph-d/), 
 
 Courses at Columbia:
 
+* (2021, 2022) STAT 6102: Applied Statistics II (PhD level)
 * (2021) STAT 4206 / 5206: Statistical Computing and Introduction to Data Science (undergraduate and masters level)
-* (2021) STAT 6102: Applied Statistics II (PhD level)
 * (2019, 2020) STAT 6701: Foundations of Grapical Models (PhD level))
 * (2019) STAT 4204/5204: Statistical inference (undergraduate / masters level)
 * (2018) STAT 4206: Statistical Computing and Introduction to Data Science (undergraduate level)
