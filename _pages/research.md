@@ -25,7 +25,6 @@ Emphasis on the differentiation of implicit functions, such as solutions to diff
 ([Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en))
 
 Preprints:
-* (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. [[preprint](https://arxiv.org/abs/2109.10184)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. Charles C. Margossian and Michael Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
 * (2021) Nested $\hat R$: Assessing Convergence for Markov chain Monte Carlo when using many short chains. Charles C. Margossian, Matthew D. Hoffman, and Pavel Sountsov [[preprint](https://arxiv.org/abs/2110.13017)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. Charles C. Margossian and Sumit Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
@@ -38,6 +37,7 @@ Books:
 * (2022+) Bayesian Workflow. Andrew Gelman et al. _In progress_
 
 Published papers:
+* (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. (Accepted) [[preprint](https://arxiv.org/abs/2109.10184)]
 * (2021) Bayesian Workflow for disease transmission modeling in Stan. Leo Grinsztajn, Elizaveta Semenova, Charles C. Margossian and Julien Riou. _Statistics in medicine_.
 [[article](https://onlinelibrary.wiley.com/doi/10.1002/sim.9164), [preprint](https://arxiv.org/abs/2006.02985),
 [html file](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),

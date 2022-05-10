@@ -12,7 +12,7 @@ Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_.
 
 My work as a teacher falls into two categories:
 I teach one or two days workshops on modeling and data analysis targeted at audiences from various backgrounds, including biomedicine, physics, and political science.
-My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercise.  
+My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.  
 I've also been a teacher assistant for five consecutive years for courses taught by Columbia's department of statistics, at all levels (undergraduate, masters and PhD).
 
 Time allowing, I'm happy to teach a workshop. If you're interested, feel free to contact me!
