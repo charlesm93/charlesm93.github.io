@@ -33,7 +33,7 @@ Preprints:
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. Michael Betancourt, Charles C. Margossian and Vianey Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
 
 Books:
-* (2022) Modernizing Markov chains Monte Carlo for Scientific and Bayesian modeling. Charles C. Margossian. _PhD Thesis in Statistics, Columbia University, Graduate School of Arts and Sciences_. [[book](https://academiccommons.columbia.edu/doi/10.7916/0wsc-kz90), [Erratum](http://charlesm93.github.io/files/thesis_erratum.pdf)]
+* (2022) Modernizing Markov chains Monte Carlo for Scientific and Bayesian modeling. Charles C. Margossian. _PhD Thesis in Statistics, Columbia University, Graduate School of Arts and Sciences_. [[book](https://academiccommons.columbia.edu/doi/10.7916/0wsc-kz90), [erratum](http://charlesm93.github.io/files/thesis_erratum.pdf)]
 * (2022+) Bayesian Workflow. Andrew Gelman et al. _In progress_
 
 Published papers:
