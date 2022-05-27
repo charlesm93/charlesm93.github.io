@@ -7,7 +7,7 @@ output:
     df_print: paged
 ---
 
-My interests lie in applied and computational statistics.
+My interests lie in Applied and Computational Statistics.
 A lot of my work is motivated by problems in Bayesian modeling.
 More precisely:
 
@@ -15,8 +15,8 @@ More precisely:
 This encompasses Markov chains Monte Carlo, Gibbs and Hamiltonian Monte Carlo sampling, and approximate methods such as integrated Laplace approximations.
 * Automatic differentiation, meaning the computation of derivatives to supports gradient based algorithms.
 Emphasis on the differentiation of implicit functions, such as solutions to differential equations.
-* Hierarchical and latent Gaussian models, the geometry of their posteriors, and how this interacts with simulation algorithms.
-* Bayesian modeling workflows with applications in pharmacometrics, epidimeology, and physics.
+* Hierarchical and latent Gaussian models, the geometry of their posteriors, and how this interacts with algorithms.
+* Bayesian modeling workflows with applications in Pharmacometrics, Epidimeology, and Physics.
 * Ising and Spin glass models, graph models, and more generally high-dimensional discrete spaces.
 
 
@@ -73,7 +73,7 @@ Technical reports:
 * Contributing New Functions to Stan. Stan development team. [[wiki page](https://github.com/stan-dev/stan/wiki/Contributing-New-Functions-to-Stan)]
 
 
-### Softwares
+### Software
 
 * Stan: a probabilistic programing language. Stan development team. [[Home page](https://mc-stan.org/)]
 * Torsten: a pharmacometrics library for Stan. Bill Gillespie, Yi Zhang, Charles C. Margossian, and Metrum Research Group. [[GitHub](https://github.com/metrumresearchgroup/Torsten)]
