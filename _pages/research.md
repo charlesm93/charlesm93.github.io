@@ -26,7 +26,7 @@ Emphasis on the differentiation of implicit functions, such as solutions to diff
 
 Preprints:
 * (2022) Efficient Automatic Differentation of Implicit Functions. Charles C. Margossian and Michael Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
-* (2021) Nested $\hat R$: Assessing Convergence for Markov chain Monte Carlo when using many short chains. Charles C. Margossian, Matthew D. Hoffman, and Pavel Sountsov [[preprint](https://arxiv.org/abs/2110.13017)]
+* (2021) Nested $\hat R$: Assessing Convergence for Markov chain Monte Carlo when using many short chains. Charles C. Margossian, Matthew D. Hoffman, and Pavel Sountsov [[preprint](https://arxiv.org/abs/2110.13017)] _Note: for a more up to date version of this work, see Chapter 3 in my thesis._
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. Charles C. Margossian and Sumit Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
 * (2021) Fast methods for posterior inference of two-group normal-normal models. Philip Greengard, Jeremy Hoskins, Charles C.Margossian, Andrew Gelman and Aki Vehtari. [[preprint](https://arxiv.org/abs/2110.03055)]
 * (2020) Bayesian Workflow. Andrew Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
