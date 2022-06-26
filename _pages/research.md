@@ -12,7 +12,7 @@ A lot of my work is motivated by problems in Bayesian modeling.
 More precisely:
 
 * Simulation algorithms and the computation of high-dimensional integrals.
-This encompasses Markov chains Monte Carlo, Gibbs and Hamiltonian Monte Carlo sampling, and approximate methods such as integrated Laplace approximations.
+This encompasses Markov chains Monte Carlo and approximate methods such as Variational inference and integrated Laplace approximations.
 * Automatic differentiation, meaning the computation of derivatives to supports gradient based algorithms.
 Emphasis on the differentiation of implicit functions, such as solutions to differential equations.
 * Hierarchical and latent Gaussian models, the geometry of their posteriors, and how this interacts with algorithms.
@@ -37,7 +37,7 @@ Books:
 * (2022+) Bayesian Workflow. Andrew Gelman et al. _In progress_
 
 Published papers:
-* (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. (Accepted) [[preprint](https://arxiv.org/abs/2109.10184)]
+* (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. Charles C. Margossian, Yi Zhang and William R. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. [[article](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12812), [preprint](https://arxiv.org/abs/2109.10184)]
 * (2021) Bayesian Workflow for disease transmission modeling in Stan. Leo Grinsztajn, Elizaveta Semenova, Charles C. Margossian and Julien Riou. _Statistics in medicine_.
 [[article](https://onlinelibrary.wiley.com/doi/10.1002/sim.9164), [preprint](https://arxiv.org/abs/2006.02985),
 [html file](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),
