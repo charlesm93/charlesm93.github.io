@@ -8,7 +8,7 @@ redirect_from:
 author_profile: yes
 ---
 
-I'm a (soon to be) Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Center for Computational Mathematics.
+I'm a Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Center for Computational Mathematics.
  I completed my PhD in Statistics at Columbia University under the supervision of Andrew Gelman.
  I'm interested in the development and application of novel statistical methods to the life and physical sciences. Much of my work focuses on Bayesian modeling and its computational implementation.
 
