@@ -13,11 +13,11 @@ More precisely:
 
 * Simulation algorithms and the computation of high-dimensional integrals.
 This encompasses Markov chains Monte Carlo and approximate methods such as Variational inference and integrated Laplace approximations.
-* Automatic differentiation, meaning the computation of derivatives to supports gradient based algorithms.
+* Automatic differentiation, meaning the computation of derivatives to supports gradient-based algorithms.
 Emphasis on the differentiation of implicit functions, such as solutions to differential equations.
 * Hierarchical and latent Gaussian models, the geometry of their posteriors, and how this interacts with algorithms.
-* Bayesian modeling workflows with applications in Pharmacometrics, Epidimeology, and Physics.
-* Ising and Spin glass models, graph models, and more generally high-dimensional discrete spaces.
+* Bayesian modeling workflows with applications in Pharmacometrics, Epidimeology, Atronomy, and Physics.
+* Ising, Potts and Spin glass models, graph models, and more generally high-dimensional discrete spaces.
 
 
 ### Writing
@@ -25,8 +25,8 @@ Emphasis on the differentiation of implicit functions, such as solutions to diff
 ([Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en))
 
 Preprints:
+* (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. Charles C. Margossian, Matthew D. Hoffman, Pavel Sountsov, Lionel Riou-Durand, Aki Vehtari and Andrew Gelman [[preprint](https://arxiv.org/abs/2110.13017)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. Charles C. Margossian and Michael Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
-* (2021) Nested $\hat R$: Assessing Convergence for Markov chain Monte Carlo when using many short chains. Charles C. Margossian, Matthew D. Hoffman, and Pavel Sountsov [[preprint](https://arxiv.org/abs/2110.13017)] _Note: for a more up to date version of this work, see Chapter 3 in my thesis._
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. Charles C. Margossian and Sumit Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
 * (2020) Bayesian Workflow. Andrew Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. Michael Betancourt, Charles C. Margossian and Vianey Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
