@@ -2,7 +2,7 @@
 # layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: no
+author_profile: yes
 ---
 
 Statistics is the backbone of experimental and observational science, and as such it appears in most scientific and quantitative fields.

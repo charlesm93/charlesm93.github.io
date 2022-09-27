@@ -2,7 +2,7 @@
 # layout: archive
 title: "Bio"
 permalink: /bio/
-author_profile: no
+author_profile: yes
 ---
 
 August 2022, I'm starting a new job as a Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Center for Computational Mathematics.

@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: yes
 output:
@@ -7,8 +7,7 @@ output:
     df_print: paged
 ---
 
-<span style="font-size:0.75em;">
-Broadly speaking, my research interests lie in Applied and Computational Statistics.
+My research interests lie in Applied and Computational Statistics.
 Some keywords:
 
 * Markov chains Monte Carlo
@@ -21,7 +20,7 @@ Some keywords:
 
 ### Writing
 
-([Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en))
+[Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
 * (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017)]
