@@ -6,6 +6,7 @@ redirect_from:
 - /about/
 - /about.html
 author_profile: yes
+font-size: 12pt
 ---
 
 I'm a Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Center for Computational Mathematics.
