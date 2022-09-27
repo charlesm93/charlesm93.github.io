@@ -1,12 +1,13 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: no
+author_profile: yes
 output:
   html_document:
     df_print: paged
 ---
 
+<span style="font-size:0.5em;">
 Broadly speaking, my research interests lie in Applied and Computational Statistics.
 Some keywords:
 
@@ -16,7 +17,7 @@ Some keywords:
 * Bayesian hierarchical and latent Gaussian models
 * Bayesian modeling workflows
 * Ising, Potts, and Spin Glass models
-
+</span>
 
 
 ### Writing
