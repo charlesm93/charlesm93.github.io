@@ -7,7 +7,7 @@ output:
     df_print: paged
 ---
 
-<span style="font-size:0.5em;">
+<span style="font-size:0.75em;">
 Broadly speaking, my research interests lie in Applied and Computational Statistics.
 Some keywords:
 
@@ -17,7 +17,6 @@ Some keywords:
 * Bayesian hierarchical and latent Gaussian models
 * Bayesian modeling workflows
 * Ising, Potts, and Spin Glass models
-</span>
 
 
 ### Writing
@@ -90,3 +89,5 @@ The data generating process of the model involved the solution to a constrained 
 See this discussion on [non-smooth posterior and KKT](https://discourse.mc-stan.org/t/non-smooth-posterior-and-kkt-problem/6281).
 
 In 2018, I did a class project in population genetics with [Elliott Gordon Rodriguez](http://stat.columbia.edu/department-directory/name/elliot-gordon/), working with Guy Sella and his [lab](https://sellalab.biology.columbia.edu/) in the Department of Biological Sciences.
+
+</span>
