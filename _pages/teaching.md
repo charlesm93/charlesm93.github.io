@@ -7,7 +7,7 @@ author_profile: no
 
 Statistics is the backbone of experimental and observational science, and as such it appears in most scientific and quantitative fields.
 But statistics is hard.
-With colleagues, I work hard to distill and communicate important concepts, and develop pedagogically sound papers, notebooks, software and courses.
+With colleagues, I try to distill and communicate important concepts, and develop pedagogically sound papers, notebooks, software and courses.
 Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_.
 
 My work as a teacher falls into two categories:
@@ -15,7 +15,7 @@ I teach one or two days workshops on modeling and data analysis targeted at audi
 My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.  
 I've also been a teacher assistant for five consecutive years for courses taught by Columbia's department of statistics, at all levels (undergraduate, masters and PhD).
 
-Time allowing, I'm happy to teach a workshop. If you're interested, feel free to contact me!
+I quite enjoy teaching workshops on [Stan](https://mc-stan.org/) and [Torsten](https://github.com/metrumresearchgroup/Torsten). If you're interested in such a course, feel free to contact me!
 
 ### Instructor
 

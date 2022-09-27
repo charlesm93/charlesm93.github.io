@@ -29,4 +29,4 @@ In Hartford, I co-founded the Albatross, which still plays at the [Sea Tea](http
 I have not been improvising on a regular basis lately, but I attend the occasional jam.
 
 Other than that, I sometimes draw cartoons and I'm always down for a pick-up soccer game. 
-I've started doing ballroom dancing with some wonderful people at Columbia.
+I do ballroom dancing with some wonderful people at Columbia University and in New York.
