@@ -15,7 +15,7 @@ Much of my research is motivated by Bayesian modeling problems in Pharmacometric
 I study Markov chains Monte Carlo (MCMC) and approximate Bayesian computation, as well as hybrids which combine the two paradigms.
 
 My work bridges statistical methods, computation, and application through the development of probabilistic programing.
-I'm a core developer of the Bayesian inference software [Stan](http://mc-stan.org/), the co-creator of its Pharmacometrics extension [Torsten](https://github.com/metrumresearchgroup/Torsten), and I have an ongoing collaboration with the [TensorFlow Probability team](https://www.tensorflow.org/probability).
+I'm a core developer of the Bayesian inference software [Stan](http://mc-stan.org/), the co-creator of its Pharmacometrics extension [Torsten](https://github.com/metrumresearchgroup/Torsten), and I have an ongoing collaboration with the [TensorFlow Probability](https://www.tensorflow.org/probability) team.
 
 I earned a Ph.D. in Statistics from Columbia University in 2022 and a B.Sci. in Physics from Yale University in 2015.
 You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesm.pdf).

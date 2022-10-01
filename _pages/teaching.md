@@ -12,10 +12,12 @@ Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_.
 
 My work as a teacher falls into two categories:
 I teach one or two days workshops on modeling and data analysis targeted at audiences from various backgrounds, including biomedicine, physics, and political science.
-My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.  
+My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.
+I quite enjoy teaching workshops on [Stan](https://mc-stan.org/) and [Torsten](https://github.com/metrumresearchgroup/Torsten). If you're interested in such a course, feel free to contact me!
+
 I've also been a teacher assistant for five consecutive years for courses taught by Columbia's department of statistics, at all levels (undergraduate, masters and PhD).
 
-I quite enjoy teaching workshops on [Stan](https://mc-stan.org/) and [Torsten](https://github.com/metrumresearchgroup/Torsten). If you're interested in such a course, feel free to contact me!
+
 
 ### Instructor
 
