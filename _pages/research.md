@@ -11,7 +11,8 @@ My research interests lie in Applied and Computational Statistics.
 Some keywords:
 
 * Markov chains Monte Carlo
-* Approximate Bayesian inference, e.g. integrated Laplace approximations, Variational inference
+* Integrated Laplace approximations
+* Variational inference
 * Automatic Differentiation, especially for implicit functions
 * Bayesian hierarchical and latent Gaussian models
 * Bayesian modeling workflows
@@ -35,11 +36,10 @@ Books:
 * (2022+) Bayesian Workflow. A. Gelman et al. _In progress_
 
 Published papers:
-* (2021) Fast methods for posterior inference of two-group normal-normal models. P. Greengard, J. Hoskins, C. Margossian, A. Gelman and A. Vehtari. _Bayesian Analysis (to appear)_. [[preprint](https://arxiv.org/abs/2110.03055)]
-* (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. C. Margossian, Y. Zhang and  W. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. [[article](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12812), [preprint](https://arxiv.org/abs/2109.10184)]
+* (2021) Fast methods for posterior inference of two-group normal-normal models. P. Greengard, J. Hoskins, C. Margossian, A. Gelman and A. Vehtari. _Bayesian Analysis (to appear)_. [[article]( https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Fast-Methods-for-Posterior-Inference-of-Two-Group-Normal-Normal/10.1214/22-BA1329.full), [preprint](https://arxiv.org/abs/2110.03055), [R package](https://github.com/pgree/fastNoNo)]
+* (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. C. Margossian, Y. Zhang and  W. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. [[article](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12812), [preprint](https://arxiv.org/abs/2109.10184), [code](https://github.com/metrumresearchgroup/torsten_tutorial_1_supplementary), [software](https://github.com/pgree/fastNoNo)]
 * (2021) Bayesian Workflow for disease transmission modeling in Stan. L. Grinsztajn, E. Semenova, C. Margossian and J. Riou. _Statistics in medicine_.
 [[article](https://onlinelibrary.wiley.com/doi/10.1002/sim.9164), [preprint](https://arxiv.org/abs/2006.02985),
-[html file](https://mc-stan.org/users/documentation/case-studies/boarding_school_case_study.html),
 [code](https://github.com/stan-dev/example-models/tree/master/knitr/disease_transmission),
 [talk](https://www.youtube.com/watch?v=unHZhfur5Sc)]
 * (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation: Bayesian inference for latent Gaussian models and beyond. C. Margossian, A. Vehtari, D. Simpson and R. Agrawal. _NeurIPS 2020_. [[article](https://proceedings.neurips.cc/paper/2020/hash/673de96b04fa3adcae1aacda704217ef-Abstract.html), [poster](http://charlesm93.github.io/files/poster_ela.pdf), [preprint](https://arxiv.org/abs/2004.12550),
