@@ -7,25 +7,15 @@ output:
     df_print: paged
 ---
 
-My research interests lie in Applied and Computational Statistics.
-Some keywords:
-
-* Markov chains Monte Carlo
-* Integrated Laplace approximations
-* Variational inference
-* Automatic Differentiation, especially for implicit functions
-* Bayesian hierarchical and latent Gaussian models
-* Bayesian modeling workflows
-* Ising, Potts, and Spin Glass models
-
+**Keywords**: Markov chain Monte Carlo; (integrated) Laplace approximation; variational inference; automatic differentiation; Bayesian hierarchical models; ODE-based models; Bayesian workflow; Ising, Potts, and spin glass models.
 
 ### Writing
 
 [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
-* (2022) Adaptive Tuning for Metropolis Adjusted Langevin Trajectories. L. Riou-Durand, P. Sountsov, J. Vogrinc, C. Margossian and S. Power [[preprint](https://arxiv.org/abs/2210.12200)]
-* (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017)]
+* (2023) The Shrinkage-Delinkage Trade-off: An Analysis of Factorized Gaussian Approximations for Variational Inference. C. Margossian and L. Saul. [[preprint](https://arxiv.org/abs/2302.09163), [code](https://github.com/charlesm93/variance-delinkage)]
+* (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. C. Margossian and M. Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. C. Margossian and S. Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
 * (2020) Bayesian Workflow. A. Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
@@ -36,7 +26,8 @@ Books:
 * (2022+) Bayesian Workflow. A. Gelman et al. _In progress_
 
 Published papers:
-* (2021) Fast methods for posterior inference of two-group normal-normal models. P. Greengard, J. Hoskins, C. Margossian, A. Gelman and A. Vehtari. _Bayesian Analysis (to appear)_. [[article]( https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Fast-Methods-for-Posterior-Inference-of-Two-Group-Normal-Normal/10.1214/22-BA1329.full), [preprint](https://arxiv.org/abs/2110.03055), [R package](https://github.com/pgree/fastNoNo)]
+* (2022) Adaptive Tuning for Metropolis Adjusted Langevin Trajectories. L. Riou-Durand, P. Sountsov, J. Vogrinc, C. Margossian and S. Power. _AISTATS 2023 (to appear)_ [[preprint](https://arxiv.org/abs/2210.12200)]
+* (2021) Fast methods for posterior inference of two-group normal-normal models. P. Greengard, J. Hoskins, C. Margossian, A. Gelman and A. Vehtari. _Bayesian Analysis_. [[article]( https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Fast-Methods-for-Posterior-Inference-of-Two-Group-Normal-Normal/10.1214/22-BA1329.full), [preprint](https://arxiv.org/abs/2110.03055), [R package](https://github.com/pgree/fastNoNo)]
 * (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. C. Margossian, Y. Zhang and  W. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. [[article](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12812), [preprint](https://arxiv.org/abs/2109.10184), [code](https://github.com/metrumresearchgroup/torsten_tutorial_1_supplementary), [software](https://github.com/pgree/fastNoNo)]
 * (2021) Bayesian Workflow for disease transmission modeling in Stan. L. Grinsztajn, E. Semenova, C. Margossian and J. Riou. _Statistics in medicine_.
 [[article](https://onlinelibrary.wiley.com/doi/10.1002/sim.9164), [preprint](https://arxiv.org/abs/2006.02985),
