@@ -5,7 +5,7 @@ permalink: /bio/
 author_profile: yes
 ---
 
-In August 2022, I began working as a Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Center for Computational Mathematics, where I will be affiliated with the Computational Statistics group and part of the [institute's greater effort in Machine Learning research](https://www.simonsfoundation.org/machine-learning-at-the-flatiron-institute/).
+Since August 2022, I am a Research Fellow at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), Center for Computational Mathematics. My primary affiliation is with the Computational Statistics group. I'm also part of the institute's greater research effort in [Machine Learning](https://www.simonsfoundation.org/machine-learning-at-the-flatiron-institute/).
 
 I was borned and raised in Paris, France. 
 My high-school degree was in Science, with a specialty in Mathematics.
