@@ -5,18 +5,17 @@ permalink: /teaching/
 author_profile: yes
 ---
 
-Statistics is the backbone of experimental and observational science, and as such it appears in most scientific and quantitative fields.
-But statistics is hard.
-With colleagues, I try to distill and communicate important concepts, and develop pedagogically sound papers, notebooks, software and courses.
-Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_.
+Statistics is the backbone of experimental and observational science, and as such it appears in most quantitative fields; it also give us many tools to understand machine learning.
+With colleagues, I try to distill important concepts, and develop pedagogically sound papers, software and courses.
+Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_; an early outline of this work exists as a [preprint](https://arxiv.org/abs/2011.01808).
 
-My work as a teacher falls into two categories:
-I teach one or two days workshops on modeling and data analysis targeted at audiences from various backgrounds, including biomedicine, physics, and political science.
+I have now several times taught 1 -- 2 days workshops on modeling and data analysis.
 My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.
+Here's a [testimony](https://statmodeling.stat.columbia.edu/2020/08/19/i-just-wanted-to-say-that-for-the-first-time-in-three-4-years-of-efforts-i-have-a-way-to-estimate-my-model/) on a workshop I gave in 2020 at McGill University in Montreal.
 I quite enjoy teaching workshops on [Stan](https://mc-stan.org/) and [Torsten](https://github.com/metrumresearchgroup/Torsten). If you're interested in such a course, feel free to contact me!
 
-I've also been a teacher assistant for five consecutive years for courses taught by Columbia's department of statistics, at all levels (undergraduate, masters and PhD).
-
+As a graduate student, I also served as a teacher assistant for five consecutive years for the department of statistics at Columbia university, for courses at all levels (undergraduate, masters and PhD).
+Upon graduation, I recieved the _Minghui Yu Teaching Assistant Award_, awarded by the director of graduate studies based on feedback from students. 
 
 
 ### Instructor
