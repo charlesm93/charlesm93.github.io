@@ -23,7 +23,7 @@ You can find out more by browsing this website or looking at my [CV](http://char
 ### News
 
 * I'll be attending the [BayesComp 2023 conference](https://bayescomp2023.com/) in Finland this March.
-* Call for talks, sessions, tutorials and posters at the upcoming StanCon 2023 are now open! The conference will take place in June in St Louis Missouri.  
+* Call for talks, sessions, tutorials and posters at the upcoming [StanCon 2023](https://mc-stan.org/events/stancon2023/) are now open! The conference will take place in June in St Louis Missouri.  
 
 (last updated: February 25th 2023)
 
