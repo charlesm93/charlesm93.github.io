@@ -43,7 +43,9 @@ with mass measurements of two additional plamets of two additional planets (PH3 
 
 
 Conference posters and notebooks:
-* (2022) Approximate Bayesian inference for latent Gaussian models in Stan -- two years later. C. Margossian, S. Bronder, A. Vehtari, D. Simpson and R. Agrawal. _DRAFT, trial period_. [[notebook](https://htmlpreview.github.io/?https://github.com/charlesm93/StanCon2020/blob/master/notebook-2022/lgm_stan.html#inst), [code](https://github.com/charlesm93/StanCon2020)]
+* (2023) Parallelization for Markov chains with heterogeneous runtimes. S. du Ché abd C.Margossian. _BayesComp_. [[poster](http://charlesm93.github.io/files/Bayescomp_ode_chains.pdf)]
+* (2023) Assessing the Convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _BayesComp_. [[poster](http://charlesm93.github.io/files/Bayescomp_nested_rhat.pdf)]
+* (2022) Approximate Bayesian inference for latent Gaussian models in Stan -- two years later. C. Margossian, S. Bronder, A. Vehtari, D. Simpson and R. Agrawal. [[notebook](https://htmlpreview.github.io/?https://github.com/charlesm93/StanCon2020/blob/master/notebook-2022/lgm_stan.html#inst), [code](https://github.com/charlesm93/StanCon2020)]
 * (2021) Developping a model of SARS-CoV-2 viral dynamics under monoclonal antibody treatment. A. Marc, M. Kerioui, C. Margossian, J. Bertrand, P. Maisonnasse, Y. Aldon, R. Sanders, M. Van Gils, R. Le Grand and J. Guedj. _Population Approach Group in Europe_.
 * (2021) Solving ODEs in a Bayesian context: challenges and opportunities. C. Margossian, L. Zhang, S. Weber and A. Gelman. _Population Approach Group in Europe_. [[poster](http://charlesm93.github.io/files/BayesianODE.pdf)]
 * (2020) Bayesian model of planetary motion: exploring ideas for a modeling workflow when dealing with ordinary differential equations and multimodality. C. Margossian and A. Gelman. _Stan Case Studies 7_. [[article](https://mc-stan.org/users/documentation/case-studies/planetary_motion/planetary_motion.html), [code](https://github.com/stan-dev/example-models/tree/master/knitr/planetary_motion)]
