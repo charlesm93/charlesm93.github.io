@@ -49,3 +49,11 @@ Workshops:
 (5 days workshop, taught by [Michael Betancourt](https://betanalpha.github.io))
 * (2017) _Getting Started with Bayesian PKPD Modeling using Stan and Torsten_, Population Approach Group in Europe 26, Budapest, Hungary (1 day workshop, taught by [Bill Gillespie](https://metrumrg.com/team_member/william-r-gillespie-ph-d/))
 * (2016, 2017) _Getting Started with Bayesian PKPD Modeling using Stan_, American Conference on Pharmacometrics 6 and 7 (1 day workshop, taught by Bill Gillespie)
+
+### Outreach
+
+Occasionally I write posts on the blog _Statistical modeling, causal inference, and social science_, primarily curated by Andrew Gelman, in an effort to summarize ongoing research:
+
+* (2023) [Parallelization for Markov chain Monte Carlo with heterogeneous runtimes: a case-study on ODE-based models](https://statmodeling.stat.columbia.edu/2023/03/20/parallelization-for-markov-chain-monte-carlo-with-heterogeneous-runtimes-a-case-study-on-ode-based-models/)
+* (2022) [What Nested R-hat teaches us about the classical R-hat](https://statmodeling.stat.columbia.edu/2022/10/05/what-nested-r-hat-teaches-us-about-the-classical-r-hat/)
+* (2021) [Design choices and user experience in Stan and TensorFlow Probability](https://statmodeling.stat.columbia.edu/2021/11/20/design-choices-and-user-experience-in-stan-and-tensorflow-probability/)
