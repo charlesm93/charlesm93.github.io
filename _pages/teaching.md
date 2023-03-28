@@ -22,7 +22,7 @@ Upon graduation, I recieved the _Minghui Yu Teaching Assistant Award_, awarded b
 
 I've been invited as an intrusctor for the following courses and conferences:
 
-* (2018 -- 2022) _Introduction to Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf)]
+* (2018 -- 2022) _Introduction to Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf), [erratum](http://charlesm93.github.io/files/notes_erratum.pdf)]
 * (2019 -- 2022) _Building, fitting, and criticizing Bayesian Pharmacokinetic/Pharmacodynamic models using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop) [[outline](http://charlesm93.github.io/files/outline-torsten_workshop.pdf)]
 * (2019, 2020) _Stan for the people: introductory workshop on Bayesian modeling_, McGill University,
 Montreal, Canada. (2 days workshop)
