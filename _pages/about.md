@@ -22,7 +22,6 @@ You can find out more by browsing this website or looking at my [CV](http://char
 
 ### News
 
-* Call for talks, sessions, tutorials and posters at the upcoming [StanCon 2023](https://mc-stan.org/events/stancon2023/) are now open! The conference will take place in June in St Louis Missouri.  **Deadline for proposals is approaching (March 31st)**.
+* Call for talks, sessions, tutorials and posters at the upcoming [StanCon 2023](https://mc-stan.org/events/stancon2023/) are still open (after extension of the deadline)! The conference will take place June 21st - 23rd in St Louis Missouri. Scholarships are available for early career scientists and members of underrepresented groups in the STEM. **Deadline for proposals is approaching (April 31st)**.
 
-(last updated: February 25th 2023)
-
+(last updated: April 18th 2023)
