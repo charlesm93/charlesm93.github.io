@@ -22,6 +22,10 @@ You can find out more by browsing this website or looking at my [CV](http://char
 
 ### News
 
-* Call for talks, sessions, tutorials and posters at the upcoming [StanCon 2023](https://mc-stan.org/events/stancon2023/) are still open (after extension of the deadline)! The conference will take place June 21st - 23rd in St Louis Missouri. Scholarships are available for early career scientists and members of underrepresented groups in the STEM. **Deadline for proposals is approaching (April 31st)**.
+* I'll be attending the [Uncertainty in Artificial Intelligence](https://www.auai.org/uai2023/) (UAI) conference in Pittsburgh this August to present [recent work on variational inference](https://arxiv.org/abs/2302.09163).
 
-(last updated: April 18th 2023)
+* I'll be speaking at the [Stan for pharmacometrics day 2023](https://stan4pmx.sciencesconf.org/) in Paris on June 8th. 
+
+* I'm co-organizing [StanCon 2023](https://mc-stan.org/events/stancon2023/)! The conference will take place June 21st - 23rd in St Louis Missouri. Scholarships are available for early career scientists and members of underrepresented groups in the STEM.
+
+(last updated: May 2023)
