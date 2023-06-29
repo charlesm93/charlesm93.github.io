@@ -14,7 +14,7 @@ output:
 [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
-* (2023) The Shrinkage-Delinkage Trade-off: An Analysis of Factorized Gaussian Approximations for Variational Inference. C. Margossian and L. Saul. [[preprint](https://arxiv.org/abs/2302.09163), [code](https://github.com/charlesm93/variance-delinkage)]
+* (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
 * (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. C. Margossian and M. Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. C. Margossian and S. Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
@@ -26,14 +26,15 @@ Books:
 * (2022+) Bayesian Workflow. A. Gelman et al. _In progress_
 
 Published papers:
-* (2022) Adaptive Tuning for Metropolis Adjusted Langevin Trajectories. L. Riou-Durand, P. Sountsov, J. Vogrinc, C. Margossian and S. Power. _AISTATS 2023 (to appear)_ [[preprint](https://arxiv.org/abs/2210.12200)]
+* (2023) The Shrinkage-Delinkage Trade-off: An Analysis of Factorized Gaussian Approximations for Variational Inference. C. Margossian and L. Saul. _Uncertainty in Artificial Intelligence (Oral) [[preprint](https://arxiv.org/abs/2302.09163), [code](https://github.com/charlesm93/variance-delinkage)]
+* (2022) Adaptive Tuning for Metropolis Adjusted Langevin Trajectories. L. Riou-Durand, P. Sountsov, J. Vogrinc, C. Margossian and S. Power. _Artificial Intelligence and Statistics_ [[preprint](https://arxiv.org/abs/2210.12200)]
 * (2021) Fast methods for posterior inference of two-group normal-normal models. P. Greengard, J. Hoskins, C. Margossian, A. Gelman and A. Vehtari. _Bayesian Analysis_. [[article]( https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Fast-Methods-for-Posterior-Inference-of-Two-Group-Normal-Normal/10.1214/22-BA1329.full), [preprint](https://arxiv.org/abs/2110.03055), [R package](https://github.com/pgree/fastNoNo)]
 * (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. C. Margossian, Y. Zhang and  W. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. [[article](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12812), [preprint](https://arxiv.org/abs/2109.10184), [code](https://github.com/metrumresearchgroup/torsten_tutorial_1_supplementary), [software](https://github.com/pgree/fastNoNo)]
 * (2021) Bayesian Workflow for disease transmission modeling in Stan. L. Grinsztajn, E. Semenova, C. Margossian and J. Riou. _Statistics in medicine_.
 [[article](https://onlinelibrary.wiley.com/doi/10.1002/sim.9164), [preprint](https://arxiv.org/abs/2006.02985),
 [code](https://github.com/stan-dev/example-models/tree/master/knitr/disease_transmission),
 [talk](https://www.youtube.com/watch?v=unHZhfur5Sc)]
-* (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation: Bayesian inference for latent Gaussian models and beyond. C. Margossian, A. Vehtari, D. Simpson and R. Agrawal. _NeurIPS 2020_. [[article](https://proceedings.neurips.cc/paper/2020/hash/673de96b04fa3adcae1aacda704217ef-Abstract.html), [poster](http://charlesm93.github.io/files/poster_ela.pdf), [preprint](https://arxiv.org/abs/2004.12550),
+* (2020) Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation: Bayesian inference for latent Gaussian models and beyond. C. Margossian, A. Vehtari, D. Simpson and R. Agrawal. _Neural Information Processing Systems_. [[article](https://proceedings.neurips.cc/paper/2020/hash/673de96b04fa3adcae1aacda704217ef-Abstract.html), [poster](http://charlesm93.github.io/files/poster_ela.pdf), [preprint](https://arxiv.org/abs/2004.12550),
 [code](https://github.com/charlesm93/laplace_manuscript)]
 * (2020) Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and six regions of Europe. J. Riou et al. _PLOS Medicine_. [[article](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003189),
 [preprint](https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v2)]
