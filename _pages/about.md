@@ -22,10 +22,8 @@ You can find out more by browsing this website or looking at my [CV](http://char
 
 ### News
 
-* I'll be attending the [Uncertainty in Artificial Intelligence](https://www.auai.org/uai2023/) (UAI) conference in Pittsburgh this August to present [recent work on variational inference](https://arxiv.org/abs/2302.09163).
+* In September, I'll be teaching a three-day workshop on Stan at the [Summer on Advanced Bayesian Methods](https://ibiostat.be/seminar/summerschool2023) in Leuven, Beligum. 
+* In August, I'll be attending the [Uncertainty in Artificial Intelligence](https://www.auai.org/uai2023/) (UAI) conference in Pittsburgh to present [recent work on variational inference](https://arxiv.org/abs/2302.09163).
+* My [interview](https://www.simonsfoundation.org/2023/06/12/between-knowing-nothing-and-knowing-for-sure-the-science-of-uncertainty/) for the Simons Foundation with science writer Mara Johnson-Groh is out. It provides an accessible overview of my research.
 
-* I'll be speaking at the [Stan for pharmacometrics day 2023](https://stan4pmx.sciencesconf.org/) in Paris on June 8th. 
-
-* I'm co-organizing [StanCon 2023](https://mc-stan.org/events/stancon2023/)! The conference will take place June 21st - 23rd in St Louis Missouri. Scholarships are available for early career scientists and members of underrepresented groups in the STEM.
-
-(last updated: May 2023)
+(last updated: July 2023)
