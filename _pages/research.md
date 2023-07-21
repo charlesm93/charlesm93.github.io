@@ -14,6 +14,9 @@ output:
 [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
+* (2023) Amortized Variational Inference: when and why? C. Margossian and D. Blei [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/
+charlesm93/amortized_vi)]
+* (2023) Variational Inference with Gaussian Score Matching. C. Modi, C. Margossian, Y. Yao, R. Gower, D. Blei and L. Saul [[preprint](https://arxiv.org/abs/2307.07849), [code](https://github.com/modichirag/GSM-VI)]
 * (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
 * (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. C. Margossian and M. Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
