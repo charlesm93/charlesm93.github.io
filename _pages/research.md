@@ -15,7 +15,7 @@ output:
 
 Preprints:
 * (2023) Amortized Variational Inference: when and why? C. Margossian and D. Blei [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/
-charlesm93/amortized_vi)]
+charlesm93/amortized_vi), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
 * (2023) Variational Inference with Gaussian Score Matching. C. Modi, C. Margossian, Y. Yao, R. Gower, D. Blei and L. Saul [[preprint](https://arxiv.org/abs/2307.07849), [code](https://github.com/modichirag/GSM-VI)]
 * (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
 * (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
@@ -23,10 +23,6 @@ charlesm93/amortized_vi)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. C. Margossian and S. Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
 * (2020) Bayesian Workflow. A. Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. M. Betancourt, C. Margossian and V. Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
-
-Books:
-* (2022) Modernizing Markov chains Monte Carlo for Scientific and Bayesian modeling. C. Margossian. _PhD Thesis in Statistics, Columbia University, Graduate School of Arts and Sciences_. [[book](https://academiccommons.columbia.edu/doi/10.7916/0wsc-kz90), [erratum](http://charlesm93.github.io/files/thesis_erratum.pdf)]
-* (2022+) Bayesian Workflow. A. Gelman et al. _In progress_
 
 Published papers:
 * (2023) The Shrinkage-Delinkage Trade-off: An Analysis of Factorized Gaussian Approximations for Variational Inference. C. Margossian and L. Saul. _Uncertainty in Artificial Intelligence_ (Oral) [[preprint](https://arxiv.org/abs/2302.09163), [code](https://github.com/charlesm93/variance-delinkage)]
@@ -45,6 +41,9 @@ Published papers:
 * (2014) Planet Hunters. VII. Discovery of a new low-mass, low-density (PH3 C) orbiting Kepler-289
 with mass measurements of two additional plamets of two additional planets (PH3 B and D). J. Schmitt et al. _Astrophysical Journal_. [[article](http://iopscience.iop.org/article/10.1088/0004-637X/795/2/167/meta;jsessionid=43641D4C5B1CC7595015BE11DDF1239F.c1)]
 
+Books:
+* (2022) Modernizing Markov chains Monte Carlo for Scientific and Bayesian modeling. C. Margossian. _PhD Thesis in Statistics, Columbia University, Graduate School of Arts and Sciences_. [[book](https://academiccommons.columbia.edu/doi/10.7916/0wsc-kz90), [erratum](http://charlesm93.github.io/files/thesis_erratum.pdf)]
+* (2022+) Bayesian Workflow. A. Gelman et al. _In progress_
 
 Conference posters and notebooks:
 * (2023) Parallelization for Markov chains with heterogeneous runtimes. S. du Ché abd C.Margossian. _BayesComp_. [[poster](http://charlesm93.github.io/files/Bayescomp_ode_chains.pdf)]
