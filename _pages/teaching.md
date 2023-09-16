@@ -9,7 +9,7 @@ Statistics is the backbone of experimental and observational science, and as suc
 With colleagues, I try to distill important concepts, and develop pedagogically sound papers, software and courses.
 Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_; an early outline of this work exists as a [preprint](https://arxiv.org/abs/2011.01808).
 
-I have now several times taught 1 -- 2 days workshops on modeling and data analysis.
+I have now several times taught 1 -- 3 days workshops on modeling and data analysis.
 My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.
 Here's a [testimony](https://statmodeling.stat.columbia.edu/2020/08/19/i-just-wanted-to-say-that-for-the-first-time-in-three-4-years-of-efforts-i-have-a-way-to-estimate-my-model/) on a workshop I gave in 2020 at McGill University in Montreal.
 I quite enjoy teaching workshops on [Stan](https://mc-stan.org/) and [Torsten](https://github.com/metrumresearchgroup/Torsten). If you're interested in such a course, feel free to contact me!
@@ -22,6 +22,8 @@ Upon graduation, I recieved the _Minghui Yu Teaching Assistant Award_, awarded b
 
 I've been invited as an intrusctor for the following courses and conferences:
 
+* (2023) _Bayesian Workflow for hierarchical and ODE-based models_, Summer School on Advanced Bayesian Methods, Leuven, Belgium. (3 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/Leuven_summer_school2023)]
+* (2023) _Fundamentals of Stan_. StanCon 2023. Washington University, St Louis, MO. (1/2 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/StanCon2023)]
 * (2018 -- 2022) _Introduction to Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf), [erratum](http://charlesm93.github.io/files/notes_erratum.pdf)]
 * (2019 -- 2022) _Building, fitting, and criticizing Bayesian Pharmacokinetic/Pharmacodynamic models using Stan and Torsten_ , University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop) [[outline](http://charlesm93.github.io/files/outline-torsten_workshop.pdf)]
 * (2019, 2020) _Stan for the people: introductory workshop on Bayesian modeling_, McGill University,
