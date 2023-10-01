@@ -11,7 +11,7 @@ You found my secret page! This is where I post some of my creative projects. Not
 
 ### The Gazette
 
-* I (1), Le R$\hat{\text{e}}$ve du Kilimanjaro
+* I (1), [Le R$\hat{\text{e}}$ve du Kilimanjaro](http://charlesm93.github.io/files/gazette/Reve_du_Kilimonjaro.pdf)
 
 
 
