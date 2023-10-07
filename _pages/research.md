@@ -16,7 +16,6 @@ output:
 Preprints:
 * (2023) Amortized Variational Inference: when and why? C. Margossian and D. Blei [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/
 charlesm93/amortized_vi), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
-* (2023) Variational Inference with Gaussian Score Matching. C. Modi, C. Margossian, Y. Yao, R. Gower, D. Blei and L. Saul [[preprint](https://arxiv.org/abs/2307.07849), [code](https://github.com/modichirag/GSM-VI)]
 * (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
 * (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. C. Margossian and M. Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
@@ -25,7 +24,8 @@ charlesm93/amortized_vi), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. M. Betancourt, C. Margossian and V. Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
 
 Published papers:
-* (2023) The Shrinkage-Delinkage Trade-off: An Analysis of Factorized Gaussian Approximations for Variational Inference. C. Margossian and L. Saul. _Uncertainty in Artificial Intelligence_ (Oral) [[preprint](https://arxiv.org/abs/2302.09163), [code](https://github.com/charlesm93/variance-delinkage)]
+* (2023) Variational Inference with Gaussian Score Matching. C. Modi, C. Margossian, Y. Yao, R. Gower, D. Blei and L. Saul. _Neural Information Processing Systems_ [[preprint](https://arxiv.org/abs/2307.07849), [code](https://github.com/modichirag/GSM-VI)]
+* (2023) The Shrinkage-Delinkage Trade-off: An Analysis of Factorized Gaussian Approximations for Variational Inference. C. Margossian and L. Saul. _Uncertainty in Artificial Intelligence_ (Oral) [[paper](https://proceedings.mlr.press/v216/margossian23a/margossian23a.pdf), [preprint](https://arxiv.org/abs/2302.09163), [code](https://github.com/charlesm93/variance-delinkage), [talk](https://www.youtube.com/watch?v=2q5azatd-Ko)]
 * (2022) Adaptive Tuning for Metropolis Adjusted Langevin Trajectories. L. Riou-Durand, P. Sountsov, J. Vogrinc, C. Margossian and S. Power. _Artificial Intelligence and Statistics_ [[preprint](https://arxiv.org/abs/2210.12200)]
 * (2021) Fast methods for posterior inference of two-group normal-normal models. P. Greengard, J. Hoskins, C. Margossian, A. Gelman and A. Vehtari. _Bayesian Analysis_. [[article]( https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Fast-Methods-for-Posterior-Inference-of-Two-Group-Normal-Normal/10.1214/22-BA1329.full), [preprint](https://arxiv.org/abs/2110.03055), [R package](https://github.com/pgree/fastNoNo)]
 * (2022) Flexible and efficient Bayesian pharmacometrics modeling using Stan and Torsten, Part I. C. Margossian, Y. Zhang and  W. Gillespie. _CPT: Pharmacometrics & Systems Pharmacology_. [[article](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12812), [preprint](https://arxiv.org/abs/2109.10184), [code](https://github.com/metrumresearchgroup/torsten_tutorial_1_supplementary), [software](https://github.com/pgree/fastNoNo)]
