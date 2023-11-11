@@ -14,6 +14,7 @@ output:
 [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
+* (2023) For how many iterations should we run Markov chain Monte Carlo? C. Margossian and A. Gelman [[preprint](https://arxiv.org/abs/2311.02726)]
 * (2023) Amortized Variational Inference: when and why? C. Margossian and D. Blei [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/
 charlesm93/amortized_vi), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
 * (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
