@@ -7,24 +7,26 @@ output:
     df_print: paged
 ---
 
-**Keywords**: Markov chain Monte Carlo; (integrated) Laplace approximation; variational inference; automatic differentiation; Bayesian hierarchical models; ODE-based models; Bayesian workflow; Ising, Potts, and spin glass models.
+**Keywords**: Markov chain Monte Carlo; variational inference; (integrated) Laplace approximation; automatic differentiation; Bayesian hierarchical models; ODE-based models; Bayesian workflow; Ising, Potts, and spin glass models.
 
 ### Writing
 
 [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
-* (2023) For how many iterations should we run Markov chain Monte Carlo? C. Margossian and A. Gelman [[preprint](https://arxiv.org/abs/2311.02726)]
-* (2023) Amortized Variational Inference: when and why? C. Margossian and D. Blei [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/
+* (2024) Listening to the Noise: Blind Denoising with Gibbs Diffusion. D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. [[preprint](https://arxiv.org/pdf/2402.19455.pdf)]
+* (2024) Batch and match: black-box variational inference with a score-based divergence. D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. [[preprint](https://arxiv.org/abs/2402.14758)]
+* (2024) Amortized Variational Inference: when and why? C. Margossian and D. Blei [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/
 charlesm93/amortized_vi), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
+* (2024) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
-* (2022) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. C. Margossian and M. Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. C. Margossian and S. Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
 * (2020) Bayesian Workflow. A. Gelman et al. [[preprint](https://arxiv.org/abs/2011.01808)]
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. M. Betancourt, C. Margossian and V. Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
 
 Published papers:
+* (2024) For how many iterations should we run Markov chain Monte Carlo? C. Margossian and A. Gelman. _Handbook of Markov chain Monte Carlo (accepted)_, 2nd Edition. [[preprint](https://arxiv.org/abs/2311.02726)]
 * (2023) Variational Inference with Gaussian Score Matching. C. Modi, C. Margossian, Y. Yao, R. Gower, D. Blei and L. Saul. _Neural Information Processing Systems_ [[preprint](https://arxiv.org/abs/2307.07849), [code](https://github.com/modichirag/GSM-VI)]
 * (2023) The Shrinkage-Delinkage Trade-off: An Analysis of Factorized Gaussian Approximations for Variational Inference. C. Margossian and L. Saul. _Uncertainty in Artificial Intelligence_ (Oral) [[paper](https://proceedings.mlr.press/v216/margossian23a/margossian23a.pdf), [preprint](https://arxiv.org/abs/2302.09163), [code](https://github.com/charlesm93/variance-delinkage), [talk](https://www.youtube.com/watch?v=2q5azatd-Ko)]
 * (2022) Adaptive Tuning for Metropolis Adjusted Langevin Trajectories. L. Riou-Durand, P. Sountsov, J. Vogrinc, C. Margossian and S. Power. _Artificial Intelligence and Statistics_ [[paper](https://proceedings.mlr.press/v206/riou-durand23a/riou-durand23a.pdf), [preprint](https://arxiv.org/abs/2210.12200), [code](https://github.com/tensorflow/probability/tree/main/discussion/adaptive_malt)]
@@ -74,15 +76,3 @@ Technical reports:
 * Stan: a probabilistic programing language. Stan development team. [[Home page](https://mc-stan.org/)]
 * Torsten: a pharmacometrics library for Stan. W. Gillespie, Y. Zhang, C. Margossian, and Metrum Research Group. [[GitHub](https://github.com/metrumresearchgroup/Torsten)]
 * mrgsolve: pharmacometrics and quantitative systems pharmacology simulation in R. K. Baron and contributors. [[Home page](https://mrgsolve.github.io/)]
-
-
-### Others
-
-As an undergraduate at Yale, I worked with the [exoplanet group](http://exoplanets.astro.yale.edu/) in the Department of Astronomy.
-
-In 2018, I worked on an econometrics model with
-[Shosh Vasserman](https://scholar.harvard.edu/vasserman/home).
-The data generating process of the model involved the solution to a constrained optimization problem, resulting in a discontinuous posterior. Finding an appropriate sampler remains an open problem.
-See this discussion on [non-smooth posterior and KKT](https://discourse.mc-stan.org/t/non-smooth-posterior-and-kkt-problem/6281).
-
-In 2018, I did a class project in population genetics with [Elliott Gordon Rodriguez](http://stat.columbia.edu/department-directory/name/elliot-gordon/), working with Guy Sella and his [lab](https://sellalab.biology.columbia.edu/) in the Department of Biological Sciences.
