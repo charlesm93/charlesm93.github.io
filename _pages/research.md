@@ -14,6 +14,8 @@ output:
 [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
+* (2024) An Ordering of Divergences for Variational Inference with Factorized Gaussian Approximations. C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/
+VI-ordering)]
 * (2024) Listening to the Noise: Blind Denoising with Gibbs Diffusion. D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. [[preprint](https://arxiv.org/pdf/2402.19455.pdf)]
 * (2024) Batch and match: black-box variational inference with a score-based divergence. D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. [[preprint](https://arxiv.org/abs/2402.14758)]
 * (2024) Amortized Variational Inference: when and why? C. Margossian and D. Blei [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/
