@@ -15,7 +15,6 @@ output:
 
 Preprints:
 * (2024) An Ordering of Divergences for Variational Inference with Factorized Gaussian Approximations. C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
-* (2024) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. C. Margossian and M. Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. C. Margossian and S. Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
@@ -23,6 +22,7 @@ Preprints:
 * (2020) The Discrete adjoint method: efficient derivatives for functions of discrete sequences. M. Betancourt, C. Margossian and V. Leos-Barajas. [[preprint](https://arxiv.org/abs/2002.00326)]
 
 Published papers:
+* (2024) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2024) Listening to the Noise: Blind Denoising with Gibbs Diffusion. D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/pdf/2402.19455.pdf)]
 * (2024) Batch and match: black-box variational inference with a score-based divergence. D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/abs/2402.14758)]
 * (2024) Amortized Variational Inference: when and why? C. Margossian and D. Blei. _PMLR: Uncertainty in Artificial Intelligence_ [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/charlesm93/AVI-when-and-why), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
