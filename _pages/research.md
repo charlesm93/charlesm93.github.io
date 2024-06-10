@@ -14,7 +14,7 @@ output:
 [Google scholar page](https://scholar.google.com/citations?user=nPtLsvIAAAAJ&hl=en)
 
 Preprints:
-* (2024) An Ordering of Divergences for Variational Inference with Factorized Gaussian Approximations. C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
+* (2024) Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs. C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2023) General adjoint-differentiated Laplace approximation. C. Margossian. [[preprint](https://arxiv.org/abs/2306.14976)]
 * (2022) Efficient Automatic Differentation of Implicit Functions. C. Margossian and M. Betancourt [[preprint](https://arxiv.org/abs/2112.14217)]
 * (2021) Simulating Ising and Potts models at critical and cold temperatures using auxiliary Gaussian variables. C. Margossian and S. Mukherjee. [[preprint](https://arxiv.org/abs/2110.10801)]
