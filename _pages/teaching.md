@@ -5,12 +5,10 @@ permalink: /teaching/
 author_profile: yes
 ---
 
-Statistics is the backbone of experimental and observational science, and as such it appears in most quantitative fields; it also give us many tools to understand machine learning.
-With colleagues, I try to distill important concepts, and develop pedagogically sound papers, software and courses.
-Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_; an early outline of this work exists as a [preprint](https://arxiv.org/abs/2011.01808).
+Statistics is the backbone of experimental and observational science, and as such it appears in most quantitative fields; it also give us many tools to understand machine learning. With some great colleagues, I try to distill important concepts, and develop pedagogically sound papers, software and courses.
 
 I have now several times taught 1 -- 3 days workshops on modeling and data analysis.
-My courses cover fundamental concepts in Bayesian statistics and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.
+My courses cover fundamental concepts in Bayesian modeling and some of the motivating theory, demonstrations on scientific examples, discussions of the "under-the-hood" algorithms that support statistical software, and hands-on coding exercises.
 Here's a [testimony](https://statmodeling.stat.columbia.edu/2020/08/19/i-just-wanted-to-say-that-for-the-first-time-in-three-4-years-of-efforts-i-have-a-way-to-estimate-my-model/) on a workshop I gave in 2020 at McGill University in Montreal.
 I quite enjoy teaching workshops on [Stan](https://mc-stan.org/) and [Torsten](https://github.com/metrumresearchgroup/Torsten). If you're interested in such a course, feel free to contact me!
 
@@ -22,6 +20,7 @@ Upon graduation, I recieved the _Minghui Yu Teaching Assistant Award_, awarded b
 
 I've been invited as an intrusctor for the following courses and conferences:
 
+* (2024) _Monte Carlo Methods_, Nordic Summer School on Probabilistic AI, Copenhagen, Denmark. (1/2 day workshop)[[course material](https://github.com/probabilisticai/nordic-probai-2024/tree/main/day4/Charles%20Margoissan))]
 * (2023) _Bayesian Workflow for hierarchical and ODE-based models_, Summer School on Advanced Bayesian Methods, Leuven, Belgium. (3 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/Leuven_summer_school2023)]
 * (2023) _Fundamentals of Stan_. StanCon 2023. Washington University, St Louis, MO. (1/2 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/StanCon2023)]
 * (2018 -- 2022) _Introduction to Probability and Bayes_, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf), [erratum](http://charlesm93.github.io/files/notes_erratum.pdf)]
@@ -54,8 +53,13 @@ Workshops:
 
 ### Outreach
 
-Occasionally I write posts on the blog _Statistical modeling, causal inference, and social science_, primarily curated by Andrew Gelman, in an effort to summarize ongoing research:
+Occasionally I write posts on the blog _Statistical modeling, causal inference, and social science_, primarily curated by Andrew Gelman. A list of my posts can be found [here](https://statmodeling.stat.columbia.edu/author/charles/).
 
-* (2023) [Parallelization for Markov chain Monte Carlo with heterogeneous runtimes: a case-study on ODE-based models](https://statmodeling.stat.columbia.edu/2023/03/20/parallelization-for-markov-chain-monte-carlo-with-heterogeneous-runtimes-a-case-study-on-ode-based-models/)
-* (2022) [What Nested R-hat teaches us about the classical R-hat](https://statmodeling.stat.columbia.edu/2022/10/05/what-nested-r-hat-teaches-us-about-the-classical-r-hat/)
-* (2021) [Design choices and user experience in Stan and TensorFlow Probability](https://statmodeling.stat.columbia.edu/2021/11/20/design-choices-and-user-experience-in-stan-and-tensorflow-probability/)
+Other outreach efforts:
+
+* (2024) I was the invited guess for the podcast [_learning Bayesian statistics_](https://learnbayesstats.com/episode/90-demystifying-mcmc-variational-inference-charles-margossian/), hosted by Alex Andorra. Our episode: "Demystifying MCMC and Variational Inference".
+* (2023) I was interviewed by science writer Mara Johnson-Groh for the Simons Foundation. The [article](https://www.simonsfoundation.org/2023/06/12/between-knowing-nothing-and-knowing-for-sure-the-science-of-uncertainty/) "Between knowing nothing and knowing for sure: the science of uncertainty" provides an accessible overview of my research.
+* (2021) I was a guest for the series [_Bayes. Uncertainty. Explained_](https://www.youtube.com/watch?v=hsNvClBFhcY), hosted by Generable. Our episode: "Some Outstanding Challenges when Solving ODEs in a Bayesian context".
+
+<!---->
+<!--Currently I'm writing chapters for the upcoming textbook _Bayesian Workflow_; an early outline of this work exists as a [preprint](https://arxiv.org/abs/2011.01808).-->
