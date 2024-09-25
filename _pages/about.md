@@ -37,7 +37,7 @@ My primary interest lies in statistics and probabilistic machine learning. My wo
 
 # Papers
 
-* (2024) <span style="color:blue">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
+* (2024) <span style="color:maroon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2024) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2024) Listening to the Noise: Blind Denoising with Gibbs Diffusion. D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/pdf/2402.19455.pdf)]
 * (2024) Batch and match: black-box variational inference with a score-based divergence. D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/abs/2402.14758)]
