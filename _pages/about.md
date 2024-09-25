@@ -35,11 +35,12 @@ My primary interest lies in statistics and probabilistic machine learning. My wo
 (last updated: September 2024)
 
 # Papers
-
+ 
 * (2024) <span style="color:maroon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2024) <span style="color:maroon">Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains.</span> C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
+* (2024) <span style="color:maroon">EigenVI: score-based variational inference with orthogonal function expansions.</span> D. Cai, C. Modi, C. Margossian, R. Gower, D. Blei and L. Saul. _Advances in Neural Information Processing Sysmtes_ (spotlight)
 * (2024) <span style="color:maroon">Listening to the Noise: Blind Denoising with Gibbs Diffusion.</span> D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/pdf/2402.19455.pdf)]
-* (2024) <span style="color:maroon">Batch and match: black-box variational inference with a score-based divergence.</span> D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/abs/2402.14758)]
+* (2024) <span style="color:maroon">Batch and match: black-box variational inference with a score-based divergence.</span> D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. _PMLR: International Conference on Machine Learning_ (spotlight) [[preprint](https://arxiv.org/abs/2402.14758)]
 * (2024) <span style="color:maroon">Amortized Variational Inference: when and why?</span> C. Margossian and D. Blei. _PMLR: Uncertainty in Artificial Intelligence_ [[preprint](https://arxiv.org/abs/2307.11018), [code](https://github.com/charlesm93/AVI-when-and-why), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
 * (2024) <span style="color:maroon">For how many iterations should we run Markov chain Monte Carlo?</span> C. Margossian and A. Gelman. _Handbook of Markov chain Monte Carlo_, (upcoming) 2nd Edition. [[preprint](https://arxiv.org/abs/2311.02726)]
 * (2023) <span style="color:maroon">Variational Inference with Gaussian Score Matching.</span> C. Modi, C. Margossian, Y. Yao, R. Gower, D. Blei and L. Saul. _Advances in Neural Information Processing Systems_ [[preprint](https://arxiv.org/abs/2307.07849), [code](https://github.com/modichirag/GSM-VI)]
