@@ -9,6 +9,8 @@ author_profile: yes
 font-size: 12pt
 ---
 
+# About
+
 I'm a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
 My primary interest lies in statistics and probabilistic machine learning. My work bridges statistical methods, computation, and application through the development of probabilistic programing languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
@@ -35,7 +37,7 @@ My primary interest lies in statistics and probabilistic machine learning. My wo
 
 # Papers
 
-* (2024) Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs. C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
+* (2024) <span style="color:blue">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[preprint](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2024) Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains. C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[preprint](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2024) Listening to the Noise: Blind Denoising with Gibbs Diffusion. D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/pdf/2402.19455.pdf)]
 * (2024) Batch and match: black-box variational inference with a score-based divergence. D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. _PMLR: International Conference on Machine Learning_ [[preprint](https://arxiv.org/abs/2402.14758)]
