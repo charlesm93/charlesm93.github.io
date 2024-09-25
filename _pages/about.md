@@ -14,9 +14,9 @@ I'm a Research Fellow in Computational Mathematics at the [Flatiron Institute](h
 
 My primary interest lies in statistics and probabilistic machine learning. My work bridges statistical methods, computation, and application through the development of probabilistic programing languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
 
-* <span style="color:maroon">Computation:</span> Markov chain Monte Carlo, Variational inference, (integrated) Laplace approximation, automatic differentiation
-* <span style="color:maroon">Modeling:</span> Bayesian workflow, hierarchical models, ODE-based models
-* <span style="color:maroon">Applications:</span> Pharmacometrics, Epidimeology, (Astro)physics
+* **Computation:** Markov chain Monte Carlo, Variational inference, (integrated) Laplace approximation, automatic differentiation
+* **Modeling:** Bayesian workflow, hierarchical models, ODE-based models
+* **Applications:** Pharmacometrics, Epidimeology, (Astro)physics
 
 
 # News
