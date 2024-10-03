@@ -10,9 +10,9 @@ font-size: 12pt
 ---
 
 
-I'm a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
+I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
-My primary interest lies in statistics and probabilistic machine learning. My work bridges statistical methods, computation, and application through the development of probabilistic programing languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
+My primary research interest lies in statistics and probabilistic machine learning. My work bridges methodology, computation, and application through the development of probabilistic programing languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
 
 * **Computation:** Markov chain Monte Carlo, Variational inference, (integrated) Laplace approximation, automatic differentiation
 * **Modeling:** Bayesian workflow, Hierarchical models, ODE-based models
@@ -21,9 +21,9 @@ My primary interest lies in statistics and probabilistic machine learning. My wo
 
 # News
 
-* I'm on the job market this year. I'm looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
+* I am on the job market this year. I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
 
-* I'll be attending the workshop on "Recent Advances and Future Directions for Sampling" at Yale on October 16th - 18th.
+* I will be attending the workshop on "Recent Advances and Future Directions for Sampling" at Yale on October 16th - 18th.
 
 <!--### Past news-->
 <!---->
@@ -32,7 +32,7 @@ My primary interest lies in statistics and probabilistic machine learning. My wo
 <!--* I was the invited guess for the podcast [learning Bayesian statistics](https://learnbayesstats.com/episode/90-demystifying-mcmc-variational-inference-charles-margossian/), hosted by Alex Andorra. Our episode: "Demystifying MCMC and Variational Inference".-->
 <!--* My [interview](https://www.simonsfoundation.org/2023/06/12/between-knowing-nothing-and-knowing-for-sure-the-science-of-uncertainty/) for the Simons Foundation with science writer Mara Johnson-Groh is out. It provides an accessible overview of my research.-->
 
-(last updated: September 2024)
+(last updated: October 2024)
 
 # Papers
  

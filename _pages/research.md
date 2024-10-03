@@ -1,11 +1,26 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: no
+author_profile: yes
 output:
   html_document:
     df_print: paged
 ---
+
+Bayesian modeling plays a central role in many scientific disciplines and branches of machine learning, where it is of interest to quantify uncertainty. 
+A persistent bottleneck in Bayesian analysis is the computation of the posterior distribution. 
+This problem is exacerbated by the increasing complexity of models and the growing size of data.
+To address these challenges, my research program centers on developing algorithms for Bayesian inference, which can take advantage of the parallelization capacity of modern hardware such as GPUs. 
+
+Applications 
+
+which integrate a scientific model inside a probabilistic model, as is often the case in pharmacometrics, epidemiology or astrophysics.
+
+ 
+
+
+
+
 
 **Keywords**: Markov chain Monte Carlo; variational inference; (integrated) Laplace approximation; automatic differentiation; Bayesian hierarchical models; ODE-based models; Bayesian workflow; Ising, Potts, and spin glass models.
 
