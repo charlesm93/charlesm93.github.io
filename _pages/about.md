@@ -12,6 +12,16 @@ font-size: 12pt
 
 I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
+# News
+
+* <span style="color:maroon">I am on the job market this year!</span> I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
+
+* I will be attending the workshop on "Recent Advances and Future Directions for Sampling" at Yale on October 16th - 18th.
+
+(last updated: October 2024)
+
+# About
+
 My primary research interest lies in statistics and probabilistic machine learning. My work bridges methodology, computation, and application through the development of probabilistic programing languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
 
 * **Computation:** Markov chain Monte Carlo, Variational inference, (integrated) Laplace approximation, automatic differentiation
@@ -19,11 +29,6 @@ My primary research interest lies in statistics and probabilistic machine learni
 * **Applications:** Pharmacometrics, Epidimeology, (Astro)physics
 
 
-# News
-
-* I am on the job market this year. I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
-
-* I will be attending the workshop on "Recent Advances and Future Directions for Sampling" at Yale on October 16th - 18th.
 
 <!--### Past news-->
 <!---->
@@ -31,8 +36,6 @@ My primary research interest lies in statistics and probabilistic machine learni
 <!--* This June, I'll be teaching a course on Monte Carlo methods, as part of the [Nordic Probabilistic AI school](https://nordic.probabilistic.ai/) in Copenhagen, Denmark.-->
 <!--* I was the invited guess for the podcast [learning Bayesian statistics](https://learnbayesstats.com/episode/90-demystifying-mcmc-variational-inference-charles-margossian/), hosted by Alex Andorra. Our episode: "Demystifying MCMC and Variational Inference".-->
 <!--* My [interview](https://www.simonsfoundation.org/2023/06/12/between-knowing-nothing-and-knowing-for-sure-the-science-of-uncertainty/) for the Simons Foundation with science writer Mara Johnson-Groh is out. It provides an accessible overview of my research.-->
-
-(last updated: October 2024)
 
 # Papers
  
