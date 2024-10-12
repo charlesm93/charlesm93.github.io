@@ -14,7 +14,7 @@ Here, I provided a more exhaustive list which includes conference posters and ot
 I ordered these into four broad themes: 
 
 * Markov chain Monte Carlo
-* Variational inference and approximate inference
+* Variational inference
 * Bayesian workflow and scientific applications
 * Automatic differentiation
 
@@ -34,11 +34,11 @@ Papers:
 
 Posters and technical reports:
 
-* (2024) <span style="color:maroon">Monitoring Nonstationary Variance to Assess Convergence of MCMC.</span> E. Mokel and C. Margossian. _ International Society of Bayesian Analysis (ISBA) world meeting_. Best poster award.
+* (2024) <span style="color:maroon">Monitoring Nonstationary Variance to Assess Convergence of MCMC.</span> E. Mokel and C. Margossian. *International Society of Bayesian Analysis (ISBA) world meeting*. Best poster award.
 * (2023) <span style="color:maroon">Parallelization for Markov chains with heterogeneous runtimes.</span> S. du Ché and C. Margossian. _BayesComp_. [[poster](http://charlesm93.github.io/files/Bayescomp_ode_chains.pdf)]
 
 
-# Variational Inference and approximate inference
+# Variational Inference
 
 VI is another workhorse of Bayesian analysis. The _modus operandi_ of VI is to find a parametric approximation of the posterior by solving an optimization problem. We can obtain fast optimization by restricting the family of approximations, for instance by using factorized and/or amortized distributions. VI is then suitable for the constrained computational budget imposed by large problems. On the other hand, a restricted approximation cannot perfectly match the posterior. A major axis of my research studies whether an imperfect approximation can still capture key features of the posterior, such as its mean, variance or entropy, even if this approximation is misleading in other ways. Concurently, I am interested in developing VI with highly expressive families of approximations, and building tractable optimization problems for such families.
 
