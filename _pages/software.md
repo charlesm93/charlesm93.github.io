@@ -11,7 +11,7 @@ My research on methods and algorithms is complemented by the development of open
 
 # Stan: a probablistic programming language
 
-<img src="img/stan.png" alt="hi" class="inline" style="width:50;height:75px;">
+<img src="../images/stan.png" alt="hi" class="inline" style="width:50;height:75px;">
 
 
 
