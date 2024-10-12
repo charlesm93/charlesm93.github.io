@@ -49,4 +49,4 @@ Torsten is open-source and it is maintained by [Metrum Research Group](https://w
 
 I have contributed to the following R packages:
 * [mrgsolve](https://mrgsolve.github.io/): pharmacometrics and quantitative systems pharmacology simulation in R.
-* [bayesplot]((https://mc-stan.org/bayesplot/): plotting Bayesian models
+* [bayesplot](https://mc-stan.org/bayesplot/): plotting Bayesian models
