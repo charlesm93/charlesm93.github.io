@@ -39,7 +39,7 @@ My primary research interest lies in statistics and probabilistic machine learni
 
 # Papers
  
-* (2024) <span style="color:maroon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. [[pdf](https://arxiv.org/abs/2410.11067)]]
+* (2024) <span style="color:maroon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. [[pdf](https://arxiv.org/abs/2410.11067)]
 * (2024) <span style="color:maroon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[pdf](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2024) <span style="color:maroon">Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains.</span> C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[article](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Nested-R%cb%86--Assessing-the-Convergence-of-Markov-Chain-Monte/10.1214/24-BA1453.full), [pdf](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
 * (2024) <span style="color:maroon">EigenVI: score-based variational inference with orthogonal function expansions.</span> D. Cai, C. Modi, C. Margossian, R. Gower, D. Blei and L. Saul. _Advances in Neural Information Processing Sysmtes_ (spotlight)
