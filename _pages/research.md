@@ -11,7 +11,7 @@ Bayesian modeling plays a central role in many scientific disciplines and branch
 
 A selection of research papers is available on my [home page](https://charlesm93.github.io/).
 Here, I provided a more exhaustive list which includes conference posters and other technical reports.
-I ordered these into four broad themes: 
+I ordered these into four broad themes:
 
 * Markov chain Monte Carlo
 * Variational inference
@@ -30,6 +30,8 @@ Papers:
 * (2024) <span style="color:Salmon">Listening to the Noise: Blind Denoising with Gibbs Diffusion.</span> D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[article](https://proceedings.mlr.press/v235/heurtel-depeiges24a.html), [pdf](https://arxiv.org/pdf/2402.19455.pdf)]
 * (2024) <span style="color:Salmon">For how many iterations should we run Markov chain Monte Carlo?</span> C. Margossian and A. Gelman. _Handbook of Markov chain Monte Carlo_, (upcoming) 2nd Edition. [[pdf](https://arxiv.org/abs/2311.02726)]
 * (2022) <span style="color:Salmon">Adaptive Tuning for Metropolis Adjusted Langevin Trajectories.</span> L. Riou-Durand, P. Sountsov, J. Vogrinc, C. Margossian and S. Power. _PMLR: Artificial Intelligence and Statistics_ [[article](https://proceedings.mlr.press/v206/riou-durand23a/riou-durand23a.pdf), [pdf](https://arxiv.org/abs/2210.12200), [code](https://github.com/tensorflow/probability/tree/main/discussion/adaptive_malt)]
+* (2020) <span style="color:Salmon">Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation: Bayesian inference for latent Gaussian models and beyond.</span> C. Margossian, A. Vehtari, D. Simpson and R. Agrawal. _Advances in Neural Information Processing Systems_. [[article](https://proceedings.neurips.cc/paper/2020/hash/673de96b04fa3adcae1aacda704217ef-Abstract.html), [poster](http://charlesm93.github.io/files/poster_ela.pdf), [pdf](https://arxiv.org/abs/2004.12550),
+[code](https://github.com/charlesm93/laplace_manuscript)]
 
 
 Posters and technical reports:
@@ -89,8 +91,6 @@ These implicit functions arise in scientific forward models (e.g. ODEs, algebrai
 
 Papers:
 
-* (2020) <span style="color:Salmon">Hamiltonian Monte Carlo using an adjoint-differentiated Laplace approximation: Bayesian inference for latent Gaussian models and beyond.</span> C. Margossian, A. Vehtari, D. Simpson and R. Agrawal. _Advances in Neural Information Processing Systems_. [[article](https://proceedings.neurips.cc/paper/2020/hash/673de96b04fa3adcae1aacda704217ef-Abstract.html), [poster](http://charlesm93.github.io/files/poster_ela.pdf), [pdf](https://arxiv.org/abs/2004.12550),
-[code](https://github.com/charlesm93/laplace_manuscript)]
 * (2019) <span style="color:Salmon">A Review of automatic differentiation and its efficient implementation.</span> C. Margossian. _Wiley interdisciplinary reviews: data mining and knowledge discovery_. [[article](https://onlinelibrary.wiley.com/doi/10.1002/widm.1305), [pdf](https://arxiv.org/abs/1811.05031)]
 
 Technical reports:
