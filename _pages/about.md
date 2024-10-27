@@ -14,7 +14,7 @@ I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](
 
 # News
 
-* <span style="color:LightBlue">I am on the job market this year!</span> I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
+* <span style="color:Coral">I am on the job market this year!</span> I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
 
 * I will be attending the workshop on "Recent Advances and Future Directions for Sampling" at Yale on October 16th - 18th.
 
