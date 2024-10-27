@@ -14,7 +14,7 @@ I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](
 
 # News
 
-* <span style="color:maroon">I am on the job market this year!</span> I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
+* <span style="color:SkyBlue">I am on the job market this year!</span> I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
 
 * I will be attending the workshop on "Recent Advances and Future Directions for Sampling" at Yale on October 16th - 18th.
 
@@ -38,7 +38,7 @@ My primary research interest lies in statistics and probabilistic machine learni
 <!--* My [interview](https://www.simonsfoundation.org/2023/06/12/between-knowing-nothing-and-knowing-for-sure-the-science-of-uncertainty/) for the Simons Foundation with science writer Mara Johnson-Groh is out. It provides an accessible overview of my research.-->
 
 # Papers
- 
+
 * (2024) <span style="color:maroon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. [[pdf](https://arxiv.org/abs/2410.11067)]
 * (2024) <span style="color:maroon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[pdf](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2024) <span style="color:maroon">Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains.</span> C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[article](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Nested-R%cb%86--Assessing-the-Convergence-of-Markov-Chain-Monte/10.1214/24-BA1453.full), [pdf](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
@@ -64,4 +64,3 @@ My primary research interest lies in statistics and probabilistic machine learni
 * (2019) <span style="color:maroon">A Review of automatic differentiation and its efficient implementation.</span> C. Margossian. _Wiley interdisciplinary reviews: data mining and knowledge discovery_. [[article](https://onlinelibrary.wiley.com/doi/10.1002/widm.1305), [pdf](https://arxiv.org/abs/1811.05031)]
 * (2014) <span style="color:maroon">Planet Hunters. VII. Discovery of a new low-mass, low-density (PH3 C) orbiting Kepler-289
 with mass measurements of two additional plamets of two additional planets (PH3 B and D).</span> J. Schmitt et al. _Astrophysical Journal_. [[article](http://iopscience.iop.org/article/10.1088/0004-637X/795/2/167/meta;jsessionid=43641D4C5B1CC7595015BE11DDF1239F.c1)]
-
