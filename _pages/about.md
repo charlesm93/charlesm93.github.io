@@ -16,15 +16,19 @@ I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](
 
 * <span style="color:Salmon">I am on the job market this year!</span> I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
 
-* I will be visiting the University of Manchester and its Center for AI Fundamentals on January 13th - 16th. During the visit, I will give a talk at the _AI Fun with ELLIS_ seminar on "Markov chain Monte Carlo and variational inference in the age of parallel computation".
+* May 2025: I will attend AISTATS in Thailand to present our recent paper on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410.11067).
+
+* June 2025: I will attend BayesComp in Singapore to chair a session on "Parallel Computation for Markov chain Monte Carlo", and give an invited talk at the session on "Advances in Variational Inference".
 
 ## Past News
 
-* I will be attending NeurIPS 2024 in Vancouver to present our latest work on [EigenVI](https://arxiv.org/abs/2410.24054) 
+* January 2025: I gave a talk on "Markov chain Monte Carlo and variational inference in the age of parallel computation" at the _AI Fun with ELLIS_ seminar, hosted by the University of Manchester.
 
-* I will be attending the workshop on "Recent Advances and Future Directions for Sampling" at Yale on October 16th - 18th.
+* December 2024: I attended NeurIPS in Vancouver to present our latest work on [EigenVI](https://arxiv.org/abs/2410.24054) 
 
-* [StanCon 2024](https://mc-stan.org/events/stancon2024/) will be held at Oxford University in the UK, September 12th - 14th!
+* October 2024: I attended the workshop on "Recent Advances and Future Directions for Sampling" at Yale.
+
+* September 2024: [StanCon 2024](https://mc-stan.org/events/stancon2024/) took place at Oxford University!
 
 (last updated: January 2025)
 
