@@ -12,8 +12,6 @@ font-size: 12pt
 
 I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
-# About
-
 My primary research interest lies in statistics and probabilistic machine learning. My work bridges methodology, computation, and application through the development of probabilistic programming languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
 
 * **Computation:** Markov chain Monte Carlo, Variational inference, (integrated) Laplace approximation, automatic differentiation
@@ -52,7 +50,7 @@ My primary research interest lies in statistics and probabilistic machine learni
 
 # Papers
 
-:page_facing_up: (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _Artificial Intelligence and Statistics_ (oral) [[pdf](https://arxiv.org/abs/2410.11067)]
+📄 (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _Artificial Intelligence and Statistics_ (oral) [[pdf](https://arxiv.org/abs/2410.11067)]
 
 * (2024) <span style="color:Salmon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[pdf](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2024) <span style="color:Salmon">Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains.</span> C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[article](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Nested-R%cb%86--Assessing-the-Convergence-of-Markov-Chain-Monte/10.1214/24-BA1453.full), [pdf](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
