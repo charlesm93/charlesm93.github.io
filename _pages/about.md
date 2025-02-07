@@ -12,6 +12,14 @@ font-size: 12pt
 
 I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
+# About
+
+My primary research interest lies in statistics and probabilistic machine learning. My work bridges methodology, computation, and application through the development of probabilistic programming languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
+
+* **Computation:** Markov chain Monte Carlo, Variational inference, (integrated) Laplace approximation, automatic differentiation
+* **Modeling:** Bayesian workflow, Hierarchical models, ODE-based models
+* **Applications:** Pharmacometrics, Epidemiology, Astrophysics
+
 # News
 
 * <span style="color:Salmon">I am on the job market this year!</span> I am looking for research positions, including faculty positions, in statistics, data science, and machine learning which would start in the summer/fall of 2025. Feel free to reach out if you wish to share an opportunity.
@@ -32,13 +40,6 @@ I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](
 
 (last updated: January 2025)
 
-# About
-
-My primary research interest lies in statistics and probabilistic machine learning. My work bridges methodology, computation, and application through the development of probabilistic programing languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
-
-* **Computation:** Markov chain Monte Carlo, Variational inference, (integrated) Laplace approximation, automatic differentiation
-* **Modeling:** Bayesian workflow, Hierarchical models, ODE-based models
-* **Applications:** Pharmacometrics, Epidimeology, (Astro)physics
 
 
 
@@ -51,10 +52,11 @@ My primary research interest lies in statistics and probabilistic machine learni
 
 # Papers
 
-* (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _Artificial Intelligence and Statistics_ (oral) [[pdf](https://arxiv.org/abs/2410.11067)]
+:page_facing_up: (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _Artificial Intelligence and Statistics_ (oral) [[pdf](https://arxiv.org/abs/2410.11067)]
+
 * (2024) <span style="color:Salmon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[pdf](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 * (2024) <span style="color:Salmon">Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains.</span> C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[article](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Nested-R%cb%86--Assessing-the-Convergence-of-Markov-Chain-Monte/10.1214/24-BA1453.full), [pdf](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)]
-* (2024) <span style="color:Salmon">EigenVI: score-based variational inference with orthogonal function expansions.</span> D. Cai, C. Modi, C. Margossian, R. Gower, D. Blei and L. Saul. _Advances in Neural Information Processing Systems_ (spotlight)
+* (2024) <span style="color:Salmon">EigenVI: score-based variational inference with orthogonal function expansions.</span> D. Cai, C. Modi, C. Margossian, R. Gower, D. Blei and L. Saul. _Advances in Neural Information Processing Systems_ (spotlight) [[article](), [pdf](https://arxiv.org/abs/2410.24054), [code](https://github.com/dicai/eigenVI)]
 * (2024) <span style="color:Salmon">Listening to the Noise: Blind Denoising with Gibbs Diffusion.</span> D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[article](https://proceedings.mlr.press/v235/heurtel-depeiges24a.html), [pdf](https://arxiv.org/pdf/2402.19455.pdf), [code](https://github.com/rubenohana/Gibbs-Diffusion)]
 * (2024) <span style="color:Salmon">Batch and match: black-box variational inference with a score-based divergence.</span> D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. _PMLR: International Conference on Machine Learning_ (spotlight) [[article](https://proceedings.mlr.press/v235/cai24d.html), [pdf](https://arxiv.org/abs/2402.14758), [code](https://github.com/modichirag/GSM-VI)]
 * (2024) <span style="color:Salmon">Amortized Variational Inference: when and why?</span> C. Margossian and D. Blei. _PMLR: Uncertainty in Artificial Intelligence_ [[article](https://proceedings.mlr.press/v244/margossian24a.html),[pdf](https://arxiv.org/abs/2307.11018), [code](https://github.com/charlesm93/AVI-when-and-why), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)]
