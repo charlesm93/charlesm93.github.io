@@ -42,6 +42,10 @@ Posters:
 
 📊 (2023) <span style="color:Salmon">Parallelization for Markov chains with heterogeneous runtimes.</span> S. du Ché and C. Margossian. _BayesComp_. [[poster](http://charlesm93.github.io/files/Bayescomp_ode_chains.pdf)]
 
+Book:
+
+📚 (2022) <span style="color:Salmon">Modernizing Markov chains Monte Carlo for scientific and Bayesian modeling</span> C. Margossian. _PhD Thesis, Columbia University_ [[pdf](https://charlesm93.github.io/files/thesis.pdf)]
+
 
 # Variational Inference
 
