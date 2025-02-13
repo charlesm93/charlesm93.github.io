@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &bluesky
 facebook:
   username               :
   app_id                 :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@charlesm993" # "replacethistwitterhandle"
+  twitter          : "@charlesm993.bsky.social" # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
