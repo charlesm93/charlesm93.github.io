@@ -53,7 +53,7 @@ VI is another workhorse of Bayesian analysis. The _modus operandi_ of VI is to f
 
 Papers:
 
-📄 (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _Artificial Intelligence and Statistics_ (oral) [[pdf](https://arxiv.org/abs/2410.11067)]
+📄 (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _Artificial Intelligence and Statistics_ (oral) [[pdf](https://arxiv.org/abs/2410.11067), [Code](https://github.com/charlesm93/VI_location_robust)]
 
 📄 (2024) <span style="color:Salmon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[pdf](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)]
 
