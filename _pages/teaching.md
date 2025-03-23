@@ -53,7 +53,8 @@ Courses at Columbia:
 📘 (2021, 2022) <span style="color:Salmon">STAT 6102: Applied Statistics II</span> (PhD level)
 
 📘 (2021) <span style="color:Salmon">STAT 4206 / 5206: Statistical Computing and Introduction to Data Science</span> (undergraduate and masters level)
-* (2019, 2020) <span style="color:Salmon">STAT 6701: Foundations of Graphical Models</span> (PhD level))
+
+📘(2019, 2020) <span style="color:Salmon">STAT 6701: Foundations of Graphical Models</span> (PhD level))
 
 📘 (2019) <span style="color:Salmon">STAT 4204/5204: Statistical inference</span> (undergraduate / masters level)
 
