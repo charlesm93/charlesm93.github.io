@@ -7,14 +7,14 @@ output:
     df_print: paged
 ---
 
-My research concerns statistics and probabilistic machine learning, often with an emphasis on Bayesian modeling. This work falls into four related themes:
+My research concerns statistics and probabilistic machine learning, often with an emphasis on Bayesian modeling. Some keywords:
 
 * Markov chain Monte Carlo
 * Variational inference
-* Bayesian workflow and scientific applications
+* Bayesian workflow
 * Automatic differentiation
 
-I am also keen to work on scientific applications, including Pharmacometrics, Epidemiology, and Astrophysics.
+I am also keen to work on scientific applications, and I have had fruitful collaborations in Pharmacometrics, Epidemiology, and Astrophysics.
 
 
 # Papers
