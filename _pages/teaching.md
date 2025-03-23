@@ -17,46 +17,46 @@ Upon graduation, I received the <span style="color:Salmon">Minghui Yu Teaching A
 
 # Textbooks
 
-📚I'm a contributor to the upcoming textbook [Bayesian Workflow](https://sites.stat.columbia.edu/gelman/workflow-book/), with some wonderful colleagues. This effort is lead by Andrew Gelman, Aki Vehtari, and Richard McElreath.
+📚(2024+) I'm a contributor to the upcoming second edition of the _Handbook of Markov chain Monte Carlo_, where I contributed the chapter [For how many iterations should we run Markov chain Monte Carlo](https://arxiv.org/abs/2311.02726).
 
-📚I'm a contributor to the upcoming second edition of the _Handbook of Markov chain Monte Carlo_, where I contributed the chapter [For how many iterations should we run Markov chain Monte Carlo](https://arxiv.org/abs/2311.02726).
+📚(2020+) I'm a contributor to the upcoming textbook [Bayesian Workflow](https://sites.stat.columbia.edu/gelman/workflow-book/), with some wonderful colleagues. This effort is lead by Andrew Gelman, Aki Vehtari, and Richard McElreath.
 
 
 # Instructor
 
 I've been invited as an instructor for the following courses and conferences:
 
-📙 (2024) <span style="color:Salmon">Monte Carlo Methods</span>, Nordic Summer School on Probabilistic AI, Copenhagen, Denmark. (1/2 day workshop)[[course material](https://github.com/probabilisticai/nordic-probai-2024/tree/main/day4/Charles%20Margoissan))]
+📙(2024) <span style="color:Salmon">Monte Carlo Methods</span>, Nordic Summer School on Probabilistic AI, Copenhagen, Denmark. (1/2 day workshop)[[course material](https://github.com/probabilisticai/nordic-probai-2024/tree/main/day4/Charles%20Margoissan))]
 
-📙 (2023) <span style="color:Salmon">Bayesian Workflow for hierarchical and ODE-based models</span>, Summer School on Advanced Bayesian Methods, Leuven, Belgium. (3 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/Leuven_summer_school2023)]
+📙(2023) <span style="color:Salmon">Bayesian Workflow for hierarchical and ODE-based models</span>, Summer School on Advanced Bayesian Methods, Leuven, Belgium. (3 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/Leuven_summer_school2023)]
 
-📙 (2023) <span style="color:Salmon">Fundamentals of Stan</span>. StanCon 2023. Washington University, St Louis, MO. (1/2 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/StanCon2023)]
+📙(2023) <span style="color:Salmon">Fundamentals of Stan</span>. StanCon 2023. Washington University, St Louis, MO. (1/2 day workshop) [[course material](https://github.com/charlesm93/stanTutorial/tree/main/StanCon2023)]
 
-📙 (2018 -- 2022) <span style="color:Salmon">Introduction to Probability and Bayes</span>, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf), [erratum](http://charlesm93.github.io/files/notes_erratum.pdf)]
+📙(2018 -- 2022) <span style="color:Salmon">Introduction to Probability and Bayes</span>, PHC 506: Biometry in Pharmaceutics, University of Buffalo, School of Pharmacy, Buffalo, NY. [[notes](http://charlesm93.github.io/files/Prob&Bayes.pdf), [erratum](http://charlesm93.github.io/files/notes_erratum.pdf)]
 
-📙 (2019 -- 2022) <span style="color:Salmon">Building, fitting, and criticizing Bayesian Pharmacokinetic/Pharmacodynamic models using Stan and Torsten</span>, University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop) [[outline](http://charlesm93.github.io/files/outline-torsten_workshop.pdf)]
+📙(2019 -- 2022) <span style="color:Salmon">Building, fitting, and criticizing Bayesian Pharmacokinetic/Pharmacodynamic models using Stan and Torsten</span>, University of Buffalo, School of Pharmacy, Buffalo, NY. (1 day workshop) [[outline](http://charlesm93.github.io/files/outline-torsten_workshop.pdf)]
 
-📙 (2019, 2020) <span style="color:Salmon">Stan for the people: introductory workshop on Bayesian modeling</span>, McGill University,
+📙(2019, 2020) <span style="color:Salmon">Stan for the people: introductory workshop on Bayesian modeling</span>, McGill University,
 Montreal, Canada. (2 days workshop)
 
-📙 (2019) <span style="color:Salmon">Population and ODE-based models using Stan and Torsten</span>,
+📙(2019) <span style="color:Salmon">Population and ODE-based models using Stan and Torsten</span>,
 co-instructor with [Yi Zhang](https://metrumrg.com/team_member/yi-zhang-ph-d/), Stan Conference 2019, Cambridge, UK
 
-📙 (2018) <span style="color:Salmon">How to Develop for the Stan C++ Core Language</span>, Stan Conference 2018, Pacific Grove, CA. [[slides](https://github.com/charlesm93/presentations-and-writing/blob/master/StanCon2018_tutorial/Roadmap.pdf)]
+📙(2018) <span style="color:Salmon">How to Develop for the Stan C++ Core Language</span>, Stan Conference 2018, Pacific Grove, CA. [[slides](https://github.com/charlesm93/presentations-and-writing/blob/master/StanCon2018_tutorial/Roadmap.pdf)]
 
-📙 (2017) <span style="color:Salmon">Introduction to Bayesian Data Analysis with Stan</span>, STAT 220: Bayesian Statistics, Harvard University, Cambridge, MA
+📙(2017) <span style="color:Salmon">Introduction to Bayesian Data Analysis with Stan</span>, STAT 220: Bayesian Statistics, Harvard University, Cambridge, MA
 
 # Teacher assistant
 
 Courses at Columbia:
 
-📘 (2021, 2022) <span style="color:Salmon">STAT 6102: Applied Statistics II</span> (PhD level)
+📘(2021, 2022) <span style="color:Salmon">STAT 6102: Applied Statistics II</span> (PhD level)
 
-📘 (2021) <span style="color:Salmon">STAT 4206 / 5206: Statistical Computing and Introduction to Data Science</span> (undergraduate and masters level)
+📘(2021) <span style="color:Salmon">STAT 4206 / 5206: Statistical Computing and Introduction to Data Science</span> (undergraduate and masters level)
 
 📘(2019, 2020) <span style="color:Salmon">STAT 6701: Foundations of Graphical Models</span> (PhD level))
 
-📘 (2019) <span style="color:Salmon">STAT 4204/5204: Statistical inference</span> (undergraduate / masters level)
+📘(2019) <span style="color:Salmon">STAT 4204/5204: Statistical inference</span> (undergraduate / masters level)
 
 📘 (2018) <span style="color:Salmon">STAT 4206: Statistical Computing and Introduction to Data Science</span> (undergraduate level)
 
