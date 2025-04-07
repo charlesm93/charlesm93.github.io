@@ -20,7 +20,7 @@ My research concerns statistics and probabilistic machine learning. My work brid
 
 # News
 
-* Starting in the summer of 2025, I will be an assistant professor of statistics at the <span style="color:Salmon">University of British Columbia</span>.
+* Starting in the summer of 2025, I will be an assistant professor of statistics at the <span style="color:Salmon">University of British Columbia</span>. Full statement [here](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
 
 * May 2025: I will attend AISTATS in Thailand to present our recent paper on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410.11067). (Depending on circumstances, I may attend virtually.)
 
