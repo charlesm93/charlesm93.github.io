@@ -10,9 +10,11 @@ font-size: 12pt
 ---
 
 
-I am a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
+I'm a Research Fellow in Computational Mathematics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), a part of the [Simons Foundation](https://www.simonsfoundation.org/). In 2022, I earned a PhD in Statistics from Columbia University. You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
-My research concerns statistics and probabilistic machine learning. My work bridges methodology, computation, and application through the development of probabilistic programming languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
+# Research Interests
+
+My research concerns statistics and probabilistic machine learning. This work bridges theory, computation, and application through the development of probabilistic programming languages such as [Stan](http://mc-stan.org/) and [TensorFlow Probability](https://www.tensorflow.org/probability). Some keywords:
 
 * **Computation:** Markov chain Monte Carlo, Variational inference, integrated Laplace approximation, automatic differentiation
 * **Modeling:** Bayesian workflow, Hierarchical models, ODE-based models
@@ -20,10 +22,12 @@ My research concerns statistics and probabilistic machine learning. My work brid
 
 # News
 
-* Starting in the summer of 2025, I will be an assistant professor of statistics at the <span style="color:Salmon">University of British Columbia</span>. Full statement [here](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
+* Starting in the summer of 2025, I will be an assistant professor of statistics at the <span style="color:Salmon">University of British Columbia</span>! You can read a [short statement](https://charlesm93.github.io/files/letter_move_to_UBC.pdf) about my move.
 
-* May 2025: I will attend AISTATS in Thailand to present our recent paper on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410.11067). (Depending on circumstances, I may attend virtually.)
+* May 3-5 2025: I'm hoping to attend [AISTATS](https://virtual.aistats.org/) in Thailand to present our recent paper on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410.11067). (Depending on circumstances, I may attend virtually.)
 
-* June 2025: I will attend BayesComp in Singapore to chair a session on <span style="color:Salmon">Parallel Computation for Markov chain Monte Carlo</span>, and give an invited talk at the session on <span style="color:Salmon">Advances in Variational Inference</span>.
+* June 3-5 2025: I will attend the [ASA/IMS Spring Research Conference](https://sites.google.com/view/src-2025) in New York. There I will speak at the session on <span style="color:Salmon">Approximate Bayesian Methods</span>.
 
-(last updated: March 2025)
+* June 16-20 2025: I will attend [BayesComp](https://bayescomp2025.sg/) in Singapore to chair a session on <span style="color:Salmon">Parallel Computation for Markov chain Monte Carlo</span>, and give an invited talk at the session on <span style="color:Salmon">Advances in Variational Inference</span>.
+
+(last updated: April 2025)
