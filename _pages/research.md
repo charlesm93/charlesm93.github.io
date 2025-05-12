@@ -27,7 +27,7 @@ I am also keen to work on scientific applications, and I have had fruitful colla
 
 📄 (2024) <span style="color:Salmon">EigenVI: score-based variational inference with orthogonal function expansions.</span> D. Cai, C. Modi, C. Margossian, R. Gower, D. Blei and L. Saul. _Advances in Neural Information Processing Systems_ (spotlight) [[pdf](https://arxiv.org/abs/2410.24054), [code](https://github.com/dicai/eigenVI)]
 
-📄 (2024) <span style="color:Salmon">Listening to the Noise: Blind Denoising with Gibbs Diffusion.</span> D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[article](https://proceedings.mlr.press/v235/heurtel-depeiges24a.html), [pdf](https://arxiv.org/pdf/2402.19455.pdf), [code](https://github.com/rubenohana/Gibbs-Diffusion)][bay, mcmc, aph]
+📄 (2024) <span style="color:Salmon">Listening to the Noise: Blind Denoising with Gibbs Diffusion.</span> D. Heurtel-Depeiges, C. Margossian, R. Ohana and B. Regaldo-Saint Blancard. _PMLR: International Conference on Machine Learning_ [[article](https://proceedings.mlr.press/v235/heurtel-depeiges24a.html), [pdf](https://arxiv.org/pdf/2402.19455.pdf), [code](https://github.com/rubenohana/Gibbs-Diffusion)]
 
 📄 (2024) <span style="color:Salmon">Batch and match: black-box variational inference with a score-based divergence.</span> D. Cai, C. Modi, L. Pillaud-Vivien, C. Margossian, R. Gower, D. Blei and L. Saul. _PMLR: International Conference on Machine Learning_ (spotlight) [[article](https://proceedings.mlr.press/v235/cai24d.html), [pdf](https://arxiv.org/abs/2402.14758), [code](https://github.com/modichirag/GSM-VI)]
 
