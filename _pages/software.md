@@ -9,7 +9,7 @@ output:
 
 My research on methods and algorithms is complemented by the development of open-source software, which empower scientists to make the most out of their data.
 
-# Stan: a probablistic programming language
+## Stan: a probablistic programming language
 
 <center>
 <img src="../images/stan.png" alt="hi" class="inline" style="width:50;height:75px;">
@@ -32,7 +32,7 @@ I served on the organization committee of the last two StanCons:
 
 Occasionally, I answer queries on the [Stan forum](https://discourse.mc-stan.org/), where I am in the excellent company of other Stan veterans who answer many more questions than I do. I also teach a lot of workshops on Stan (see the [teaching](https://charlesm93.github.io/teaching/) section.)
 
-# Torsten: an extension of Stan for pharmacometrics
+## Torsten: an extension of Stan for pharmacometrics
 
 <center>
 <img src="../images/torstenLogo.png" alt="hi" class="inline" style="width:150;height:75px;">
@@ -45,7 +45,7 @@ The package contains several new functions, inlcuding:
 
 Torsten is open-source and it is maintained by [Metrum Research Group](https://www.metrumrg.com/).
 
-# Other software
+## Other software
 
 I have contributed to the following R packages:
 * [mrgsolve](https://mrgsolve.github.io/): pharmacometrics and quantitative systems pharmacology simulation in R.

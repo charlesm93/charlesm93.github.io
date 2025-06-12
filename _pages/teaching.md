@@ -15,14 +15,14 @@ I quite enjoy teaching workshops on [Stan](https://mc-stan.org/) and [Torsten](h
 As a graduate student, I also served as a teacher assistant for five consecutive years for the Department of Statistics at Columbia university, for courses at all levels (undergraduate, masters and PhD).
 Upon graduation, I received the <span style="color:Salmon">Minghui Yu Teaching Assistant Award</span>, awarded by the director of graduate studies based on feedback from students.
 
-# Textbooks
+## Textbooks
 
 📚(2024+) I'm a contributor to the upcoming second edition of the _Handbook of Markov chain Monte Carlo_, where I contributed the chapter [For how many iterations should we run Markov chain Monte Carlo](https://arxiv.org/abs/2311.02726).
 
 📚(2020+) I'm a contributor to the upcoming textbook [Bayesian Workflow](https://sites.stat.columbia.edu/gelman/workflow-book/), with some wonderful colleagues. This effort is lead by Andrew Gelman, Aki Vehtari, and Richard McElreath.
 
 
-# Instructor
+## Instructor
 
 I've been invited as an instructor for the following courses and conferences:
 
@@ -46,7 +46,7 @@ co-instructor with [Yi Zhang](https://metrumrg.com/team_member/yi-zhang-ph-d/), 
 
 📙(2017) <span style="color:Salmon">Introduction to Bayesian Data Analysis with Stan</span>, STAT 220: Bayesian Statistics, Harvard University, Cambridge, MA
 
-# Teacher assistant
+## Teacher assistant
 
 Courses at Columbia:
 
@@ -73,11 +73,14 @@ Workshops:
 
 📘 (2016, 2017) <span style="color:Salmon">Getting Started with Bayesian PKPD Modeling using Stan</span>, American Conference on Pharmacometrics 6 and 7 (1 day workshop, taught by Bill Gillespie)
 
-# Outreach
+## Outreach
 
 Occasionally I write posts on the blog <span style="color:Salmon">Statistical modeling, causal inference, and social science</span>, primarily curated by Andrew Gelman. A list of my posts can be found [here](https://statmodeling.stat.columbia.edu/author/charles/).
 
 Other outreach efforts:
+
+🎙️(2024) I was co-guest with Andrew Gelman on the [MetrumRG podcast](https://www.youtube.com/watch?v=5BNVBiPpYlY) on pharmacometrics.
+Our episode: <span style="color:Salmon">Bayesian Workflow</span>.
 
 🎙️(2024) I returned as a co-guest with fellow Stan developer Brian Ward on the podcast [_learning Bayesian Statistics_](https://www.youtube.com/watch?v=nTECQ_uvOBc&ab_channel=LearningBayesianStatistics), hosted by Alex Andorra. This was the first live episode on the podcast with an audience and it took place at [StanCon 2024](https://mc-stan.org/learn-stan/stancon-talks.html#stancon-2024-oxford) at Oxford University.Our episode:<span style="color:Salmon">Exploring the Future of Stan</span>.
 
