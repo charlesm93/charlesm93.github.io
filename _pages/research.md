@@ -16,7 +16,7 @@ My research concerns statistics and probabilistic machine learning, often with a
 
 I am also keen to work on scientific applications, and I have had fruitful collaborations in Pharmacometrics, Epidemiology, and Astrophysics.
 
-# Papers
+## Papers
 
 📄 (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _PMLR: Artificial Intelligence and Statistics_ (best paper award) [[pdf](https://arxiv.org/abs/2410.11067), [Code](https://github.com/charlesm93/VI_location_robust)]
 
@@ -63,12 +63,12 @@ I am also keen to work on scientific applications, and I have had fruitful colla
 with mass measurements of two additional plamets of two additional planets (PH3 B and D).</span> J. Schmitt et al. _Astrophysical Journal_ [[article](http://iopscience.iop.org/article/10.1088/0004-637X/795/2/167/meta;jsessionid=43641D4C5B1CC7595015BE11DDF1239F.c1)]
 
 
-# Book
+## Book
 
 📚 (2022) <span style="color:Salmon">Modernizing Markov chains Monte Carlo for scientific and Bayesian modeling</span> C. Margossian. _PhD Thesis, Columbia University_ [[pdf](https://charlesm93.github.io/files/thesis.pdf)]
 
 
-# Posters
+## Posters
 
 📊 (2024) <span style="color:Salmon">Monitoring Nonstationary Variance to Assess Convergence of MCMC.</span> E. Mokel and C. Margossian. *International Society of Bayesian Analysis (ISBA) world meeting*. Best poster award.
 
@@ -83,7 +83,7 @@ with mass measurements of two additional plamets of two additional planets (PH3 
 📊 (2016) <span style="color:Salmon">Stan functions for pharmacometrics.</span> C. Margossian and W. Gillespie. _American Conference on Pharmacometrics_. [[poster](http://charlesm93.github.io/files/2016-Margossian&Gillespie-stan_for_pmx.pdf)]
 
 
-# Technical reports and notebooks
+## Technical reports and notebooks
 
 📝 (2023) <span style="color:Salmon">General adjoint-differentiated Laplace approximation.</span> C. Margossian. [[pdf](https://arxiv.org/abs/2306.14976)]
 
