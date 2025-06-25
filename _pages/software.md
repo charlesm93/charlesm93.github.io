@@ -11,9 +11,9 @@ My research on methods and algorithms is complemented by the development of open
 
 ## Stan: a probablistic programming language
 
-<center>
+<br><center>
 <img src="../images/stan.png" alt="hi" class="inline" style="width:50;height:75px;">
-</center>
+</center><br>
 
 [Stan](https://mc-stan.org/) is a probabilistic programming language that lets users define a probabilistic model, translates it to C++ and then performs Bayesian inference using gradient-based algorithms. Stan is used across the physical, biological, and social sciences, as well as in finance, government, medicine, policy, and leisure.
 
@@ -34,9 +34,9 @@ Occasionally, I answer queries on the [Stan forum](https://discourse.mc-stan.org
 
 ## Torsten: an extension of Stan for pharmacometrics
 
-<center>
+<br><center>
 <img src="../images/torstenLogo.png" alt="hi" class="inline" style="width:150;height:75px;">
-</center>
+</center><br>
 
 In 2015, I co-created [Torsten](https://metrumresearchgroup.github.io/Torsten/) to facilitate applications of Stan to pharmacometrics modeling.
 The package contains several new functions, inlcuding:

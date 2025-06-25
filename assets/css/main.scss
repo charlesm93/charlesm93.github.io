@@ -37,3 +37,22 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.tag {
+  display: inline-block;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-size: 0.65em;
+  font-weight: 500;
+  font-family: monospace;
+}
+
+.tag-mc { background-color: #ff7043; color: white; }
+.tag-vi { background-color: #80cbc4; color: black; }
+.tag-la { background-color: #b71c1c; color: white; }
+.tag-wf { background-color: #f4c430; color: black; }
+.tag-hm { background-color: #d32f2f; color: white; }
+.tag-ad { background-color: #e91e63; color: white; }
+.tag-pmx { background-color: #66bb6a; color: black; }
+.tag-epi { background-color: #66bb6a; color: black; }
+.tag-aph { background-color: #1565c0; color: white; }
