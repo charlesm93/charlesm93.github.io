@@ -32,7 +32,7 @@ of probabilistic programming languages such as [Stan](http://mc-stan.org/) and
 
 * June 29 - July 06 2025: I will teach at the [summer school on cryptography,
 statistics and machine learning](https://mathschool.ysu.am/) in Tsaghkadzor, Armenia.
-My course: <span style="color:Salmon">Bayesian Statistics: a practical introduction.</span>
+My course: <span style="color:Salmon">Bayesian Statistics: a practical introduction.</span> [[slides](https://charlesm93.github.io/files/Bayesian_intro_slides.pdf)].
 
 * June 16-20 2025: I will attend [BayesComp](https://bayescomp2025.sg/) in
 Singapore to chair a session on <span style="color:Salmon">Parallel Computation
