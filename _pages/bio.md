@@ -5,10 +5,10 @@ permalink: /bio/
 author_profile: yes
 ---
 
-Starting in August 2025, I will be an assistant professor of statistics at the
+Since August 2025, I'm an assistant professor of statistics at the
 [University of British Columbia](https://www.stat.ubc.ca/) in Vancouver.
 
-I was borned and raised in Paris, France. My high-school degree was in Science,
+I was born and raised in Paris, France. My high-school degree was in Science,
 with a specialty in Mathematics.
 
 I then moved to the U.S and studied Physics at Yale University.
@@ -39,7 +39,7 @@ greater research effort in
 [Machine Learning](https://www.simonsfoundation.org/machine-learning-at-the-flatiron-institute/).
 
 ## Hobbies
-While in New York, I did competitive ballroom dancing with some wonderful
+I do competitive ballroom dancing with some wonderful
 people at Columbia University and in New York. I'm always down for a game of
 pick-up soccer and occasionally I play in a league.
 

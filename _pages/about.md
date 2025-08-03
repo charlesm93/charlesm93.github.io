@@ -9,26 +9,28 @@ author_profile: yes
 font-size: 12pt
 ---
 
-I'm an (incoming) assistant professor of statistics at the
-[University of British Columbia](https://www.stat.ubc.ca/) in Vancouver.
-Currently, I'm finishing a postdoc fellowship in computational mathematics at
-the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/),
-a part of the [Simons Foundation](https://www.simonsfoundation.org/)
-in New York. I earned a PhD in statistics from Columbia University.
+I'm an assistant professor of statistics at the
+[University of British Columbia](https://www.stat.ubc.ca/) in Vancouver, Canada,
+where I lead a research program on Bayesian modeling and probabilistic machine
+learning. I'm interested in the application of these methods in several areas,
+including public health, biomedicine and astrophysics. An outcome of this
+research is the development of high-performance open-source software, such as
+[Stan](http://mc-stan.org/), which empower scientists to analyze complex data.
 
-You can find out more by looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf)
+I also teach at all levels (undergraduate, masters and PhD), and I'm passionate
+about how a statistics curriculum can help students build a foundation
+in all empirical sciences, understand modern topics such as AI,
+and develop critical thinking.
+
+You can find out more by looking at my
+[CV](http://charlesm93.github.io/files/charlesmcv.pdf)
 and browsing this website.
 
 
-## Research Interests
-
-My research broadly concerns Bayesian modeling and probabilistic machine learning.
-This work bridges theory, computation, and application through the development
-of probabilistic programming languages such as [Stan](http://mc-stan.org/) and
-[TensorFlow Probability](https://www.tensorflow.org/probability).
-
 
 ## News
+
+Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
 * June 29 - July 06 2025: I will teach at the [summer school on cryptography,
 statistics and machine learning](https://mathschool.ysu.am/) in Tsaghkadzor, Armenia.
@@ -48,6 +50,5 @@ on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410
 a [short statement](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
 
 
-Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
-(updated June 2025)
+(updated August 2025)
