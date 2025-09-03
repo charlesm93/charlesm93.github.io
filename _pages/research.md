@@ -24,7 +24,7 @@ Pharmacometrics, Epidemiology, and Astrophysics.
 
 📄 (2025) <span style="color:Salmon">Variational Inference in Location-Scale Families: Exact Recovery of the Mean and Correlation Matrix.</span> C.Margossian and L. Saul. _PMLR: Artificial Intelligence and Statistics_ (best paper award) [[pdf](https://arxiv.org/abs/2410.11067), [Code](https://github.com/charlesm93/VI_location_robust)] <span class="tag tag-vi">vi</span>
 
-📄 (2024) <span style="color:Salmon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. [[pdf](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)] <span class="tag tag-vi">vi</span>
+📄 (2024) <span style="color:Salmon">Variational Inference for Uncertainty Quantification: an Analysis of Trade-Offs.</span> C. Margossian, L. Pillaud-Vivien and L. Saul. _Journal of Machine Learning Research_ [[pdf](https://arxiv.org/abs/2403.13748), [Code](https://github.com/charlesm93/VI-ordering)] <span class="tag tag-vi">vi</span>
 
 📄 (2024) <span style="color:Salmon">Nested $\widehat R$: Assessing the convergence of Markov chain Monte Carlo when running many short chains.</span> C. Margossian, M. Hoffman, P. Sountsov, L. Riou-Durand, A. Vehtari and A. Gelman. _Bayesian Analysis_ [[article](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Nested-R%cb%86--Assessing-the-Convergence-of-Markov-Chain-Monte/10.1214/24-BA1453.full), [pdf](https://arxiv.org/abs/2110.13017), [code](https://github.com/charlesm93/nested-rhat)] <span class="tag tag-mc">mcmc</span>
 

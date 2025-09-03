@@ -32,10 +32,9 @@ and browsing this website.
 
 Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
-* August 26-27 2025: I will attend the [CANSSI Monte Carlo workshop](https://sites.google.com/view/mc-workshop-2025/home)
-at UBC. There I'll give a talk on
-<span style="color:Salmon">Assessing the Convergence of MCMC when running many
-short chains</span>.
+* My paper with Loucas Pillaud-Vivien and Lawrence Saul,
+[Variational Inference for Uncertainty Quantification: an Analysis of Trade-offs](https://arxiv.org/abs/2403.13748)
+ was accepted for publication in the _Journal of Machine Learning Research_.
 
 * September 25-27: I will attend the
 [Fast and Curious 2: MCMC in action](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/) workshop hosted by the University of
@@ -54,6 +53,11 @@ Sevilla, Spain. There I will give an invited talk on
 
 
 ## Old News
+
+* August 26-27 2025: I will attend the [CANSSI Monte Carlo workshop](https://sites.google.com/view/mc-workshop-2025/home)
+at UBC. There I'll give a talk on
+<span style="color:Salmon">Assessing the Convergence of MCMC when running many
+short chains</span>.
 
 * June 29 - July 06 2025: I will teach at the [summer school on cryptography,
 statistics and machine learning](https://mathschool.ysu.am/) in Tsaghkadzor, Armenia.
