@@ -10,27 +10,19 @@ font-size: 12pt
 ---
 
 I'm an assistant professor of statistics at the
-[University of British Columbia](https://www.stat.ubc.ca/) in Vancouver, Canada.
+[University of British Columbia](https://www.stat.ubc.ca/).
 My research primarily concerns algorithms for Bayesian modeling and probabilistic machine
 learning. I'm interested in the application of these methods in several areas,
 including public health, biomedicine and astrophysics. An outcome of this
 research is the development of high-performance open-source software, such as
 [Stan](http://mc-stan.org/), which empower scientists to analyze complex data.
 
-I also teach at all levels (undergraduate, masters and PhD), and I'm passionate
-about how a statistics curriculum can help students build a foundation
-in all empirical sciences, understand modern topics such as AI,
-and develop critical thinking.
-
-You can find out more by looking at my
-[CV](http://charlesm93.github.io/files/charlesmcv.pdf)
-and browsing this website.
-
+You can find out more by browsing this website or looking at my [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
 
 ## News
 
-Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
+🦋Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
 * My paper with Loucas Pillaud-Vivien and Lawrence Saul,
 [Variational Inference for Uncertainty Quantification: an Analysis of Trade-offs](https://arxiv.org/abs/2403.13748)
@@ -78,4 +70,4 @@ a [short statement](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
 
 
 
-(updated August 2025)
+(updated September 2025)

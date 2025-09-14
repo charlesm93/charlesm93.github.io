@@ -16,7 +16,7 @@ My research concerns statistics and probabilistic machine learning, often with a
 * Automatic differentiation
 
 I am also keen to work on scientific applications, and I have had fruitful collaborations in
-Pharmacometrics, Epidemiology, and Astrophysics.
+pharmacometrics, epidemiology, and astrophysics.
 
 ## Papers
 
