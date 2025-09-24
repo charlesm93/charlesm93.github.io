@@ -22,23 +22,31 @@ You can find out more by browsing this website or looking at my [CV](http://char
 
 ## News
 
-🦋Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
+🦋 Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
+
+* The paper [COSMOBENCH: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning](https://arxiv.org/abs/2507.03707), led by Ninguyan (Teresa) Huang and with some wonderful
+collaborators in astrophysics and in machine learning has been accepted for
+publication at _NeurIPS_ in the dataset & benchmarks track.
 
 * My paper with Loucas Pillaud-Vivien and Lawrence Saul,
 [Variational Inference for Uncertainty Quantification: an Analysis of Trade-offs](https://arxiv.org/abs/2403.13748)
  was accepted for publication in the _Journal of Machine Learning Research_.
 
-* September 25-27: I will attend the
+* September 25-27 2025: I will attend the
 [Fast and Curious 2: MCMC in action](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/) workshop hosted by the University of
-Toronto. There I will give a proposed talk on (once again)
+Toronto. There I will give a proposed talk on
 <span style="color:Salmon">Assessing the Convergence of MCMC when running many
 short chains</span>.
 
-* October 2nd: I will speak at the Department
-of Statistical Sciences's seminar at the University of Toronto. (Title and topic
-forthcoming.)
+* September 30th 2025: I will speak the at the Department of Statistics and
+Actuarial Sciences' seminar at the University of Waterloo about
+<span style="color:Salmon">Variational inference in the presence of symmetry</span>
 
-* December 15th-18th: I will attend the [International Conference on Statistics
+* October 2nd 2025: I will speak at the Department
+of Statistical Sciences's seminar at the University of Toronto about (once again)
+<span style="color:Salmon">Variational inference in the presence of symmetry</span>
+
+* December 15th-18th 2025: I will attend the [International Conference on Statistics
 and Data Science](https://sites.google.com/view/ims-icsds2025/home) in
 Sevilla, Spain. There I will give an invited talk on
 <span style="color:Salmon">Matching Symmetries with variational inference.</span>
