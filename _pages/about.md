@@ -34,7 +34,7 @@ and Data Science](https://sites.google.com/view/ims-icsds2025/home) in
 Sevilla, Spain. There I will give an invited talk on
 <span style="color:Salmon">Matching Symmetries with variational inference</span>.
 
-* June 28th - July 3rd 2025: I will attend the [ISBA: World Meeting](https://isba2026.github.io/)
+* June 28th - July 3rd 2026: I will attend the [ISBA: World Meeting](https://isba2026.github.io/)
 in Nagoya, Japan. There, I will speak at the session on
 <span style="color:Salmon">Principled Tuning of Markov chain Monte Carlo</span>.
 
