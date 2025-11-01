@@ -36,7 +36,7 @@ pharmacometrics, epidemiology, and astrophysics.
 
 📄 (2024) <span style="color:Salmon">Amortized Variational Inference: when and why?</span> C. Margossian and D. Blei. _PMLR: Uncertainty in Artificial Intelligence_ [[article](https://proceedings.mlr.press/v244/margossian24a.html),[pdf](https://arxiv.org/abs/2307.11018), [code](https://github.com/charlesm93/AVI-when-and-why), [talk](https://www.youtube.com/watch?v=vluu7BxA6js)] <span class="tag tag-vi">vi</span> <span class="tag tag-hm">hier.</span>
 
-📄 (2024) <span style="color:Salmon">For how many iterations should we run Markov chain Monte Carlo?</span> C. Margossian and A. Gelman. _Handbook of Markov chain Monte Carlo_, (upcoming) 2nd Edition [[pdf](https://arxiv.org/abs/2311.02726)] <span class="tag tag-mc">mcmc</span>
+📄 (2024) <span style="color:Salmon">For how many iterations should we run Markov chain Monte Carlo?</span> C. Margossian and A. Gelman. _Handbook of Markov chain Monte Carlo_, (upcoming) 2nd Edition [[pdf](https://arxiv.org/abs/2311.02726), [talk](https://www.youtube.com/watch?v=QxejtKQtBvs)] <span class="tag tag-mc">mcmc</span>
 
 📄 (2023) <span style="color:Salmon">Variational Inference with Gaussian Score Matching.</span> C. Modi, C. Margossian, Y. Yao, R. Gower, D. Blei and L. Saul. _Advances in Neural Information Processing Systems_  [[article](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5f9453c4848b89d4d8c5d6041f5fb9ec-Abstract-Conference.html), [pdf](https://arxiv.org/abs/2307.07849), [code](https://github.com/modichirag/GSM-VI)] <span class="tag tag-vi">vi</span>
 
