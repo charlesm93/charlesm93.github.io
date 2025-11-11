@@ -20,7 +20,7 @@ pharmacometrics, epidemiology, and astrophysics.
 
 ## Papers
 
-📄 (2025) <span style="color:Salmon">Generalized Guarantees for Variational Inference in the Presence of Even and Elliptical Symmetry.</span> C.Margossian and L. Saul._arXiv_[[pdf](https://arxiv.org/abs/2511.01064)]
+📄 (2025) <span style="color:Salmon">Generalized Guarantees for Variational Inference in the Presence of Even and Elliptical Symmetry.</span> C.Margossian and L. Saul._arXiv_ [[pdf](https://arxiv.org/abs/2511.01064)]
 
 📄 (2025) <span style="color:Salmon">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning.</span> N. Huang et al. [[pdf](https://arxiv.org/abs/2507.03707)] <span class="tag tag-aph">astro</span>
 
