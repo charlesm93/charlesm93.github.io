@@ -2,7 +2,7 @@
 # layout: archive
 title: "Bio"
 permalink: /bio/
-author_profile: yes
+author_profile: no
 ---
 
 Since August 2025, I'm an assistant professor of statistics at the

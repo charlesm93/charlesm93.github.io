@@ -11,8 +11,10 @@ font-size: 12pt
 
 I'm an assistant professor of Statistics at the
 [University of British Columbia](https://www.stat.ubc.ca/).
-My research primarily concerns algorithms for Bayesian modeling and probabilistic machine
-learning. I'm interested in the application of these methods in several areas,
+My research primarily focuses on the development and understanding of
+algorithms that underlie probabilistic programming languages, especially when
+used for Bayesian modeling and Probabilistic Machine Learning.
+I'm interested in the application of these methods in several areas,
 including Public Health, Biomedical Engineering, Ecology and Astrophysics.
 An outcome of this research is the development of high-performance open-source
 software, such as [Stan](http://mc-stan.org/), which empower scientists to

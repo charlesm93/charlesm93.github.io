@@ -2,28 +2,38 @@
 # layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: yes
+author_profile: no
 ---
 
-Statistics is the backbone of <span style="color:Salmon">experimental and observational sciences</span>; it also give us many tools to understand <span style="color:Salmon">machine learning</span> and <span style="color:Salmon">artificial intelligence</span>.
+## Courses at UBC
+
+📙 (2025/6) STAT 548 PhD Qualifying Course [[description](https://www.stat.ubc.ca/phd-qualifying-course), [paper list](https://charlesm93.github.io/files/teaching/margossian_stat548.pdf)]
+
+📙 (Winter 2026) STAT 547 Topics Class in Statistics: "Bayesian Workflow" [[draft course website](https://charlesm93.github.io/stat547/)]
+
 
 ## Books
 
-📚(2024+) I'm a contributor to the upcoming second edition of the _Handbook of Markov chain Monte Carlo_, where I contributed the chapter [For how many iterations should we run Markov chain Monte Carlo](https://arxiv.org/abs/2311.02726).
+I'm contributor to the following upcoming textbooks.
 
-📚(2020+) I'm a contributor to the upcoming textbook [Bayesian Workflow](https://sites.stat.columbia.edu/gelman/workflow-book/), with some wonderful colleagues. This effort is lead by Andrew Gelman, Aki Vehtari, and Richard McElreath.
+📚(2024+) _Handbook of Markov chain Monte Carlo_. Edited by Radu V. Craiu, Dootika Vats,
+Galin L. Jones, Steve Brooks, Andrew Gelman and Xiao-Li Meng.
+Book chapter: [For how many iterations should we run Markov chain Monte Carlo](https://arxiv.org/abs/2311.02726)
+
+📚(2020+) [_Bayesian Workflow_](https://sites.stat.columbia.edu/gelman/workflow-book/).
+Led by Andrew Gelman, Aki Vehtari, and Richard McElreath.
 
 
 ## Outreach
 
-Occasionally I write posts on the blog <span style="color:Salmon">Statistical modeling, causal inference, and social science</span>, primarily curated by Andrew Gelman. A list of my posts can be found [here](https://statmodeling.stat.columbia.edu/author/charles/).
+Occasionally I write posts on the blog [Statistical modeling, causal inference, and social science](https://statmodeling.stat.columbia.edu/), primarily curated by Andrew Gelman. A list of my posts can be found [here](https://statmodeling.stat.columbia.edu/author/charles/).
 
 Other outreach efforts:
 
-🎙️(2024) I was co-guest with Andrew Gelman on the [MetrumRG podcast](https://www.youtube.com/watch?v=5BNVBiPpYlY) on pharmacometrics.
+🎙️ (2024) I was co-guest with Andrew Gelman on the [MetrumRG podcast](https://www.youtube.com/watch?v=5BNVBiPpYlY) on pharmacometrics.
 Our episode: <span style="color:Salmon">Bayesian Workflow</span>.
 
-🎙️(2024) I returned as a co-guest with fellow Stan developer Brian Ward on the podcast [_learning Bayesian Statistics_](https://www.youtube.com/watch?v=nTECQ_uvOBc&ab_channel=LearningBayesianStatistics), hosted by Alex Andorra. This was the first live episode on the podcast with an audience and it took place at [StanCon 2024](https://mc-stan.org/learn-stan/stancon-talks.html#stancon-2024-oxford) at Oxford University.Our episode:<span style="color:Salmon">Exploring the Future of Stan</span>.
+🎙️ (2024) I returned as a co-guest with fellow Stan developer Brian Ward on the podcast [_learning Bayesian Statistics_](https://www.youtube.com/watch?v=nTECQ_uvOBc&ab_channel=LearningBayesianStatistics), hosted by Alex Andorra. This was the first live episode on the podcast with an audience and it took place at [StanCon 2024](https://mc-stan.org/learn-stan/stancon-talks.html#stancon-2024-oxford) at Oxford University.Our episode:<span style="color:Salmon">Exploring the Future of Stan</span>.
 
 🎙️ (2024) I was a guest on the podcast [_learning Bayesian statistics_](https://learnbayesstats.com/episode/90-demystifying-mcmc-variational-inference-charles-margossian/), hosted by Alex Andorra. Our episode: <span style="color:Salmon">Demystifying MCMC and Variational Inference</span>.
 

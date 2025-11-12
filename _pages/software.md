@@ -1,7 +1,7 @@
 ---
 title: "Open-source Software"
 permalink: /software/
-author_profile: yes
+author_profile: no
 output:
   html_document:
     df_print: paged
