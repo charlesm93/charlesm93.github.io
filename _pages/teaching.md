@@ -7,20 +7,20 @@ author_profile: no
 
 ## Courses at UBC
 
-📙 (2025/6) STAT 548 PhD Qualifying Course [[description](https://www.stat.ubc.ca/phd-qualifying-course), [paper list](https://charlesm93.github.io/files/teaching/margossian_stat548.pdf)]
+📙 (2025/6) <span style="color:Salmon">STAT 548 PhD Qualifying Course</span> [[description](https://www.stat.ubc.ca/phd-qualifying-course), [paper list](https://charlesm93.github.io/files/teaching/margossian_stat548.pdf)]
 
-📙 (Winter 2026) STAT 547 Topics Class in Statistics: "Bayesian Workflow" [[draft course website](https://charlesm93.github.io/stat547/)]
+📙 (Winter 2026) <span style="color:Salmon">STAT 547 Topics Class in Statistics: Bayesian Workflow</span> [[draft course website](https://charlesm93.github.io/stat547/)]
 
 
 ## Books
 
-I'm contributor to the following upcoming textbooks.
+I'm contributor to the following upcoming books.
 
-📚(2024+) _Handbook of Markov chain Monte Carlo_. Edited by Radu V. Craiu, Dootika Vats,
+📚 (2024+) _Handbook of Markov chain Monte Carlo_. Edited by Radu V. Craiu, Dootika Vats,
 Galin L. Jones, Steve Brooks, Andrew Gelman and Xiao-Li Meng.
-Book chapter: [For how many iterations should we run Markov chain Monte Carlo](https://arxiv.org/abs/2311.02726)
+My chapter with Andrew Gelman: [For how many iterations should we run Markov chain Monte Carlo?](https://arxiv.org/abs/2311.02726)
 
-📚(2020+) [_Bayesian Workflow_](https://sites.stat.columbia.edu/gelman/workflow-book/).
+📚 (2020+) [_Bayesian Workflow_](https://sites.stat.columbia.edu/gelman/workflow-book/).
 Led by Andrew Gelman, Aki Vehtari, and Richard McElreath.
 
 
