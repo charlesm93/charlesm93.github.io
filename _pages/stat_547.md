@@ -14,17 +14,17 @@ output:
 [Syllabus](https://charlesm93.github.io/files/teaching/winter26_stat547.pdf)
 
 
-# 📝 Course notes
+# Course notes
 * [Why Bayesian Workflow?](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture1.pdf)
 
 [Course Code](https://github.com/charlesm93/stat547-Bayesian_workflow)
 
-# 📙 References
+# References
 * Bayesian Workflow (draft) --- upcoming
 * [Stan Documentation](https://mc-stan.org/docs/)
 
 
-# 📚 Reading list
+# Reading list
 
 Week 2
 ---
