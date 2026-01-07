@@ -21,6 +21,9 @@ Course notes
 
 [Course Code](https://github.com/charlesm93/stat547-Bayesian_workflow)
 
+[Homework assignment](https://charlesm93.github.io/files/teaching/winter26_stat547.pdf)
+
+
 References
 ---
 * Bayesian Workflow (draft) --- upcoming
