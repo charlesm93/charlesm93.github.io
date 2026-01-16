@@ -66,3 +66,4 @@ Reading list
 
 * <span style="color:Salmon">Bayesian Workflow</span>. Gelman, Vehtari, McElreath et al. Any one chapter in Part IV.
 * <span style="color:Salmon">Philosophy and the Practice of Bayesian Analysis</span> Gelman and Shalizi. [[pdf](https://sites.stat.columbia.edu/gelman/research/published/philosophy.pdf)]
+* <span style="color:Salmon">Towards a Principled Bayesian Workflow</span> Betancourt [[link](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html)]
