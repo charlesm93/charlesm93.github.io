@@ -11,13 +11,16 @@ font-size: 12pt
 
 I'm an assistant professor of Statistics at the
 [University of British Columbia](https://www.stat.ubc.ca/).
+I'm also a member of the Centre for AI Decision-Making and Action
+([CAIDA](https://caida.ubc.ca/)) and a core [Stan](http://mc-stan.org/) developer.
+
 My research primarily focuses on the development and understanding of
 algorithms that underlie probabilistic programming languages, especially when
 used for Bayesian modeling and Probabilistic Machine Learning.
 I'm interested in the application of these methods in several areas,
 including Public Health, Biomedical Engineering, Ecology and Astrophysics.
 An outcome of this research is the development of high-performance open-source
-software, such as [Stan](http://mc-stan.org/), which empower scientists to
+software, such as Stan, which empower scientists to
 analyze complex data.
 
 You can find out more by browsing this website or looking at my
@@ -27,21 +30,21 @@ You can find out more by browsing this website or looking at my
 
 🦋Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
-* [Applications for UBC graduate programs in Statistics](https://www.stat.ubc.ca/graduate-admissions)
-are now open! The deadline for the PhD program is
-<span style="color:Salmon">December 1st</span>.
-
-* December 15th-18th 2025: I will attend the [International Conference on Statistics
-and Data Science](https://sites.google.com/view/ims-icsds2025/home) in
-Sevilla, Spain. There I will give an invited talk on
-<span style="color:Salmon">Matching Symmetries with variational inference</span>.
-
 * June 28th - July 3rd 2026: I will attend the [ISBA: World Meeting](https://isba2026.github.io/)
 in Nagoya, Japan. There, I will speak at the session on
 <span style="color:Salmon">Principled Tuning of Markov chain Monte Carlo</span>.
 
 
 ## Old News
+
+* [Applications for UBC graduate programs in Statistics](https://www.stat.ubc.ca/graduate-admissions)
+are now open! The deadline for the PhD program is
+<span style="color:Salmon">December 1st</span>.
+
+* December 15th-18th 2025: I attendws the [International Conference on Statistics
+and Data Science](https://sites.google.com/view/ims-icsds2025/home) in
+Sevilla, Spain. There I gave an invited talk on
+<span style="color:Salmon">Matching Symmetries with variational inference</span>.
 
 * October 2nd 2025: I spoke at the Department
 of Statistical Sciences's seminar at the University of Toronto about (once again)
@@ -87,4 +90,4 @@ on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410
 * I accepted a position as an assistant professor of statistics at UBC: here's
 a [short statement](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
 
-(updated November 2025)
+(updated January 2026)
