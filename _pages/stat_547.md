@@ -25,6 +25,7 @@ Course notes
 
 [Homework assignment](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_homework.pdf)
 
+[Final project guidelines](https://charlesm93.github.io/files/teaching/winter26_stat547/final_project.pdf)
 
 References
 ---
