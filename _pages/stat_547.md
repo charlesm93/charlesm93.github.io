@@ -20,6 +20,7 @@ Course notes
 * [Markov chain Monte Carlo](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture2.pdf)
 * [Prediction and model comparison](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture3.pdf)
 * [Hamiltonian Monte Carlo](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture4.pdf)
+* [Bayesian modeling and MCMC on modern hardware](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture5.pdf)
 
 [Course Code](https://github.com/charlesm93/stat547-Bayesian_workflow)
 
