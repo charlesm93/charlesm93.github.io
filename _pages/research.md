@@ -7,7 +7,7 @@ output:
     df_print: paged
 ---
 
-My research concerns statistics and probabilistic machine learning, often with an emphasis on Bayesian modeling. Some keywords:
+My research concerns Statistics and Probabilistic Machine Learning, often with an emphasis on Bayesian modeling. Some keywords:
 
 * Markov chain Monte Carlo
 * Variational inference
@@ -16,11 +16,11 @@ My research concerns statistics and probabilistic machine learning, often with a
 * Automatic differentiation
 
 I am also keen to work on scientific applications, and I have had fruitful collaborations in
-pharmacometrics, epidemiology, and astrophysics.
+Pharmacometrics, Epidemiology, and Astrophysics.
 
 ## Papers
 
-📄 (2025) <span style="color:Salmon">Generalized Guarantees for Variational Inference in the Presence of Even and Elliptical Symmetry.</span> C.Margossian and L. Saul. [[pdf](https://arxiv.org/abs/2511.01064)]
+📄 (2025) <span style="color:Salmon">Generalized Guarantees for Variational Inference in the Presence of Even and Elliptical Symmetry.</span> C.Margossian and L. Saul. [[pdf](https://arxiv.org/abs/2511.01064)] <span class="tag tag-vi">vi</span>
 
 📄 (2025) <span style="color:Salmon">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning.</span> N. Huang et al. _Neural Information Processing Systems: Datasets and Benchmarks_ [[pdf](https://arxiv.org/abs/2507.03707)] <span class="tag tag-aph">astro</span>
 

@@ -28,7 +28,7 @@ You can find out more by browsing this website or looking at my
 
 ## News
 
-🦋Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
+🦋 Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
 * June 28th - July 3rd 2026: I will attend the [ISBA: World Meeting](https://isba2026.github.io/)
 in Nagoya, Japan. There, I will speak at the session on
@@ -41,7 +41,7 @@ in Nagoya, Japan. There, I will speak at the session on
 are now open! The deadline for the PhD program is
 <span style="color:Salmon">December 1st</span>.
 
-* December 15th-18th 2025: I attendws the [International Conference on Statistics
+* December 15th-18th 2025: I attended the [International Conference on Statistics
 and Data Science](https://sites.google.com/view/ims-icsds2025/home) in
 Sevilla, Spain. There I gave an invited talk on
 <span style="color:Salmon">Matching Symmetries with variational inference</span>.
@@ -90,4 +90,4 @@ on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410
 * I accepted a position as an assistant professor of statistics at UBC: here's
 a [short statement](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
 
-(updated January 2026)
+(updated February 2026)
