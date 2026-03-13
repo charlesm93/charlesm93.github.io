@@ -20,6 +20,10 @@ Pharmacometrics, Epidemiology, and Astrophysics.
 
 ## Papers
 
+📄 (2026) <span style="color:Salmon">Don’t Disregard the Data for Lack of a Likelihood: Bayesian
+Synthetic Likelihood for Enhanced Multilevel Network Meta-Regression</span>
+H. Campbell, C. Margossian, J. P. Jansen and P. Gustafson. [[pdf](https://arxiv.org/abs/2603.11019)] <span class="tag tag-pmx">health</span> <span class="tag tag-mc">mcmc</span> <span class="tag tag-hm">stan</span>
+
 📄 (2025) <span style="color:Salmon">Generalized Guarantees for Variational Inference in the Presence of Even and Elliptical Symmetry.</span> C.Margossian and L. Saul. [[pdf](https://arxiv.org/abs/2511.01064)] <span class="tag tag-vi">vi</span>
 
 📄 (2025) <span style="color:Salmon">CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning.</span> N. Huang et al. _Neural Information Processing Systems: Datasets and Benchmarks_ [[pdf](https://arxiv.org/abs/2507.03707)] <span class="tag tag-aph">astro</span>
