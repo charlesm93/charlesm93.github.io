@@ -20,6 +20,9 @@ Pharmacometrics, Epidemiology, and Astrophysics.
 
 ## Papers
 
+📄 (2026) <span style="color:Salmon">Efficient Sampling for Ising and Potts Models using Auxiliary Gaussian Variables</span>
+C. Margossian, C. Zhong and S. Mukherjee. [[pdf](https://arxiv.org/abs/2110.10801)] <span class="tag tag-mc">mcmc</span> <span class="tag tag-aph">phys</span>
+
 📄 (2026) <span style="color:Salmon">Don’t Disregard the Data for Lack of a Likelihood: Bayesian
 Synthetic Likelihood for Enhanced Multilevel Network Meta-Regression</span>
 H. Campbell, C. Margossian, J. P. Jansen and P. Gustafson. [[pdf](https://arxiv.org/abs/2603.11019)] <span class="tag tag-pmx">health</span> <span class="tag tag-mc">mcmc</span> <span class="tag tag-hm">stan</span>

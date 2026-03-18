@@ -8,22 +8,32 @@ tags:
 ---
 
 During my academic job search, I was sometimes asked what my favorite paper was.
-I like this question because it's an invitation to discuss not simply a good
-paper but also a good story, one that dives into the inevitable setbacks
-of research, the joy of overcoming them and the beauty of doing it all with
-great colleagues. Today, I'd like to share one such story.
+I liked this question because it is an invitation to discuss not just the paper
+itself but also the story behind it---most likely, a story that dives into the
+inevitable setbacks of doing research and the struggle to overcome these
+setbacks, usually with the fortuitous help of some great colleagues.
+Chances are, you can relate: maybe you just finished a difficult proof; or
+maybe you've just realized a piece of code doesn't work; or maybe you've been
+stuck on that a mathematical argument for a while and you just can't quite
+figure out that one detail that keeps resisting you.
 
+Today, I'd like to share a paper and a story that made me go through all
+(emotional) phases of research.
 The paper is [Variational Inference for Uncertainty Quantification](https://arxiv.org/abs/2403.13748),
-written with Lawrence Saul and Loucas Pillaud-Vivien to appear in the
-_Journal of Machine Learning Research_ and here's the abstract:
-
-_Given an intractable distribution $p$, the problem of variational inference (VI) is to find the best approximation from some more tractable family $\mathcal Q$. Commonly, one chooses $\mathcal Q$ to be a family of factorized distributions (i.e., the mean-field assumption), even though $p$ itself does not factorize. We show that this mismatch can lead to an impossibility theorem: if $p$ does not factorize and furthermore has a non-diagonal covariance matrix, then any factorized approximation $q \in \mathcal Q$ can correctly estimate at most one of the following three measures of uncertainty: (i) the marginal variances, (ii) the marginal precisions, or (iii) the generalized variance (which for elliptical distributions is closely related to the entropy). In practice, the best variational approximation in $\mathcal Q$ is found by minimizing some divergence $D(q,p)$ between distributions, and so we ask: how does the choice of divergence determine which measure of uncertainty, if any, is correctly estimated by VI? We consider the classic Kullback-Leibler divergences, the more general $\alpha$-divergences, and a score-based divergence which compares $\nabla \log p$ and $\nabla \log q$. We thoroughly analyze the case where $p$ is a Gaussian and $q$ is a (factorized) Gaussian. In this setting, we show that all the considered divergences can be ordered based on the estimates of uncertainty they yield as objective functions for VI. Finally, we empirically evaluate the validity of this ordering when the target distribution p is not Gaussian._
+written with Lawrence Saul and Loucas Pillaud-Vivien.
 
 **Disclaimer:** During the job search, this was _not_ the paper I spoke about :)
 My favorite paper (that I've written) is probably still the [nested $\widehat R$ paper](https://arxiv.org/abs/2110.13017).
 But when I got home from an interview, I started thinking, the VI for uncertainty
 _could've_ also been a good paper to discuss and I drafted this blog post way
-back in February.
+back in February 2025.
+
+The paper has now appeared in the _Journal of Machine Learning Research_.
+Here's the abstract:
+
+_Given an intractable distribution $p$, the problem of variational inference (VI) is to find the best approximation from some more tractable family $\mathcal Q$. Commonly, one chooses $\mathcal Q$ to be a family of factorized distributions (i.e., the mean-field assumption), even though $p$ itself does not factorize. We show that this mismatch can lead to an impossibility theorem: if $p$ does not factorize and furthermore has a non-diagonal covariance matrix, then any factorized approximation $q \in \mathcal Q$ can correctly estimate at most one of the following three measures of uncertainty: (i) the marginal variances, (ii) the marginal precisions, or (iii) the generalized variance (which for elliptical distributions is closely related to the entropy). In practice, the best variational approximation in $\mathcal Q$ is found by minimizing some divergence $D(q,p)$ between distributions, and so we ask: how does the choice of divergence determine which measure of uncertainty, if any, is correctly estimated by VI? We consider the classic Kullback-Leibler divergences, the more general $\alpha$-divergences, and a score-based divergence which compares $\nabla \log p$ and $\nabla \log q$. We thoroughly analyze the case where $p$ is a Gaussian and $q$ is a (factorized) Gaussian. In this setting, we show that all the considered divergences can be ordered based on the estimates of uncertainty they yield as objective functions for VI. Finally, we empirically evaluate the validity of this ordering when the target distribution p is not Gaussian._
+
+
 
 (February 9th 2025)
 
