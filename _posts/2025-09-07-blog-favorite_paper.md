@@ -14,10 +14,10 @@ inevitable setbacks of doing research and the struggle to overcome these
 setbacks, usually with the fortuitous help of some great colleagues.
 Chances are, you can relate: maybe you just finished a difficult proof; or
 maybe you've just realized a piece of code doesn't work; or maybe you've been
-stuck on that a mathematical argument for a while and you just can't quite
+stuck on that mathematical argument for a while and you just can't quite
 figure out that one detail that keeps resisting you.
 
-Today, I'd like to share a paper and a story that made me go through all
+Today, I'd like to share a paper and a story that made me go through many
 (emotional) phases of research.
 The paper is [Variational Inference for Uncertainty Quantification](https://arxiv.org/abs/2403.13748),
 written with Lawrence Saul and Loucas Pillaud-Vivien.
