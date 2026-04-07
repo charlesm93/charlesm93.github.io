@@ -31,7 +31,7 @@ You can find out more by browsing this website or looking at my
 🦋 Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
 * May 29th-30th: I will attend the Workshop on 
-_Statistical Modeling, Causal Inference, and Social Science_ in honor of
+[Statistical Modeling, Causal Inference, and Social Science](https://gelman60.com) in honor of
 Andrew Gelman's 60th birthday in New York City.
 
 * June 6th-12th: I will participate in the _Voyages beyond Lambda Cold Dark
