@@ -20,6 +20,9 @@ Pharmacometrics, Epidemiology, and Astrophysics.
 
 ## Papers
 
+📄 (2026) <span style="color:Salmon">Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models</span>
+J. Lai, C. Margossian and D. Sheldon. [[pdf](https://arxiv.org/abs/2605.20345)] <span class="tag tag-mc">mcmc</span> <span class="tag tag-la">laplace</span> <span class="tag tag-hm">hier.</span>
+
 📄 (2026) <span style="color:Salmon">Efficient Sampling for Ising and Potts Models using Auxiliary Gaussian Variables</span>
 C. Margossian, C. Zhong and S. Mukherjee. [[pdf](https://arxiv.org/abs/2110.10801), [code](https://github.com/charlesm93/potts_simulation/tree/main)] <span class="tag tag-mc">mcmc</span> <span class="tag tag-aph">phys</span>
 
