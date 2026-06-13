@@ -9,25 +9,12 @@ output:
 
 ❄️ Winter 2026
 
-[UBC link](https://courses.students.ubc.ca/browse-courses/course/COURSE_DEFINITION-STVC-174486_20260101)
-
-[Syllabus](https://charlesm93.github.io/files/teaching/winter26_stat547.pdf)
-
-
-Course notes
----
-* [Why Bayesian Workflow?](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture1.pdf)
-* [Markov chain Monte Carlo](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture2.pdf)
-* [Prediction and model comparison](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture3.pdf)
-* [Hamiltonian Monte Carlo](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture4.pdf)
-* [Bayesian modeling and MCMC on modern hardware](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture5.pdf)
-* [Variational inference](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_lecture6.pdf)
-
-[Course Code](https://github.com/charlesm93/stat547-Bayesian_workflow)
-
-[Homework assignment](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_homework.pdf)
-
-[Final project guidelines](https://charlesm93.github.io/files/teaching/winter26_stat547/final_project.pdf)
+* 🌍 [UBC link](https://courses.students.ubc.ca/browse-courses/course/COURSE_DEFINITION-STVC-174486_20260101)
+* 🗺 ️[Syllabus](https://charlesm93.github.io/files/teaching/winter26_stat547.pdf)
+* 📕 [Course book](https://charlesm93.github.io/files/teaching/winter26_stat547/course_book.pdf)
+* 👾 [Course code](https://github.com/charlesm93/stat547-Bayesian_workflow)
+* 📓 [Homework assignment](https://charlesm93.github.io/files/teaching/winter26_stat547/stat547_homework.pdf)
+* 🧭 [Final project guidelines](https://charlesm93.github.io/files/teaching/winter26_stat547/final_project.pdf)
 
 References
 ---
