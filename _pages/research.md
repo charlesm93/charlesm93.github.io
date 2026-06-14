@@ -20,6 +20,8 @@ Pharmacometrics, Epidemiology, and Astrophysics.
 
 ## Papers
 
+📄 (2026) <span style="color:Salmon">A largescale empirical comparison of default optimizers for variational inference.</span> T.Campbell, J.Huggins, K.Kim and C.Margossian. [[pdf](https://arxiv.org/abs/2606.07841)] <span class="tag tag-vi">vi</span>
+
 📄 (2026) <span style="color:Salmon">Generalized Guarantees for Variational Inference in the Presence of Even and Elliptical Symmetry.</span> C.Margossian, I. Rankin and L. Saul. [[pdf](https://arxiv.org/abs/2511.01064)] <span class="tag tag-vi">vi</span>
 
 📄 (2026) <span style="color:Salmon">Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models</span>
