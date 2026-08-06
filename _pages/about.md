@@ -30,25 +30,25 @@ You can find out more by browsing this website or looking at my
 
 🦋 Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
-* May 29th-30th: I will attend the Workshop on 
-[Statistical Modeling, Causal Inference, and Social Science](https://gelman60.com) in honor of
-Andrew Gelman's 60th birthday in New York City.
-
-* June 6th-12th: I will participate in the _Voyages beyond Lambda Cold Dark
-Matter_ workshop in the Aegan sea in Greece. The workshop brings together
-a small group of physicists and astrophysicists (and the occasional statistician)
-on a sailboat to exchange research ideas and have in-depth discussions.
-
-* June 28th-July 3rd 2026: I will attend the [ISBA: World Meeting](https://isba2026.github.io/)
-in Nagoya, Japan. There, I will speak at the session on
-<span style="color:Salmon">Principled Tuning of Markov chain Monte Carlo</span>.
-
 * August 17th-21st 2026: I will go to [StanCon](https://www.stancon2026.org)
 in Uppsala, Sweden. In addition to connecting with Stan users and catching up
 with fellow developers, I will give a talk on the
 <span style="color:Salmon">Embedded Laplace Approximation in Stan</span>.
 
 ## Old News
+
+* June 28th-July 3rd 2026: I attended the [ISBA: World Meeting](https://isba2026.github.io/)
+in Nagoya, Japan. There, I spoke at the session on
+<span style="color:Salmon">Principled Tuning of Markov chain Monte Carlo</span>.
+
+* June 6th-12th: I participated in the _Voyages beyond $\Lambda$-CDM_ workshop 
+in the Aegan sea in Greece. The workshop brought together
+a small group of physicists and astrophysicists (and one statistician)
+on a sailboat to exchange research ideas and have in-depth discussions.
+
+* May 29th-30th: I attended the Workshop on 
+[Statistical Modeling, Causal Inference, and Social Science](https://gelman60.com) in honor of
+Andrew Gelman's 60th birthday in New York City.
 
 * December 15th-18th 2025: I attended the [International Conference on Statistics
 and Data Science](https://sites.google.com/view/ims-icsds2025/home) in
@@ -99,4 +99,4 @@ on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410
 * I accepted a position as an assistant professor of statistics at UBC: here's
 a [short statement](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
 
-(updated February 2026)
+(updated August 2026)
