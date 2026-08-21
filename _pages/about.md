@@ -11,8 +11,8 @@ font-size: 12pt
 
 I'm an assistant professor of Statistics at the
 [University of British Columbia](https://www.stat.ubc.ca/).
-I'm also a member of the Centre for AI Decision-Making and Action
-([CAIDA](https://caida.ubc.ca/)) and a core [Stan](http://mc-stan.org/) developer.
+I'm also a a core [Stan](http://mc-stan.org/) developer and a member of
+the Centre for AI Decision-Making and Action ([CAIDA](https://caida.ubc.ca/)).
 
 My research primarily focuses on the development and understanding of
 algorithms that underlie probabilistic programming languages, especially when
@@ -30,23 +30,26 @@ You can find out more by browsing this website or looking at my
 
 🦋 Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
 
-* August 17th-21st 2026: I will go to [StanCon](https://www.stancon2026.org)
-in Uppsala, Sweden. In addition to connecting with Stan users and catching up
-with fellow developers, I will give a talk on the
-<span style="color:Salmon">Embedded Laplace Approximation in Stan</span>.
 
 ## Old News
+
+* August 17th-21st 2026: I attended [StanCon](https://www.stancon2026.org)
+in Uppsala, Sweden. In addition to connecting with Stan users and catching up
+with fellow developers, I gave a talk on the
+[Embedded Laplace Approximation in Stan](https://www.youtube.com/watch?v=DDTPCUD3D44)
+and presented a poster on
+[Bayesian Synthetic Likelihood for Enhanced Multilevel Network Meta-Regression](http://charlesm93.github.io/files/BSL_poster.pdf).
 
 * June 28th-July 3rd 2026: I attended the [ISBA: World Meeting](https://isba2026.github.io/)
 in Nagoya, Japan. There, I spoke at the session on
 <span style="color:Salmon">Principled Tuning of Markov chain Monte Carlo</span>.
 
-* June 6th-12th: I participated in the _Voyages beyond $\Lambda$-CDM_ workshop 
+* June 6th-12th: I participated in the _Voyages beyond $\Lambda$-CDM_ workshop
 in the Aegan sea in Greece. The workshop brought together
 a small group of physicists and astrophysicists (and one statistician)
 on a sailboat to exchange research ideas and have in-depth discussions.
 
-* May 29th-30th: I attended the Workshop on 
+* May 29th-30th: I attended the Workshop on
 [Statistical Modeling, Causal Inference, and Social Science](https://gelman60.com) in honor of
 Andrew Gelman's 60th birthday in New York City.
 
@@ -77,26 +80,5 @@ publication at _NeurIPS_ in the dataset & benchmarks track.
 [Variational Inference for Uncertainty Quantification: an Analysis of Trade-offs](https://arxiv.org/abs/2403.13748)
  was accepted for publication in the _Journal of Machine Learning Research_.
 
-* August 26-27 2025: I attended the [CANSSI Monte Carlo workshop](https://sites.google.com/view/mc-workshop-2025/home)
-at UBC. There I'll give a talk on
-<span style="color:Salmon">Assessing the Convergence of MCMC when running many
-short chains</span>.
-
-* June 29 - July 06 2025: I taught at the [summer school on cryptography,
-statistics and machine learning](https://mathschool.ysu.am/) in Tsaghkadzor, Armenia.
-My course: <span style="color:Salmon">Bayesian Statistics: a practical introduction.</span> [[slides](https://charlesm93.github.io/files/Bayesian_intro_slides.pdf)].
-
-* June 16-20 2025: I attended [BayesComp](https://bayescomp2025.sg/) in
-Singapore to chair a session on <span style="color:Salmon">Parallel Computation
-for Markov chain Monte Carlo</span>, and gave an invited talk at the session
-on <span style="color:Salmon">Advances in Variational Inference</span>.
-
-* May 3-5 2025: Lawrence Saul and I received the
-<span style="color:Salmon">best paper award</span> at
-[AISTATS 2025](https://virtual.aistats.org/) for our paper
-on [Variational Inference in Location-Scale Families](https://arxiv.org/abs/2410.11067).
-
-* I accepted a position as an assistant professor of statistics at UBC: here's
-a [short statement](https://charlesm93.github.io/files/letter_move_to_UBC.pdf).
 
 (updated August 2026)
