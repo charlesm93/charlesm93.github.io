@@ -9,14 +9,10 @@ Since August 2025, I'm an assistant professor of statistics at the
 [University of British Columbia](https://www.stat.ubc.ca/) in Vancouver.
 
 I was born and raised in Paris, France. My high-school degree was in Science,
-with a specialty in Mathematics. I was also interested in the humanities
-and _almost_ pursued a degree in Literature instead of Science. Despite my
-commitment to the natural sciences, I was fortunate to be one of the students
-that represented my school for the _concours général de littérature_ and
-the _concours d'anglais_ (but I didn't win either contest 😶).
+with a specialty in Mathematics.
 
-I then moved to the U.S and studied Physics at Yale University within the
-context of a liberal arts education. I did research in Astronomy with the
+I then moved to the U.S and studied Physics at Yale University. 
+I did research in Astronomy with the
 [exoplanet group](http://exoplanets.astro.yale.edu/), under the supervision of
 professor [Debra Fischer](http://exoplanets.astro.yale.edu/people/dfischer.php)
 and Dr. [Ji Wang](https://www.asc.ohio-state.edu/wang.12220/).

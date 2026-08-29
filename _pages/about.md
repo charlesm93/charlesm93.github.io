@@ -26,10 +26,16 @@ analyze complex data.
 You can find out more by browsing this website or looking at my
 [CV](http://charlesm93.github.io/files/charlesmcv.pdf).
 
+
+## Research group
+
+* [Isaac Rankin](https://1saacrankin.github.io), PhD student, co-supervised
+with [Saif Syed](https://www.saifsyed.com)
+
+
 ## News
 
 🦋 Sometimes I post on BlueSky social via [@charlesm993.bsky.social](https://bsky.app/profile/charlesm993.bsky.social).
-
 
 ## Old News
 
