@@ -7,9 +7,10 @@ author_profile: no
 
 ## Courses at UBC
 
-📙 (Winter 2026) <span style="color:Salmon">STAT 547 Topics Class in Statistics: Bayesian Workflow</span> [[course website](https://charlesm93.github.io/stat547/)]
+📙 (2026/7) <span style="color:Salmon">STAT 548 PhD Qualifying Course</span> [[description](https://www.stat.ubc.ca/phd-qualifying-course), [paper list](https://charlesm93.github.io/files/teaching/margossian_stat548.pdf)]
 
-📙 (2025/6) <span style="color:Salmon">STAT 548 PhD Qualifying Course</span> [[description](https://www.stat.ubc.ca/phd-qualifying-course), [paper list](https://charlesm93.github.io/files/teaching/margossian_stat548.pdf)]
+
+📙 (Winter 2026) <span style="color:Salmon">STAT 547 Topics Class in Statistics: Bayesian Workflow</span> [[course website](https://charlesm93.github.io/stat547/)]
 
 
 ## Books
