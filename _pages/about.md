@@ -32,6 +32,7 @@ You can find out more by browsing this website or looking at my
 * [Isaac Rankin](https://1saacrankin.github.io), PhD student, co-supervised
 with [Saif Syed](https://www.saifsyed.com)
 
+If you're interested in joining my research group, [read this page](https://charlesm93.github.io/group/).
 
 ## News
 
@@ -87,4 +88,4 @@ publication at _NeurIPS_ in the dataset & benchmarks track.
  was accepted for publication in the _Journal of Machine Learning Research_.
 
 
-(updated August 2026)
+(updated September 2026)
