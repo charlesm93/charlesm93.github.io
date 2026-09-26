@@ -25,7 +25,7 @@ Pharmacometrics, Epidemiology, and Astrophysics.
 📄 (2026) <span style="color:Salmon">Generalized Guarantees for Variational Inference in the Presence of Even and Elliptical Symmetry.</span> C.Margossian, I. Rankin and L. Saul. [[pdf](https://arxiv.org/abs/2511.01064), [code](https://github.com/charlesm93/VI_elliptical_symmetry)] <span class="tag tag-vi">vi</span>
 
 📄 (2026) <span style="color:Salmon">Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models</span>
-J. Lai, C. Margossian and D. Sheldon. [[pdf](https://arxiv.org/abs/2605.20345)] <span class="tag tag-mc">mcmc</span> <span class="tag tag-la">laplace</span> <span class="tag tag-hm">hier.</span>
+J. Lai, C. Margossian and D. Sheldon. _Neural Information Processing Systems_ (Spotlight) [[pdf](https://arxiv.org/abs/2605.20345)] <span class="tag tag-mc">mcmc</span> <span class="tag tag-la">laplace</span> <span class="tag tag-hm">hier.</span>
 
 📄 (2026) <span style="color:Salmon">Efficient Sampling for Ising and Potts Models using Auxiliary Gaussian Variables</span>
 C. Margossian, C. Zhong and S. Mukherjee. [[pdf](https://arxiv.org/abs/2110.10801), [code](https://github.com/charlesm93/potts_simulation/tree/main)] <span class="tag tag-mc">mcmc</span> <span class="tag tag-aph">phys</span>
